@@ -1,0 +1,78 @@
+---
+toc: false
+format: 
+  html:
+    css: styles.css
+---
+
+
+<div class="background-video-container">
+  <video autoplay loop muted playsinline>
+    <source src="Backgroundrotating.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
+<div id="home"></div>
+
+
+![](logo.png){fig-align="center" width=642}
+
+**Flaky** is a cozy home microbakery based in Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to gooey, nostalgic flavors.
+
+# About {#about}
+
+Hi, I’m Marianna 🍓  
+I’m a researcher by profession — and a pastry chef by heart.
+
+Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career.  
+Growing up, I spent much of my childhood travelling through the USA, where I fell in love with how flaky American pies are, cookies, and all things sweet.
+
+Now, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.  
+
+# Sweets {#sweets}
+Why pies? 
+Flaky, buttery layers hold sweet fruits, creamy fillings, or rich spices, baked slowly until golden and bubbling with comfort.
+
+Made just for you 💛
+
+Every pie and treat is baked fresh to order — I only bake after a reservation, so each creation gets the care and time it deserves.
+I’m always happy to adapt recipes or flavors for your tastes, and I love working on special requests
+
+
+# Products {#products}
+
+## Flaky Pies
+**Blueberry Cardamom-y Pie**  
+Juicy blueberries with fragrant cardamom in a golden crust.  
+
+**Cinnamon Apple Pie with Crumble Topping**  
+Cozy spiced apples tucked under a buttery crumble.  
+
+**Salted Maple Pecan Pie**  
+Rich maple sweetness balanced with toasty pecans and a hint of salt.  
+
+
+## Crumble Pies
+**Banana Pudding Pie**  
+Layers of banana, custard, and cookie crumble in a buttery crust.  
+
+**Key Lime Pie**  
+Zesty and creamy with a bright citrus punch and a tender crumb base.  
+
+## Seasonal
+**Pumpkin Pie**  
+Creamy spiced pumpkin custard in a crisp, flaky shell — autumn in a slice.  
+
+
+## Treats & More
+**Sesame Rice Krispies Treats**  
+Chewy, toasty-sweet bars with a nutty sesame twist.  
+
+**Cornbread with Bell Pepper Cream and Feta**  
+Savory-sweet cornbread topped with creamy peppers and tangy feta.  
+
+<div class="nav-button">
+  <a href="contact.qmd" class="btn-link">Prices and Order</a>
+</div>

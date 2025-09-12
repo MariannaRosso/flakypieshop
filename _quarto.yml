@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Flaky"
+  search: false
+  navbar:
+   left:
+    - href: index.qmd#home
+      text: Home
+    - href: index.qmd#about
+      text: About
+    - href: index.qmd#products
+      text: Products
+    - href: contact.qmd
+      text: Order
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    include-in-header: head.html
+
+
+editor: visual
+

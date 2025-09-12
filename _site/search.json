@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Your browser does not support the video tag.\nFlaky is a cozy home microbakery based in Zürich, lovingly baking American-style pies and treats — from buttery crusts to gooey, nostalgic flavors."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#flaky-pies",
+    "href": "index.html#flaky-pies",
+    "title": "About",
+    "section": "Flaky Pies",
+    "text": "Flaky Pies\nBlueberry Cardamom-y Pie\nJuicy blueberries with fragrant cardamom in a golden crust.\nCinnamon Apple Pie with Crumble Topping\nCozy spiced apples tucked under a buttery crumble.\nSalted Maple Pecan Pie\nRich maple sweetness balanced with toasty pecans and a hint of salt."
+  },
+  {
+    "objectID": "index.html#crumbly-pies",
+    "href": "index.html#crumbly-pies",
+    "title": "About",
+    "section": "Crumbly Pies",
+    "text": "Crumbly Pies"
+  },
+  {
+    "objectID": "index.html#seasonal-pies",
+    "href": "index.html#seasonal-pies",
+    "title": "About",
+    "section": "Seasonal Pies",
+    "text": "Seasonal Pies"
+  },
+  {
+    "objectID": "index.html#treats-and-other-classics",
+    "href": "index.html#treats-and-other-classics",
+    "title": "About",
+    "section": "Treats and Other Classics",
+    "text": "Treats and Other Classics"
+  },
+  {
+    "objectID": "index.html#crumble-pies",
+    "href": "index.html#crumble-pies",
+    "title": "About",
+    "section": "Crumble Pies",
+    "text": "Crumble Pies\nBanana Pudding Pie\nLayers of banana, custard, and cookie crumble in a buttery crust.\nKey Lime Pie\nZesty and creamy with a bright citrus punch and a tender crumb base."
+  },
+  {
+    "objectID": "index.html#treats-more",
+    "href": "index.html#treats-more",
+    "title": "About",
+    "section": "Treats & More",
+    "text": "Treats & More\nSesame Rice Krispies Treats\nChewy, toasty-sweet bars with a nutty sesame twist.\nCornbread with Bell Pepper Cream and Feta\nSavory-sweet cornbread topped with creamy peppers and tangy feta.\n\nPrices and Order"
+  },
+  {
+    "objectID": "index.html#seasonal",
+    "href": "index.html#seasonal",
+    "title": "About",
+    "section": "Seasonal",
+    "text": "Seasonal\nPumpkin Pie\nCreamy spiced pumpkin custard in a crisp, flaky shell — autumn in a slice."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Flaky",
+    "section": "",
+    "text": "Your browser does not support the video tag. \n\n\n\n\n  &lt;div class=\"form-row\"&gt;\n    &lt;div class=\"col\"&gt;\n      &lt;input type=\"text\" name=\"name\" class=\"form-control\" placeholder=\"Full Name\" required&gt;\n    &lt;/div&gt;\n    &lt;div class=\"col\"&gt;\n      &lt;input type=\"email\" name=\"email\" class=\"form-control\" placeholder=\"Email Address\" required&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"form-group\"&gt;\n  &lt;textarea placeholder=\"Your Message\" class=\"form-control\" name=\"message\" rows=\"10\" required&gt;&lt;/textarea&gt;\n&lt;/div&gt;\n&lt;button type=\"submit\" class=\"btn btn-lg btn-dark btn-block\"&gt;Submit Form&lt;/button&gt;"
+  }
+]
