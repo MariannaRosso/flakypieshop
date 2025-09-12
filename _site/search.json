@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "Your browser does not support the video tag.\nFlaky is a cozy home microbakery based in Zürich, lovingly baking American-style pies and treats — from buttery crusts to gooey, nostalgic flavors."
+    "text": "Your browser does not support the video tag. \n:::\n\n\n\n\n\n\n\n\nFlaky is a cozy home microbakery based in Zürich, lovingly baking American-style pies and treats — from buttery crusts to gooey, nostalgic flavors.\n\n\nHi, I’m Marianna 🍓\nI’m a researcher by profession — and a pastry chef by heart.\nOriginally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career.\nGrowing up, I spent much of my childhood travelling through the USA, where I fell in love with how flaky American pies are, cookies, and all things sweet.\nNow, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.\n\n\n\nWhy pies? Flaky, buttery layers hold sweet fruits, creamy fillings, or rich spices, baked slowly until golden and bubbling with comfort.\nMade just for you 💛\nEvery pie and treat is baked fresh to order — I only bake after a reservation, so each creation gets the care and time it deserves. I’m always happy to adapt recipes or flavors for your tastes, and I love working on special requests\n\n\n\n\n\nBlueberry Cardamom-y Pie\nJuicy blueberries with fragrant cardamom in a golden crust.\nCinnamon Apple Pie with Crumble Topping\nCozy spiced apples tucked under a buttery crumble.\nSalted Maple Pecan Pie\nRich maple sweetness balanced with toasty pecans and a hint of salt.\n\n\n\nBanana Pudding Pie\nLayers of banana, custard, and cookie crumble in a buttery crust.\nKey Lime Pie\nZesty and creamy with a bright citrus punch and a tender crumb base.\n\n\n\nPumpkin Pie\nCreamy spiced pumpkin custard in a crisp, flaky shell — autumn in a slice.\n\n\n\nSesame Rice Krispies Treats\nChewy, toasty-sweet bars with a nutty sesame twist.\nCornbread with Bell Pepper Cream and Feta\nSavory-sweet cornbread topped with creamy peppers and tangy feta.\n\nPrices and Order"
   },
   {
     "objectID": "about.html",
@@ -17,8 +17,8 @@
     "objectID": "index.html#flaky-pies",
     "href": "index.html#flaky-pies",
     "title": "About",
-    "section": "Flaky Pies",
-    "text": "Flaky Pies\nBlueberry Cardamom-y Pie\nJuicy blueberries with fragrant cardamom in a golden crust.\nCinnamon Apple Pie with Crumble Topping\nCozy spiced apples tucked under a buttery crumble.\nSalted Maple Pecan Pie\nRich maple sweetness balanced with toasty pecans and a hint of salt."
+    "section": "",
+    "text": "Blueberry Cardamom-y Pie\nJuicy blueberries with fragrant cardamom in a golden crust.\nCinnamon Apple Pie with Crumble Topping\nCozy spiced apples tucked under a buttery crumble.\nSalted Maple Pecan Pie\nRich maple sweetness balanced with toasty pecans and a hint of salt."
   },
   {
     "objectID": "index.html#crumbly-pies",
@@ -45,28 +45,28 @@
     "objectID": "index.html#crumble-pies",
     "href": "index.html#crumble-pies",
     "title": "About",
-    "section": "Crumble Pies",
-    "text": "Crumble Pies\nBanana Pudding Pie\nLayers of banana, custard, and cookie crumble in a buttery crust.\nKey Lime Pie\nZesty and creamy with a bright citrus punch and a tender crumb base."
+    "section": "",
+    "text": "Banana Pudding Pie\nLayers of banana, custard, and cookie crumble in a buttery crust.\nKey Lime Pie\nZesty and creamy with a bright citrus punch and a tender crumb base."
   },
   {
     "objectID": "index.html#treats-more",
     "href": "index.html#treats-more",
     "title": "About",
-    "section": "Treats & More",
-    "text": "Treats & More\nSesame Rice Krispies Treats\nChewy, toasty-sweet bars with a nutty sesame twist.\nCornbread with Bell Pepper Cream and Feta\nSavory-sweet cornbread topped with creamy peppers and tangy feta.\n\nPrices and Order"
+    "section": "",
+    "text": "Sesame Rice Krispies Treats\nChewy, toasty-sweet bars with a nutty sesame twist.\nCornbread with Bell Pepper Cream and Feta\nSavory-sweet cornbread topped with creamy peppers and tangy feta.\n\nPrices and Order"
   },
   {
     "objectID": "index.html#seasonal",
     "href": "index.html#seasonal",
     "title": "About",
-    "section": "Seasonal",
-    "text": "Seasonal\nPumpkin Pie\nCreamy spiced pumpkin custard in a crisp, flaky shell — autumn in a slice."
+    "section": "",
+    "text": "Pumpkin Pie\nCreamy spiced pumpkin custard in a crisp, flaky shell — autumn in a slice."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Flaky",
     "section": "",
-    "text": "Your browser does not support the video tag. \n\n\n\n\n  &lt;div class=\"form-row\"&gt;\n    &lt;div class=\"col\"&gt;\n      &lt;input type=\"text\" name=\"name\" class=\"form-control\" placeholder=\"Full Name\" required&gt;\n    &lt;/div&gt;\n    &lt;div class=\"col\"&gt;\n      &lt;input type=\"email\" name=\"email\" class=\"form-control\" placeholder=\"Email Address\" required&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"form-group\"&gt;\n  &lt;textarea placeholder=\"Your Message\" class=\"form-control\" name=\"message\" rows=\"10\" required&gt;&lt;/textarea&gt;\n&lt;/div&gt;\n&lt;button type=\"submit\" class=\"btn btn-lg btn-dark btn-block\"&gt;Submit Form&lt;/button&gt;"
+    "text": "Your browser does not support the video tag. \n\n\n\n\n\nProduct\n\n\nSmall\n\n\nLarge\n\n\n\n\n\n\n\nBlueberry Cardamom-y Pie\n\n\nCHF 20\n\n\nCHF 35\n\n\n\n\nCinnamon Apple Pie with Crumble Topping\n\n\nCHF 20\n\n\nCHF 35\n\n\n\n\nSalted Maple Pecan Pie\n\n\nCHF 22\n\n\nCHF 38\n\n\n\n\n\nBanana Pudding Pie\n\n\nCHF 18\n\n\nCHF 32\n\n\n\n\nKey Lime Pie\n\n\nCHF 18\n\n\nCHF 32\n\n\n\n\n\nPumpkin Pie\n\n\nCHF 20\n\n\nCHF 36\n\n\n\n\n\nSesame Rice Krispies Treats\n\n\nCHF 6\n\n\nCHF 10\n\n\n\n\nCornbread with Bell Pepper Cream and Feta\n\n\nCHF 8\n\n\nCHF 14"
   }
 ]
