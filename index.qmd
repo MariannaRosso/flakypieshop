@@ -5,12 +5,13 @@ format:
     css: styles.css
 ---
 
-::: background-video-container
-<video autoplay loop muted playsinline> <source src="Backgroundrotating.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
-:::
 
-::: {#home}
-:::
+<div class="background-video-container">
+  <video autoplay loop muted playsinline>
+    <source src="Backgroundrotating.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ![](logo.png){fig-align="center" width="642"}
 

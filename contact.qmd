@@ -6,25 +6,22 @@ format:
 ---
 
 ::: background-video-container
-<video autoplay loop muted playsinline> <source src="Backgroundrotating.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+<video autoplay loop muted playsinline>
+
+<source src="Backgroundrotating.mp4" type="video/mp4">
+
+Your browser does not support the video tag. </video>
+
 :::
 
-+-------------------------------------------+--------+--------+
 | Product                                   | Small  | Large  |
-+===========================================+========+========+
+|-------------------------------------------|--------|--------|
 | Blueberry Cardamom-y Pie                  | CHF 20 | CHF 35 |
-+-------------------------------------------+--------+--------+
 | Cinnamon Apple Pie with Crumble Topping   | CHF 20 | CHF 35 |
-+-------------------------------------------+--------+--------+
 | Salted Maple Pecan Pie                    | CHF 22 | CHF 38 |
-+-------------------------------------------+--------+--------+
 | Banana Pudding Pie                        | CHF 18 | CHF 32 |
-+-------------------------------------------+--------+--------+
 | Key Lime Pie                              | CHF 18 | CHF 32 |
-+-------------------------------------------+--------+--------+
 | Pumpkin Pie                               | CHF 20 | CHF 36 |
-+-------------------------------------------+--------+--------+
 | Sesame Rice Krispies Treats               | CHF 6  | CHF 10 |
-+-------------------------------------------+--------+--------+
 | Cornbread with Bell Pepper Cream and Feta | CHF 8  | CHF 14 |
-+-------------------------------------------+--------+--------+
+:::
