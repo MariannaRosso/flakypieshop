@@ -69,6 +69,6 @@ Chewy, toasty-sweet bars with a nutty sesame twist.
 **Cornbread with Bell Pepper Cream and Feta**\
 Savory-sweet cornbread topped with creamy peppers and tangy feta.
 
-::: nav-button
-<a href="contact.qmd" class="btn-link">Prices and Order</a>
-:::
+<div class="nav-button">
+  <a href="contact.qmd" class="btn-link">Prices and Order</a>
+</div>
