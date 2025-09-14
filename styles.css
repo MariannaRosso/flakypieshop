@@ -9,6 +9,17 @@ body {
 }
 
 
+/* Mobile: use a color background instead */
+@media (max-width: 768px) {
+  .background-video-container {
+    display: none; /* hide video on phones */
+  }
+
+  body {
+    background-color: #ffd6e8; /* soft pink — pick any color you like */
+  }
+}
+
 
 /* Video container */
 .background-video-container {
