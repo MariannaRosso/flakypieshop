@@ -4,7 +4,7 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
-    font-family: 'Playfair Display', sans-serif; /* Your chosen font */
+    font-family: 'Dosis', sans-serif; /* Your chosen font */
   color: #632543; /* Your chosen text color */
 }
 
@@ -137,13 +137,14 @@ html {
 }
 
 .menu-list h3 {
-  font-family: inherit;
+  font-family: 'Lobster Two';
   font-weight: 600;
   font-size: 1.2rem;
   margin-top: 2rem;  /* space above each section */
   margin-bottom: 0.6rem; /* space below the title */
   color: #b25c7d; /* optional accent color */
 }
+
 
 .menu-list p {
   display: flex;

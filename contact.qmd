@@ -20,7 +20,7 @@ format:
   <h3>Flaky Pies</h3>
   <p><span class="item">Blueberry Cardamom-y Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
   <p><span class="item">Cinnamon Apple Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
-  <p><span class="item">Salted Maple Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
+  <p><span class="item">Chocolaty Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
 
   <h3>Crumble Pies</h3>
   <p><span class="item">Banana Pudding Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
