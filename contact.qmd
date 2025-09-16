@@ -5,23 +5,66 @@ format:
     css: styles.css
 ---
 
-::: background-video-container
-<video autoplay loop muted playsinline>
+<div class="background-video-container">
+  <video autoplay loop muted playsinline>
+    <source src="Backgroundrotating.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-<source src="Backgroundrotating.mp4" type="video/mp4">
+<div class="menu-list">
 
-Your browser does not support the video tag. </video>
+  <h3>Flaky Pies</h3>
+  <p><span class="item">Blueberry Cardamom-y Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
+  <p><span class="item">Cinnamon Apple Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
+  <p><span class="item">Salted Maple Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
 
-:::
+  <h3>Crumbly Pies</h3>
+  <p><span class="item">Banana Pudding Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
+  <p><span class="item">Key Lime Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
 
-| Product                                   | Small  | Large  |
-|-------------------------------------------|--------|--------|
-| Blueberry Cardamom-y Pie                  | CHF 20 | CHF 35 |
-| Cinnamon Apple Pie with Crumble Topping   | CHF 20 | CHF 35 |
-| Salted Maple Pecan Pie                    | CHF 22 | CHF 38 |
-| Banana Pudding Pie                        | CHF 18 | CHF 32 |
-| Key Lime Pie                              | CHF 18 | CHF 32 |
-| Pumpkin Pie                               | CHF 20 | CHF 36 |
-| Sesame Rice Krispies Treats               | CHF 6  | CHF 10 |
-| Cornbread with Bell Pepper Cream and Feta | CHF 8  | CHF 14 |
-:::
+  <h3>Seasonal</h3>
+  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 35</span></p>
+
+  <h3>Treats</h3>
+  <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 15</span></p>
+  <p><span class="item">Cornbread with Bell Pepper Cream and Feta</span><span class="dots"></span><span class="price">CHF 15</span></p>
+
+</div>
+
+
+### A Note on Pricing
+
+Because each pie is lovingly baked in my home kitchen, the costs are a bit higher than mass-produced alternatives. Every pie is about 24 cm in diameter and serves around 6 – 10 people… depending on how big their sweet tooth is.
+
+
+<section id="order">
+  <h2>Place an Order</h2>
+  <form action="https://formsubmit.co/marianna.rosso3@gmail.com" method="POST">
+    
+    <!-- Basic info -->
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" required>
+
+    <!-- Order details -->
+    <label for="product">Which pie would you like?</label>
+    <select id="product" name="product" required>
+      <option value="Pumpkin Pie">Pumpkin Pie</option>
+      <option value="Blueberry Cardamom-y Pie">Blueberry Cardamom-y Pie</option>
+      <option value="Salted Maple Pecan Pie">Salted Maple Pecan Pie</option>
+      <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option>
+    </select>
+
+    <label for="message">Notes / Special Requests</label>
+    <textarea id="message" name="message" rows="4"></textarea>
+
+    <!-- FormSubmit settings -->
+    <input type="hidden" name="_subject" value="New Pie Order!">
+    <input type="hidden" name="_captcha" value="false">
+
+    <button type="submit">Send Order</button>
+  </form>
+</section>

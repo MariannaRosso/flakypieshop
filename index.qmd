@@ -15,7 +15,7 @@ format:
 
 ![](logo.png){fig-align="center" width="642"}
 
-**Flaky** is a cozy home microbakery based in Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to nostalgic flavors.
+**Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to nostalgic flavors.
 
 # About {#about}
 
