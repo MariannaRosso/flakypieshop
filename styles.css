@@ -187,31 +187,53 @@ html {
 }
 
 form {
-  background-color: #ffd6e8;
-  padding: 2rem;
-  border-radius: 10px;
   max-width: 500px;
-  margin: 2rem auto;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+  margin: 0 auto;         /* center the form */
 }
 
-form input, form select, form textarea, form button {
+form h2, form h3, form h1 {
+  margin-bottom: 1rem;    /* space below the heading */
+}
+
+form label {
+  display: block;         /* put labels above fields */
+  margin-bottom: 0.3rem;  /* small space below label */
+  font-weight: 500;
+  color: #772a50;
+}
+
+form input,
+form select,
+form textarea {
+  display: block;
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  margin-bottom: 1.2rem;  /* spacing between fields */
+  border: 1px solid #e6a9c0;
+  border-radius: 6px;
+  background: #fff;
   font-family: inherit;
   font-size: 1rem;
-  padding: 0.6rem;
-  border: 1px solid #e5a6c5;
-  border-radius: 5px;
 }
 
-form button {
+form button[type="submit"] {
   background-color: #ce4f81;
-  color: white;
+  color: #fff;
   border: none;
+  padding: 0.8rem 1.4rem;
+  font-size: 1.1rem;
+  border-radius: 8px;
   cursor: pointer;
+  display: block;
+  width: 100%;
 }
 
-form button:hover {
-  background-color: #b43d6e;
+form button[type="submit"]:hover {
+  background-color: #c3547f;
 }
+
+
+.spacer-small {
+  height: 0.3rem; /* about half a line of text */
+}
+
