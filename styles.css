@@ -9,6 +9,18 @@ body {
 }
 
 
+/* Headings, navbar, buttons use accent font */
+h1, h2, h3, h4, h5, h6,
+.navbar,
+.navbar-nav .nav-link,
+.btn-link,
+form button[type="submit"],
+.menu-list h3 {
+  font-family: 'Lobster Two', cursive;
+}
+
+
+
 /* Mobile: use a color background instead */
 @media (max-width: 768px) {
   .background-video-container {
@@ -66,7 +78,7 @@ main.content {
   z-index: 1000;                   /* stay above content */
   background-color: #fdd3e3; 
   padding: 1.3rem 0;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: 'Lobster Two', sans-serif;
 }
 
 /* Center the nav links */
@@ -120,7 +132,8 @@ html {
 }
 
 .btn-link:hover {
-  background-color: #c3547f;
+  background-color: #a8486d;
+  color: #ffffff !important;
 }
 
 .menu-list h3 {
@@ -229,7 +242,7 @@ form button[type="submit"] {
 }
 
 form button[type="submit"]:hover {
-  background-color: #c3547f;
+  background-color: #a8486d;
 }
 
 
