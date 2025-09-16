@@ -13,7 +13,7 @@ format:
   </video>
 </div>
 
-![](logo.png){fig-align="center" width="642"}
+![](logo_website.png){fig-align="center" width="642"}
 
 **Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to nostalgic flavors.
 
@@ -23,7 +23,7 @@ Hi, I’m Marianna 🍓\
 I’m a researcher by profession — and a pastry chef by heart.
 
 Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career.\
-Growing up, I spent much of my childhood travelling through the USA, where I fell in love with how flaky American pies are, cookies, and all things sweet.
+Growing up, I spent much of my childhood travelling through the USA, where I fell in love with flaky American pies, cookies, and all things sweet.
 
 Now, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.
 
