@@ -113,8 +113,13 @@ ul.task-list li input[type="checkbox"] {
 <div class="background-video-container">
 <p><video autoplay="" loop="" muted="" playsinline=""> <source src="Backgroundrotating.mp4" type="video/mp4"> Your browser does not support the video tag. </video></p>
 </div>
+<div class="spacer-small">
+
+</div>
+<section id="menu" class="level1">
+<h1>Menu</h1>
 <div class="menu-list">
-<h3 class="anchored">
+<h3 class="anchored" data-anchor-id="menu">
 Flaky Pies
 </h3>
 <p>
@@ -127,7 +132,7 @@ Flaky Pies
 <span class="item">Salted Maple Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span>
 </p>
 <h3 class="anchored">
-Crumbly Pies
+Crumble Pies
 </h3>
 <p>
 <span class="item">Banana Pudding Pie</span><span class="dots"></span><span class="price">CHF 32</span>
@@ -152,19 +157,19 @@ Treats
 </p>
 </div>
 <section id="a-note-on-pricing" class="level3">
-<h3 class="anchored">A Note on Pricing</h3>
+<h3 class="anchored" data-anchor-id="a-note-on-pricing">A Note on Pricing</h3>
 <p>Because each pie is lovingly baked in my home kitchen, the costs are a bit higher than mass-produced alternatives. Every pie is about 24 cm in diameter and serves around 6 – 10 people… depending on how big their sweet tooth is.</p>
 <section id="order">
-<h2 class="anchored" data-anchor-id="a-note-on-pricing">
+<h1>
 Place an Order
-</h2>
+</h1>
 <form action="https://formsubmit.co/marianna.rosso3@gmail.com" method="POST">
 <!-- Basic info -->
 <p><label for="name">Name</label> <input type="text" id="name" name="name" required=""></p>
 <p><label for="email">Email</label> <input type="email" id="email" name="email" required=""></p>
 <!-- Order details -->
-<p><label for="product">Which pie would you like?</label> <select id="product" name="product" required=""> <option value="Pumpkin Pie">Pumpkin Pie</option> <option value="Blueberry Cardamom-y Pie">Blueberry Cardamom-y Pie</option> <option value="Salted Maple Pecan Pie">Salted Maple Pecan Pie</option> <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option> </select></p>
-<label for="message">Notes / Special Requests</label>
+<p><label for="product">What would you like?</label> <select id="product" name="product" required=""> <option value="Blueberry Cardamom-y Pie">Blueberry Cardamom-y Pie</option> <option value="Cinnamon Apple Pie with Crumble Topping">Cinnamon Apple Pie with Crumble Topping</option> <option value="Salted Maple Pecan Pie">Salted Maple Pecan Pie</option> <option value="Banana Pudding Pie">Banana Pudding Pie</option> <option value="Key Lime Pie">Key Lime Pie</option> <option value="Pumpkin Pie">Pumpkin Pie</option> <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option> <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option> <option value="Custom Order">Custom Order</option> </select></p>
+<label for="message">Notes / Special Requests / Custom Order</label>
 <textarea id="message" name="message" rows="4"></textarea>
 <!-- FormSubmit settings -->
 <p><input type="hidden" name="_subject" value="New Pie Order!"> <input type="hidden" name="_captcha" value="false"></p>
@@ -175,6 +180,7 @@ Send Order
 </section>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
