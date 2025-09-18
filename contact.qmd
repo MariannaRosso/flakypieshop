@@ -63,7 +63,7 @@ Because each pie is lovingly baked in my home kitchen, the costs are a bit highe
     </select>
 
 
-    <label for="message">Notes / Special Requests / Custom Order</label>
+    <label for="message">Questions / Special Requests / Custom Order</label>
     <textarea id="message" name="message" rows="4"></textarea>
 
     <!-- FormSubmit settings -->
