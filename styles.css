@@ -175,7 +175,7 @@ html {
     flex-direction: column;
     gap: 1rem;
     padding: 1rem 0;
-    background-color: #ffd6e8; /* soft pink background */
+    background-color: #ffd9e5; /* soft pink background */
     width: 100%;
   }
 
@@ -251,3 +251,15 @@ form button[type="submit"]:hover {
   height: 0.3rem; /* about half a line of text */
 }
 
+@media (max-width: 768px) {
+  body {
+    padding-top: 80px !important; /* create space below fixed navbar */
+  }
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+}
