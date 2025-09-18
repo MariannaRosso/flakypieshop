@@ -1,6 +1,6 @@
 ---
 toc: false
-format: 
+format:
   html:
     css: styles.css
 ---
@@ -13,7 +13,8 @@ format:
   </video>
 </div>
 
-![](logo_website.png){fig-align="center" width="642"}
+![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}
+
 
 **Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to nostalgic flavors.
 
@@ -64,3 +65,20 @@ Savory-sweet cornbread topped with creamy peppers and tangy feta.
 <div class="nav-button">
   <a href="contact.qmd" class="btn-link">Prices and Order</a>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Bakery",
+  "name": "Flaky",
+  "image": "https://yourdomain.com/logo_website.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Zürich",
+    "addressCountry": "CH"
+  },
+  "servesCuisine": "American desserts",
+  "url": "https://yourdomain.com",
+  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, and pecan pie."
+}
+</script>

@@ -27,8 +27,8 @@ format:
   <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 35</span></p>
 
   <h3>Treats & More</h3>
-  <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 15</span></p>
-  <p><span class="item">Cornbread with Bell Pepper Cream and Feta</span><span class="dots"></span><span class="price">CHF 15</span></p>
+  <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 18</span></p>
+  <p><span class="item">Cornbread with Bell Pepper Cream and Feta</span><span class="dots"></span><span class="price">CHF 18</span></p>
 
 </div>
 
