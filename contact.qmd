@@ -18,27 +18,25 @@ format:
 <div class="menu-list">
 
   <h3>Flaky Pies</h3>
-  <p><span class="item">Blueberry Cardamom-y Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
-  <p><span class="item">Cinnamon Apple Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
-  <p><span class="item">Chocolaty Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
+  <p><span class="item">Cinnamon Apple Pie with Crumble Topping</span><span class="dots"></span><span class="price">CHF 32</span></p>
+  <p><span class="item">Sweet Potato Casserole Pie</span><span class="dots"></span><span class="price">CHF 36</span></p>
+  <p><span class="item">Chocolat-y Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
 
-  <h3>Crumble Pies</h3>
-  <p><span class="item">Banana Pudding Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
-  <p><span class="item">Key Lime Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
 
-  <h3>Seasonal</h3>
+  <h3>Seasonal Pies</h3>
   <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 35</span></p>
 
-  <h3>Treats</h3>
+  <h3>Treats & More</h3>
   <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 15</span></p>
   <p><span class="item">Cornbread with Bell Pepper Cream and Feta</span><span class="dots"></span><span class="price">CHF 15</span></p>
 
 </div>
 
 
+
 ### A Note on Pricing
 
-Because each pie is lovingly baked in my home kitchen, the costs are a bit higher than mass-produced alternatives. Every pie is about 24 cm in diameter and serves around 6 – 10 people… depending on how big their sweet tooth is.
+Because each pie is lovingly baked in my home kitchen, the costs are a bit higher than mass-produced alternatives. Every pie is about 24 cm in diameter and serves around 6 – 8 people… depending on how big their sweet tooth is.
 
 
 <section id="order">
@@ -55,12 +53,10 @@ Because each pie is lovingly baked in my home kitchen, the costs are a bit highe
     <!-- Order details -->
     <label for="product">What would you like?</label>
     <select id="product" name="product" required>
-      <option value="Blueberry Cardamom-y Pie">Blueberry Cardamom-y Pie</option>
-      <option value="Cinnamon Apple Pie with Crumble Topping">Cinnamon Apple Pie with Crumble Topping</option>
-      <option value="Salted Maple Pecan Pie">Salted Maple Pecan Pie</option>
-      <option value="Banana Pudding Pie">Banana Pudding Pie</option>
-      <option value="Key Lime Pie">Key Lime Pie</option>
-      <option value="Pumpkin Pie">Pumpkin Pie</option>
+      <option value="Cinnamon Apple Pie">Cinnamon Apple Pie</option>
+      <option value="Chocolat-y Pecan Pie">Chocolat-y Pecan Pie</option>
+      <option value="Sweet Potato Casserole Pie">Sweet Potato Casserole Pie</option>
+      <option value="Seasonal Pie">Seasonal Pie</option>
       <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option>
       <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option>
       <option value="Custom Order">Custom Order</option>
