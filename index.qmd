@@ -5,6 +5,11 @@ format:
     css: styles.css
 ---
 
+<div class="mobile-video-background">
+  <video autoplay muted loop playsinline>
+    <source src="backgroundmobile.mp4" type="video/mp4">
+  </video>
+</div>
 
 <div class="background-video-container">
   <video autoplay loop muted playsinline>
@@ -47,7 +52,7 @@ Cozy spiced apples tucked under a buttery crumble.
 The richness of dark chocolate with toasty pecans and a hint of salt.
 
 **Sweet Potato Casserole Pie**\
-Silky sweet potato filling with a crunch pecan and marshmallow topping.
+Silky sweet potato filling with a crunchy pecan and marshmallow topping.
 
 ## Seasonal Pies
 
