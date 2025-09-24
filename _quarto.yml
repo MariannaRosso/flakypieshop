@@ -1,11 +1,12 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
 
 website:
   title: "Flaky"
   site-url: "https://www.flakypieshop.com"
-  title: "Flaky"
   search: false
   navbar:
    left:
@@ -27,6 +28,4 @@ format:
     toc: true
     include-in-header: head.html
 
-
 editor: visual
-
