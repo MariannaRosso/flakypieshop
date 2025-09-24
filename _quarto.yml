@@ -3,7 +3,8 @@ project:
   output-dir: _site
 
 website:
-  cname: "www.flakypieshop.com"
+  title: "Flaky"
+  site-url: "https://www.flakypieshop.com"
   title: "Flaky"
   search: false
   navbar:
