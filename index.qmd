@@ -11,12 +11,7 @@ format:
   </video>
 </div>
 
-<!-- Mobile background video -->
-<div class="mobile-video-background">
-  <video autoplay muted loop playsinline>
-    <source src="backgroundmobilealpha.mp4" type="video/mp4">
-  </video>
-</div>
+
 
 ![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}
 
@@ -45,7 +40,7 @@ Every pie and treat is baked fresh to order — I only bake after a reservation,
 
 ## Flaky Pies
 
-**Cinnamon Apple Pie with Crumble Topping**\
+**Cinnamon Apple Crumble Pie**\
 Cozy spiced apples tucked under a buttery crumble.
 
 **Chocolat-y Pecan Pie**\
@@ -64,7 +59,7 @@ Creamy spiced pumpkin custard in a crisp, flaky shell — fall in a slice.
 **Sesame Rice Krispies Treats**\
 Chewy, toasty-sweet bars with a nutty sesame twist.
 
-**Cornbread with Bell Pepper Cream and Feta**\
+**Bell Pepper and Feta Cornbread**\
 Savory-sweet cornbread topped with creamy peppers and tangy feta.
 </div>
 

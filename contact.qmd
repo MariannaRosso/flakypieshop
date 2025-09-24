@@ -18,7 +18,7 @@ format:
 <div class="menu-list">
 
   <h3>Flaky Pies</h3>
-  <p><span class="item">Cinnamon Apple Pie with Crumble Topping</span><span class="dots"></span><span class="price">CHF 32</span></p>
+  <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
   <p><span class="item">Sweet Potato Casserole Pie</span><span class="dots"></span><span class="price">CHF 36</span></p>
   <p><span class="item">Chocolat-y Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
 
@@ -28,7 +28,7 @@ format:
 
   <h3>Treats & More</h3>
   <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 18</span></p>
-  <p><span class="item">Cornbread with Bell Pepper Cream and Feta</span><span class="dots"></span><span class="price">CHF 18</span></p>
+  <p><span class="item">Bell Pepper and Feta Cornbread</span><span class="dots"></span><span class="price">CHF 18</span></p>
 
 </div>
 

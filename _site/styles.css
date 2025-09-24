@@ -29,14 +29,15 @@ form button[type="submit"],
 
 /* Anchor scroll offset (so titles aren’t hidden under navbar) */
 :target {
-  scroll-margin-top: 50px; /* Adjust to match navbar height */
+  scroll-margin-top: 50px;
 }
 
 
 /* -----------------------------------------
-   🌸 BACKGROUND VIDEO (DESKTOP)
+   🌸 BACKGROUND MEDIA
 ----------------------------------------- */
 
+/* Desktop background video */
 .background-video-container {
   position: fixed;
   top: 0;
@@ -46,25 +47,25 @@ form button[type="submit"],
   overflow: hidden;  
   z-index: -1; /* Behind all content */
 }
-
 .background-video-container video {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-main.content {
-  padding-left: 1rem;
+/* Mobile background image (hidden by default) */
+.mobile-background-image {
+  display: none;
 }
-
-.responsive-video {
-  width: 120%;
-  height: auto;
+.mobile-background-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 
 /* -----------------------------------------
-   🌸 NAVBAR STYLING
+   🌸 NAVBAR
 ----------------------------------------- */
 
 .navbar {
@@ -76,12 +77,11 @@ main.content {
   background-color: #fdd3e3; 
   padding: 1.3rem 0;
 }
-
 .navbar-brand {
-  display: none; /* optional logo placeholder */
+  display: none;
 }
 
-/* Center the nav links */
+/* Center nav links */
 .navbar-nav {
   position: absolute;
   left: 50%;
@@ -89,18 +89,15 @@ main.content {
   display: flex;
   gap: 2rem;
 }
-
 .navbar-nav .nav-link {
   color: #772a50;
   font-size: 1.1rem;
   text-decoration: none;
   transition: color 0.3s ease;
 }
-
 .navbar-nav .nav-link:hover {
   color: #ce4f81;
 }
-
 .navbar-nav .nav-link.active {
   color: #ce4f81 !important;
   font-weight: 600;
@@ -115,7 +112,6 @@ main.content {
   text-align: center;
   margin: 3rem 0;
 }
-
 .btn-link {
   display: inline-block;
   padding: 14px 28px;
@@ -126,10 +122,9 @@ main.content {
   font-size: 18px;
   transition: background-color 0.2s ease;
 }
-
 .btn-link:hover {
   background-color: #a8486d;
-  color: #ffffff !important; /* avoid blue hover color */
+  color: #ffffff !important; /* no blue hover */
 }
 
 
@@ -144,24 +139,20 @@ main.content {
   margin-bottom: 0.6rem;
   color: #b25c7d;
 }
-
 .menu-list p {
   display: flex;
   align-items: center;
   font-size: 1.1rem;
   margin-right: 1rem;
 }
-
 .menu-list .item {
   white-space: nowrap;
 }
-
 .menu-list .dots {
   flex: 1;
   border-bottom: 1px dotted #e5a6c5;
   margin: 0 8px;
 }
-
 .menu-list .price {
   white-space: nowrap;
 }
@@ -175,18 +166,15 @@ form {
   max-width: 500px;
   margin: 0 auto;
 }
-
 form h1, form h2, form h3 {
   margin-bottom: 1rem;
 }
-
 form label {
   display: block;
   margin-bottom: 0.3rem;
   font-weight: 500;
   color: #772a50;
 }
-
 form input,
 form select,
 form textarea {
@@ -200,7 +188,6 @@ form textarea {
   font-family: inherit;
   font-size: 1rem;
 }
-
 form button[type="submit"] {
   background-color: #ce4f81;
   color: #fff;
@@ -212,27 +199,17 @@ form button[type="submit"] {
   display: block;
   width: 100%;
 }
-
 form button[type="submit"]:hover {
   background-color: #a8486d;
 }
 
 
 /* -----------------------------------------
-   🌸 UTILITY CLASSES
+   🌸 UTILITIES
 ----------------------------------------- */
 
 .spacer-small {
-  height: 0.3rem; /* about half a line of text */
-}
-
-
-/* -----------------------------------------
-   🌸 MOBILE VIDEO BACKGROUND (HIDDEN BY DEFAULT)
------------------------------------------ */
-
-.mobile-video-background {
-  display: none; /* shown in mobile media query */
+  height: 0.3rem;
 }
 
 
@@ -240,77 +217,71 @@ form button[type="submit"]:hover {
    🌸 MEDIA QUERIES
 ----------------------------------------- */
 
-/* Phones: video background + overlay text */
+/* Phones */
 @media (max-width: 768px) {
-  /* Hide desktop background video */
-  .background-video-container {
-    display: none;
-  }
-
-  /* Show mobile background video */
-  .mobile-video-background {
+  /* hide video, show background image */
+  .background-video-container { display: none; }
+  .mobile-background-image {
     display: block;
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
     z-index: -1;
-  }
-
-  .mobile-video-background video {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    overflow: hidden;
   }
 
   body {
-    background-color: #ffd9e5; /* fallback color */
-    padding-top: 80px !important; /* space below fixed navbar */
+    background-color: #ffd9e5; /* fallback */
+    padding-top: 80px !important; /* offset for navbar */
   }
+  .navbar { width: 100%; }
 
-  .navbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-  }
-
-  /* 🌸 Add semi-transparent background to all main text areas */
+  /* readable text blocks */
   .content-overlay,
   .menu-list,
   form,
   section,
   p {
-    background: #ffd9e5; /* soft pink overlay */
-    margin-right: 0.4rem;
+    background: #ffd9e5;
     margin-left: 0.4rem;
+    margin-right: 0.4rem;
   }
 
-  /* Menu adjustments for mobile */
-  .menu-list {
-    padding: 0 1rem;
-  }
+  /* menu tweaks */
+  .menu-list { padding: 0 1rem; }
 
   .menu-list p {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;   /* allow wrapping onto new line */
+    display: block;       /* stack vertically */
+    margin: 0.8rem 0;     /* spacing between items */
     font-size: 1.1rem;
-    margin-right: 1rem;
-    gap: 0.5rem;
-    max-width: 100%;   /* prevents overflow */
+  }
+
+  .menu-list .item {
+    display: block;       /* first line = item name */
+    margin-bottom: 0.2rem;
+  }
+
+  .menu-list .dots {
+    display: inline-block;
+    width: 75%;           /* dotted line width — adjust to taste */
+    border-bottom: 1px dotted #e5a6c5;
+    margin-right: 0.5rem;
+  }
+
+  .menu-list .price {
+    display: inline-block;
+    float: right;         /* keep price at end of line */
   }
 
   .menu-list h3 {
     margin-top: 1.2rem;
     margin-bottom: 0.4rem;
     font-size: 1.1rem;
+    font-size: 1.4rem;
   }
 }
 
-/* Tablet and smaller: collapse navbar menu */
+/* Tablet and smaller */
 @media (max-width: 992px) {
   .navbar-nav {
     position: static;
@@ -321,18 +292,15 @@ form button[type="submit"]:hover {
     background-color: #ffd9e5;
     width: 100%;
   }
-
   .navbar-collapse {
     background-color: #ffd6e8;
     border: 1px solid #b25c7d;
     position: absolute;
-    top: 100%;
-    left: 0;
+    top: 100%; left: 0;
     width: 100%;
     z-index: 1000;
     padding: 1rem;
   }
-
   .navbar-nav .nav-link {
     text-align: center;
     font-size: 1.3rem;
