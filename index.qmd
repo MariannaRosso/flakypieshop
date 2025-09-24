@@ -4,23 +4,23 @@ format:
   html:
     css: styles.css
 ---
-
-<div class="mobile-video-background">
+<!-- Desktop background video -->
+<div class="background-video-container">
   <video autoplay muted loop playsinline>
-    <source src="backgroundmobile.mp4" type="video/mp4">
+    <source src="Backgroundrotating.mp4" type="video/mp4">
   </video>
 </div>
 
-<div class="background-video-container">
-  <video autoplay loop muted playsinline>
-    <source src="Backgroundrotating.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+<!-- Mobile background video -->
+<div class="mobile-video-background">
+  <video autoplay muted loop playsinline>
+    <source src="backgroundmobilealpha.mp4" type="video/mp4">
   </video>
 </div>
 
 ![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}
 
-
+<div class="content-overlay">
 **Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to nostalgic flavors.
 
 # About {#about}
@@ -66,6 +66,7 @@ Chewy, toasty-sweet bars with a nutty sesame twist.
 
 **Cornbread with Bell Pepper Cream and Feta**\
 Savory-sweet cornbread topped with creamy peppers and tangy feta.
+</div>
 
 <div class="nav-button">
   <a href="contact.qmd" class="btn-link">Prices and Order</a>
