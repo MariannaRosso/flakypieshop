@@ -307,3 +307,74 @@ form button[type="submit"]:hover {
     display: block;
   }
 }
+
+/* Centered social icon */
+.social-center {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.social-heading {
+  margin-bottom: 0.6rem;   /* space between text & logo */
+  font-size: 1.4rem;
+  color: #632543;
+}
+
+.social-link i {
+  font-size: 2rem;   /* smaller logo size */
+  color: #ce4f81;    /* match your theme */
+  transition: color 0.3s ease;
+}
+
+.social-link i:hover {
+  color: #a8486d;    /* darker on hover */
+}
+
+/* Remove anchor link icons from headings */
+.anchorjs-link {
+  display: none !important;
+}
+
+/* Gallery container */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+
+/* Polaroid card (straight, no rotation) */
+.polaroid {
+  background: #fff8f9;
+  padding: 0.8rem;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(119, 42, 80, 0.2);
+  max-width: 220px;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+
+.polaroid:hover {
+  transform: translateY(-5px); /* little hover lift */
+}
+
+/* Images & videos inside */
+.polaroid img,
+.polaroid video {
+  width: 100%;
+  border-radius: 4px;
+  display: block;
+}
+
+/* Captions */
+.polaroid .caption {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: #632543;
+  font-weight: 500;
+}
+
+

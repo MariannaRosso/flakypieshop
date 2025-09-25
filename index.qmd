@@ -3,6 +3,7 @@ toc: false
 format:
   html:
     css: styles.css
+    raw-html: true 
 ---
 <!-- Desktop background video -->
 <div class="background-video-container">
@@ -29,6 +30,37 @@ Growing up, I spent much of my childhood travelling through the USA, where I fel
 Now, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.
 
 # Sweets {#sweets}
+
+
+<div class="gallery">
+<div class="polaroid">
+<img src="images/PecanPie.jpeg" alt="Pecan Pie">
+<p class="caption">Chocolat-y Pecan Pie</p>
+</div>
+
+<div class="polaroid">
+<img src="images/RiceKrispiesTreats.jpg" alt="Rice Krispies Treats">
+<p class="caption">Sesame Rice Krispies Treats</p>
+</div>
+
+<div class="polaroid">
+<img src="images/Cheesecake.jpeg" alt="Cheesecake">
+<p class="caption">Lemon Ricotta Cheesecake</p>
+</div>
+
+<div class="polaroid">
+<img src="images/Emilie2.jpeg" alt="Chocolate Cake">
+<p class="caption">Triple Chocolate Cake</p>
+</div>
+
+<div class="polaroid">
+<img src="images/Cornbread2.jpeg" alt="Cornbread">
+<p class="caption">Bell Pepper and Feta Cornbread</p>
+</div>
+
+</div>
+
+
 
 Why pies? Flaky, buttery layers hold sweet fruits, creamy fillings, or rich spices, baked slowly until golden and bubbling with comfort.
 
@@ -83,3 +115,11 @@ Savory-sweet cornbread topped with creamy peppers and tangy feta.
   "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, and pecan pie."
 }
 </script>
+
+<div class="social-center">
+  <h3 class="social-heading">Follow me on Instagram!</h3>
+  <a href="https://www.instagram.com/flakypieshop" target="_blank" class="social-link">
+    <i class="fab fa-instagram"></i>
+  </a>
+</div>
+

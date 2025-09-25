@@ -54,6 +54,9 @@ ul.task-list li input[type="checkbox"] {
 
 <link href="https://fonts.googleapis.com/css2?family=Lobster+Two&amp;family=Dosis&amp;display=swap" rel="stylesheet">
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -129,6 +132,38 @@ Growing up, I spent much of my childhood travelling through the USA, where I fel
 </section>
 <section id="sweets" class="level1">
 <h1>Sweets</h1>
+<div class="gallery">
+<div class="polaroid">
+<img src="images/PecanPie.jpeg" alt="Pecan Pie">
+<p class="caption">
+Chocolat-y Pecan Pie
+</p>
+</div>
+<div class="polaroid">
+<img src="images/RiceKrispiesTreats.jpg" alt="Rice Krispies Treats">
+<p class="caption">
+Sesame Rice Krispies Treats
+</p>
+</div>
+<div class="polaroid">
+<img src="images/Cheesecake.jpeg" alt="Cheesecake">
+<p class="caption">
+Lemon Ricotta Cheesecake
+</p>
+</div>
+<div class="polaroid">
+<img src="images/Emilie2.jpeg" alt="Chocolate Cake">
+<p class="caption">
+Triple Chocolate Cake
+</p>
+</div>
+<div class="polaroid">
+<img src="images/Cornbread2.jpeg" alt="Cornbread">
+<p class="caption">
+Bell Pepper and Feta Cornbread
+</p>
+</div>
+</div>
 <p>Why pies? Flaky, buttery layers hold sweet fruits, creamy fillings, or rich spices, baked slowly until golden and bubbling with comfort.</p>
 <p>Made just for you 💛</p>
 <p>Every pie and treat is baked fresh to order — I only bake after a reservation, so each creation gets the care and time it deserves. I’m always happy to adapt recipes or flavors for your tastes, and I love working on special requests.</p>
@@ -177,6 +212,12 @@ Savory-sweet cornbread topped with creamy peppers and tangy feta.</p>
   "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, and pecan pie."
 }
 </script>
+<div class="social-center">
+<h3 class="social-heading anchored">
+Follow me on Instagram!
+</h3>
+<p><a href="https://www.instagram.com/flakypieshop" target="_blank" class="social-link"> <i class="fab fa-instagram"></i> </a></p>
+</div>
 
 
 
@@ -271,7 +312,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/www\.flakypieshop\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
