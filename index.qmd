@@ -123,3 +123,12 @@ Savory-sweet cornbread topped with creamy peppers and tangy feta.
   </a>
 </div>
 
+
+<footer class="site-footer">
+  <p>
+    Psst... I programmed this website myself in Quarto, the code is available
+    <a href="https://github.com/MariannaRosso/flakypieshop" target="_blank">here</a>.
+  </p>
+</footer>
+
+

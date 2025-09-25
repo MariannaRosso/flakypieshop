@@ -3,6 +3,17 @@
 ----------------------------------------- */
 
 /* Page-wide defaults */
+
+a {
+  color: #ce4f81; 
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ce4f81;
+  text-decoration: underline;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -377,4 +388,15 @@ form button[type="submit"]:hover {
   font-weight: 500;
 }
 
+.site-footer {
+  text-align: center;
+  background: none; /* keep transparent, or pick a soft pink if you prefer */
+  font-family: 'Lobster Two', cursive;
+  font-size: 1rem;
+  color: #9f657e; /* matches your main accent color */
+}
 
+.site-footer a:hover {
+  color: #ce4f81;          /* soft pink highlight on hover */
+  text-decoration: underline;
+}
