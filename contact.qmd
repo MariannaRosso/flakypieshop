@@ -18,8 +18,8 @@ format:
 <div class="menu-list">
 
   <h3>Flaky Pies</h3>
-  <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 32</span></p>
-  <p><span class="item">Sweet Potato Casserole Pie</span><span class="dots"></span><span class="price">CHF 36</span></p>
+  <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 34</span></p>
+  <p><span class="item">Blueberry Maple Chess Pie</span><span class="dots"></span><span class="price">CHF 36</span></p>
   <p><span class="item">Chocolat-y Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
 
 
@@ -54,8 +54,8 @@ Because each pie is lovingly baked in my home kitchen, the costs are a bit highe
     <label for="product">What would you like?</label>
     <select id="product" name="product" required>
       <option value="Cinnamon Apple Pie">Cinnamon Apple Pie</option>
+      <option value="Blueberry Maple Chess Pie">Sweet Potato Casserole Pie</option>
       <option value="Chocolat-y Pecan Pie">Chocolat-y Pecan Pie</option>
-      <option value="Sweet Potato Casserole Pie">Sweet Potato Casserole Pie</option>
       <option value="Seasonal Pie">Seasonal Pie</option>
       <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option>
       <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option>
