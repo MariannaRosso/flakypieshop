@@ -1,0 +1,152 @@
+---
+toc: false
+format:
+  html:
+    css: styles.css
+    raw-html: true 
+---
+<!-- Desktop background video -->
+<div class="background-video-container">
+  <video autoplay muted loop playsinline>
+    <source src="../Backgroundrotating.mp4" type="video/mp4">
+  </video>
+</div>
+
+
+
+![](../logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}
+
+<div class="content-overlay">
+**Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to nostalgic flavors.
+
+# About {#about}
+
+Hi, I’m Marianna 🍓\
+I’m a researcher by profession — and a pastry chef by heart.
+
+Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career.\
+Growing up, I spent much of my childhood travelling through the USA, where I fell in love with flaky American pies, cookies, and all things sweet.
+
+Now, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.
+
+# Sweets {#sweets}
+
+
+<div class="gallery">
+<div class="polaroid">
+<a href="https://www.instagram.com/flakypieshop" target="_blank">
+<img src="../images/PecanPie.jpeg" alt="Pecan Pie">
+</a>
+<p class="caption">Chocolat-y Pecan Pie</p>
+</div>
+
+<div class="polaroid">
+<a href="https://www.instagram.com/flakypieshop" target="_blank">
+<img src="../images/RiceKrispiesTreats.jpg" alt="Rice Krispies Treats">
+</a>
+<p class="caption">Sesame Rice Krispies Treats</p>
+</div>
+
+<div class="polaroid">
+<a href="https://www.instagram.com/flakypieshop" target="_blank">
+<img src="../images/Cheesecake.jpeg" alt="Cheesecake">  </a>
+<p class="caption">Lemon Ricotta Cheesecake</p>
+</div>
+
+<div class="polaroid">
+<a href="https://www.instagram.com/flakypieshop" target="_blank">
+<img src="../images/Emilie2.jpeg" alt="Chocolate Cake">  </a>
+<p class="caption">Triple Chocolate Cake</p>
+</div>
+
+<div class="polaroid">
+<a href="https://www.instagram.com/flakypieshop" target="_blank">
+<img src="../images/Cornbread2.jpeg" alt="Cornbread">  </a>
+<p class="caption">Bell Pepper and Feta Cornbread</p>
+</div>
+
+</div>
+
+
+
+Why pies? Flaky, buttery layers hold sweet fruits, creamy fillings, or rich spices, baked slowly until golden and bubbling with comfort.
+
+Made just for you 💛
+
+Every pie and treat is baked fresh to order — I only bake after a reservation, so each creation gets the care and time it deserves. I’m always happy to adapt recipes or flavors for your tastes, and I love working on special requests.
+
+# Products {#products}
+
+## Flaky Pies
+
+**Cinnamon Apple Crumble Pie**\
+Cozy spiced apples tucked under a buttery crumble.
+
+**Blueberry Maple Chess Pie**\
+The taste of a maple syrup soaked pancake in a slice.
+
+**Chocolat-y Pecan Pie**\
+The richness of dark chocolate with toasty pecans and a hint of salt.
+
+## Seasonal Pies
+
+**Pumpkin Pie**\
+Creamy spiced pumpkin custard in a crisp, flaky shell — fall in a slice.
+
+## Treats & More
+
+**Sesame Rice Krispies Treats**\
+Chewy, toasty-sweet bars with a nutty sesame twist.
+
+**Bell Pepper and Feta Cornbread**\
+Savory-sweet cornbread topped with creamy peppers and tangy feta.
+</div>
+
+<div class="nav-button">
+  <a href="contact.qmd" class="btn-link">Prices and Order</a>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Bakery",
+  "name": "Flaky",
+  "image": "https://yourdomain.com/logo_website.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Zürich",
+    "addressCountry": "CH"
+  },
+  "servesCuisine": "American desserts",
+  "url": "https://yourdomain.com",
+  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, and pecan pie."
+}
+</script>
+
+<div class="social-center">
+  <h3 class="social-heading">Follow me on Instagram!</h3>
+  <a href="https://www.instagram.com/flakypieshop" target="_blank" class="social-link">
+    <i class="fab fa-instagram"></i>
+  </a>
+</div>
+
+
+
+<div class="language-switch">
+  <a href="../index.html">English</a> |
+  <a href="index.html">Deutsch</a>
+</div>
+
+
+
+<div class="footer-heart">
+  <i class="fas fa-heart"></i>
+</div>
+
+
+<footer class="site-footer">
+  <p>
+    Psst... I programmed this website myself in Quarto, the code is available
+    <a href="https://github.com/MariannaRosso/flakypieshop" target="_blank">here</a>.
+  </p>
+</footer>

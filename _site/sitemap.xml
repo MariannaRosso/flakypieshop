@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.flakypieshop.com/index.html</loc>
-    <lastmod>2025-09-25T19:17:48.064Z</lastmod>
+    <lastmod>2025-10-05T17:45:20.733Z</lastmod>
   </url>
   <url>
     <loc>https://www.flakypieshop.com/contact.html</loc>
-    <lastmod>2025-09-24T07:57:10.918Z</lastmod>
+    <lastmod>2025-09-26T17:10:56.204Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.flakypieshop.com/de/index.html</loc>
+    <lastmod>2025-10-05T17:35:47.407Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.flakypieshop.com/de/contact.html</loc>
+    <lastmod>2025-09-26T17:10:56.204Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.flakypieshop.com/de/index_de.html</loc>
+    <lastmod>2025-10-05T17:18:10.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.flakypieshop.com/de/contact_de.html</loc>
+    <lastmod>2025-09-26T17:10:56.204Z</lastmod>
   </url>
 </urlset>

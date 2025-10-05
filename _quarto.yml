@@ -9,15 +9,15 @@ website:
   site-url: "https://www.flakypieshop.com"
   search: false
   navbar:
-   left:
-    - href: index.qmd#home
-      text: Home
-    - href: index.qmd#about
-      text: About
-    - href: index.qmd#products
-      text: Products
-    - href: contact.qmd
-      text: Order
+    left:
+      - href: index.qmd#home
+        text: Home
+      - href: index.qmd#about
+        text: About
+      - href: index.qmd#products
+        text: Products
+      - href: contact.qmd
+        text: Order
 
 format:
   html:

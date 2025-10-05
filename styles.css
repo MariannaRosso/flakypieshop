@@ -400,3 +400,47 @@ form button[type="submit"]:hover {
   color: #ce4f81;          /* soft pink highlight on hover */
   text-decoration: underline;
 }
+
+
+.language-switch {
+  text-align: center;
+  margin-top: 3rem;
+  font-family: 'Lobster Two', cursive;
+  font-size: 1.3rem;
+  color: #772a50;
+}
+
+.language-switch a {
+  color: #b25c7d;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+.language-switch a:hover {
+  color: #ce4f81;
+  text-decoration: underline;
+}
+
+.footer-heart {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.footer-heart i {
+  color: #ce4f81;           /* your brand pink */
+  font-size: 1rem;          /* adjust size as you like */
+  animation: pulse 2s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 0.8;
+  }
+}
+
