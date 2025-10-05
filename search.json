@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "de/contact.html",
+    "href": "de/contact.html",
+    "title": "Menu",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Your browser does not support the video tag. \n\n\n\n\n\nMenu\n\n\nFlaky Pies\n\n\nCinnamon Apple Crumble PieCHF 34\n\n\nBlueberry Maple Chess PieCHF 36\n\n\nChocolat-y Pecan PieCHF 38\n\n\nSeasonal Pies\n\n\nPumpkin PieCHF 35\n\n\nTreats & More\n\n\nSesame Rice Krispies TreatsCHF 18\n\n\nBell Pepper and Feta CornbreadCHF 18\n\n\n\nA Note on Pricing\nBecause each pie is lovingly baked in my home kitchen, the costs are a bit higher than mass-produced alternatives. Every pie is about 24 cm in diameter and serves around 6 – 8 people… depending on how big their sweet tooth is.\n\n\nPlace an Order\n\n\n\nName \nEmail \n\nWhat would you like?  Cinnamon Apple Pie Sweet Potato Casserole Pie Chocolat-y Pecan Pie Seasonal Pie Sesame Rice Krispies Treats Cornbread with Bell Pepper Cream and Feta Custom Order \nQuestions / Special Requests / Custom Order\n\n\n \n\nSend Order"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Menu",
+    "section": "",
+    "text": "Your browser does not support the video tag. \n\n\n\n\n\nMenu\n\n\nFlaky Pies\n\n\nCinnamon Apple Crumble PieCHF 34\n\n\nBlueberry Maple Chess PieCHF 36\n\n\nChocolat-y Pecan PieCHF 38\n\n\nSeasonal Pies\n\n\nPumpkin PieCHF 35\n\n\nTreats & More\n\n\nSesame Rice Krispies TreatsCHF 18\n\n\nBell Pepper and Feta CornbreadCHF 18\n\n\n\nA Note on Pricing\nBecause each pie is lovingly baked in my home kitchen, the costs are a bit higher than mass-produced alternatives. Every pie is about 24 cm in diameter and serves around 6 – 8 people… depending on how big their sweet tooth is.\n\n\nPlace an Order\n\n\n\nName \nEmail \n\nWhat would you like?  Cinnamon Apple Pie Sweet Potato Casserole Pie Chocolat-y Pecan Pie Seasonal Pie Sesame Rice Krispies Treats Cornbread with Bell Pepper Cream and Feta Custom Order \nQuestions / Special Requests / Custom Order\n\n\n \n\nSend Order"
   },
   {
     "objectID": "index.html#flaky-pies",
@@ -28,10 +35,24 @@
     "text": "Treats & More\nSesame Rice Krispies Treats\nChewy, toasty-sweet bars with a nutty sesame twist.\nBell Pepper and Feta Cornbread\nSavory-sweet cornbread topped with creamy peppers and tangy feta."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Menu",
-    "section": "",
-    "text": "Your browser does not support the video tag. \n\n\n\n\n\nMenu\n\n\nFlaky Pies\n\n\nCinnamon Apple Crumble PieCHF 34\n\n\nBlueberry Maple Chess PieCHF 36\n\n\nChocolat-y Pecan PieCHF 38\n\n\nSeasonal Pies\n\n\nPumpkin PieCHF 35\n\n\nTreats & More\n\n\nSesame Rice Krispies TreatsCHF 18\n\n\nBell Pepper and Feta CornbreadCHF 18\n\n\n\nA Note on Pricing\nBecause each pie is lovingly baked in my home kitchen, the costs are a bit higher than mass-produced alternatives. Every pie is about 24 cm in diameter and serves around 6 – 8 people… depending on how big their sweet tooth is.\n\n\nPlace an Order\n\n\n\nName \nEmail \n\nWhat would you like?  Cinnamon Apple Pie Sweet Potato Casserole Pie Chocolat-y Pecan Pie Seasonal Pie Sesame Rice Krispies Treats Cornbread with Bell Pepper Cream and Feta Custom Order \nQuestions / Special Requests / Custom Order\n\n\n \n\nSend Order"
+    "objectID": "de/index.html#flaky-pies",
+    "href": "de/index.html#flaky-pies",
+    "title": "About",
+    "section": "Flaky Pies",
+    "text": "Flaky Pies\nCinnamon Apple Crumble Pie\nCozy spiced apples tucked under a buttery crumble.\nBlueberry Maple Chess Pie\nThe taste of a maple syrup soaked pancake in a slice.\nChocolat-y Pecan Pie\nThe richness of dark chocolate with toasty pecans and a hint of salt."
+  },
+  {
+    "objectID": "de/index.html#seasonal-pies",
+    "href": "de/index.html#seasonal-pies",
+    "title": "About",
+    "section": "Seasonal Pies",
+    "text": "Seasonal Pies\nPumpkin Pie\nCreamy spiced pumpkin custard in a crisp, flaky shell — fall in a slice."
+  },
+  {
+    "objectID": "de/index.html#treats-more",
+    "href": "de/index.html#treats-more",
+    "title": "About",
+    "section": "Treats & More",
+    "text": "Treats & More\nSesame Rice Krispies Treats\nChewy, toasty-sweet bars with a nutty sesame twist.\nBell Pepper and Feta Cornbread\nSavory-sweet cornbread topped with creamy peppers and tangy feta."
   }
 ]
