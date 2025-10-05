@@ -214,6 +214,13 @@ form button[type="submit"]:hover {
   background-color: #a8486d;
 }
 
+label[for][for]:has(+ input[required])::after,
+label[for][for]:has(+ select[required])::after,
+label[for][for]:has(+ textarea[required])::after {
+  content: " (required)";
+  color: #a66a85;
+  font-size: 0.9em;
+}
 
 /* -----------------------------------------
    🌸 UTILITIES

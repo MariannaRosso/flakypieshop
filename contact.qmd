@@ -38,9 +38,8 @@ format:
 
 Because each pie is lovingly baked in my home kitchen, the costs are a bit higher than mass-produced alternatives. Every pie is about 24 cm in diameter and serves around 6 – 8 people… depending on how big their sweet tooth is.
 
-
 <section id="order">
-  <h1>Place an Order</h1>
+  <h1>Get in Touch or Place an Order</h1>
   <form action="https://formsubmit.co/marianna.rosso3@gmail.com" method="POST">
     
     <!-- Basic info -->
@@ -50,18 +49,28 @@ Because each pie is lovingly baked in my home kitchen, the costs are a bit highe
     <label for="email">Email</label>
     <input type="email" id="email" name="email" required>
 
+    <label for="phone">Phone Number</label>
+    <input 
+      type="tel" 
+      id="phone" 
+      name="phone" 
+      pattern="[0-9+\s()-]{6,}" 
+      placeholder="+41 79 123 45 67" 
+      required
+    >
+
     <!-- Order details -->
     <label for="product">What would you like?</label>
     <select id="product" name="product" required>
       <option value="Cinnamon Apple Pie">Cinnamon Apple Pie</option>
-      <option value="Blueberry Maple Chess Pie">Sweet Potato Casserole Pie</option>
+      <option value="Sweet Potato Casserole Pie">Sweet Potato Casserole Pie</option>
       <option value="Chocolat-y Pecan Pie">Chocolat-y Pecan Pie</option>
       <option value="Seasonal Pie">Seasonal Pie</option>
       <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option>
       <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option>
       <option value="Custom Order">Custom Order</option>
+      <option value="Custom Order">Inquiry</option>
     </select>
-
 
     <label for="message">Questions / Special Requests / Custom Order</label>
     <textarea id="message" name="message" rows="4"></textarea>
@@ -73,3 +82,4 @@ Because each pie is lovingly baked in my home kitchen, the costs are a bit highe
     <button type="submit">Send Order</button>
   </form>
 </section>
+
