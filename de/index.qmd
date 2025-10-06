@@ -14,22 +14,14 @@ format:
 
 
 
-![](../logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}
+![](../logo_website.png){fig-align="center" width="642" alt="Flaky — Amerikanische Pie-Bäckerei in Zürich, Schweiz"}
 
 <div class="content-overlay">
-**Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to nostalgic flavors.
+**Flaky** ist eine kleine, gemütliche Home-Microbäckerei in Wallisellen, gleich ausserhalb von Zürich. Hier backe ich **amerikanische Pies und Süssigkeiten** – von buttrig-zarten Teigen bis zu nostalgischen Geschmacksrichtungen. Alles wird von Hand gemacht, mit hochwertigen Schweizer Zutaten und einer grossen Portion Herz.  
+Bestell einfach online – zur Abholung in Wallisellen oder mit Lieferung in ganz Zürich.
 
-# About {#about}
 
-Hi, I’m Marianna 🍓\
-I’m a researcher by profession — and a pastry chef by heart.
-
-Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career.\
-Growing up, I spent much of my childhood travelling through the USA, where I fell in love with flaky American pies, cookies, and all things sweet.
-
-Now, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.
-
-# Sweets {#sweets}
+# Was ich mache {#sweets}
 
 
 <div class="gallery">
@@ -37,74 +29,85 @@ Now, as a new mom, I’ve opened a small microbakery from my home — a space wh
 <a href="https://www.instagram.com/flakypieshop" target="_blank">
 <img src="../images/PecanPie.jpeg" alt="Pecan Pie">
 </a>
-<p class="caption">Chocolat-y Pecan Pie</p>
+<p class="caption">Schokoladige Pekannuss-Pie</p>
 </div>
 
 <div class="polaroid">
 <a href="https://www.instagram.com/flakypieshop" target="_blank">
 <img src="../images/RiceKrispiesTreats.jpg" alt="Rice Krispies Treats">
 </a>
-<p class="caption">Sesame Rice Krispies Treats</p>
+<p class="caption">Sesam-Rice-Krispies-Treats</p>
 </div>
 
 <div class="polaroid">
 <a href="https://www.instagram.com/flakypieshop" target="_blank">
 <img src="../images/Cheesecake.jpeg" alt="Cheesecake">  </a>
-<p class="caption">Lemon Ricotta Cheesecake</p>
+<p class="caption">Zitronen-Ricotta-Cheesecake</p>
 </div>
 
 <div class="polaroid">
 <a href="https://www.instagram.com/flakypieshop" target="_blank">
 <img src="../images/Emilie2.jpeg" alt="Chocolate Cake">  </a>
-<p class="caption">Triple Chocolate Cake</p>
+<p class="caption">Triple-Chocolate-Cake</p>
 </div>
 
 <div class="polaroid">
 <a href="https://www.instagram.com/flakypieshop" target="_blank">
 <img src="../images/Cornbread2.jpeg" alt="Cornbread">  </a>
-<p class="caption">Bell Pepper and Feta Cornbread</p>
+<p class="caption">Maisbrot mit Peperoni und Feta</p>
 </div>
 
 </div>
 
 
+Warum Pies? Weil buttrig-blättriger Teig und süsse, cremige Füllungen einfach glücklich machen. Langsam gebacken, bis sie goldbraun duften und die Küche nach Zuhause riecht. 🥧
 
-Why pies? Flaky, buttery layers hold sweet fruits, creamy fillings, or rich spices, baked slowly until golden and bubbling with comfort.
+Amerikanische Süssigkeiten sind pure Freude – einfach, ehrlich und voller Geschmack. Der säuerliche Kick von Buttermilch, die Süsse von Ahornsirup, das cremige Frischkäse-Aroma… das alles erinnert mich an meine Kindheit in den USA. Es geht nicht um Perfektion – sondern um Wärme, Spass und das Gefühl, daheim zu sein.
 
-Made just for you 💛
+Jede Pie und jedes Dessert wird frisch auf Bestellung gebacken – ich backe erst, wenn du bestellst, damit alles die Zeit und Aufmerksamkeit bekommt, die es verdient. Ob du Lust auf etwas Klassisches hast oder eine neue Variante ausprobieren willst – ich backe es mit Liebe, nur für dich.
 
-Every pie and treat is baked fresh to order — I only bake after a reservation, so each creation gets the care and time it deserves. I’m always happy to adapt recipes or flavors for your tastes, and I love working on special requests.
-
-# Products {#products}
+# Produkte {#products}
 
 ## Flaky Pies
 
-**Cinnamon Apple Crumble Pie**\
-Cozy spiced apples tucked under a buttery crumble.
+**Zimt-Apfel-Crumble-Pie**\
+Würzige Äpfel unter einer goldbraunen Butterstreusel-Decke.
 
-**Blueberry Maple Chess Pie**\
-The taste of a maple syrup soaked pancake in a slice.
+**Blaubeer-Ahornsirup-Chess-Pie**\
+Wie ein Pancake mit Ahornsirup – in Pie-Form.
 
-**Chocolat-y Pecan Pie**\
-The richness of dark chocolate with toasty pecans and a hint of salt.
+**Schokoladige Pekannuss-Pie**\
+Dunkle Schokolade, geröstete Pekannüsse und eine Prise Salz – reichhaltig und köstlich.
 
-## Seasonal Pies
+## Saisonale Pies
 
-**Pumpkin Pie**\
-Creamy spiced pumpkin custard in a crisp, flaky shell — fall in a slice.
+**Kürbis-Pie**\
+Cremige, gewürzte Kürbisfüllung in einer knusprigen Hülle – der Geschmack des Herbstes.
 
-## Treats & More
+## Treats & Mehr
 
-**Sesame Rice Krispies Treats**\
-Chewy, toasty-sweet bars with a nutty sesame twist.
+**Sesam-Rice-Krispies-Treats**\
+Chewy, süss-geröstete Riegel mit einem nussigen Sesam-Twist.
 
-**Bell Pepper and Feta Cornbread**\
-Savory-sweet cornbread topped with creamy peppers and tangy feta.
+**Maisbrot mit Peperoni und Feta**\
+Herzhaft-süsses Maisbrot mit cremigen Peperoni und würzigem Feta.
+
+**Spezialbestellung**\
+Ob eine ganz eigene Pie, Mini-Treats oder ein Dessert für einen besonderen Anlass – ich freu mich, etwas nur für dich zu kreieren.
 </div>
 
 <div class="nav-button">
-  <a href="contact.qmd" class="btn-link">Prices and Order</a>
+  <a href="contact.qmd" class="btn-link">Preise & Bestellung</a>
 </div>
+
+# Über mich {#about}
+
+Hey, ich bin Marianna 🍓\
+Forscherin im Alltag – und Konditorin im Herzen.
+
+Ich komme ursprünglich aus Italien und habe eine Ausbildung zur Konditorin gemacht, bevor ich 2016 in die Schweiz gezogen bin, um meine Forschungskarriere weiterzuführen. In meiner Kindheit habe ich viel Zeit in den USA verbracht – dort habe ich meine Liebe zu amerikanischen Pies, Cookies und allem Süssem entdeckt.
+
+Jetzt, als frischgebackene Mama, habe ich meine kleine Microbäckerei zu Hause eröffnet – ein Ort, an dem ich meine Leidenschaft fürs Backen teilen und gleichzeitig Zeit mit meinem Baby verbringen kann.
 
 <script type="application/ld+json">
 {
@@ -117,14 +120,14 @@ Savory-sweet cornbread topped with creamy peppers and tangy feta.
     "addressLocality": "Zürich",
     "addressCountry": "CH"
   },
-  "servesCuisine": "American desserts",
+  "servesCuisine": "Amerikanische Desserts",
   "url": "https://yourdomain.com",
-  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, and pecan pie."
+  "description": "Flaky ist eine kleine Home-Microbäckerei in Zürich, die handgemachte amerikanische Pies wie Kürbis-Pie, Zimt-Apfel-Crumble und Pekannuss-Pie backt."
 }
 </script>
 
 <div class="social-center">
-  <h3 class="social-heading">Follow me on Instagram!</h3>
+  <h3 class="social-heading">Folge mir auf Instagram!</h3>
   <a href="https://www.instagram.com/flakypieshop" target="_blank" class="social-link">
     <i class="fab fa-instagram"></i>
   </a>
@@ -146,7 +149,25 @@ Savory-sweet cornbread topped with creamy peppers and tangy feta.
 
 <footer class="site-footer">
   <p>
-    Psst... I programmed this website myself in Quarto, the code is available
-    <a href="https://github.com/MariannaRosso/flakypieshop" target="_blank">here</a>.
+    Psst... Diese Website hab ich selbst mit Quarto gebaut – den Code findest du
+    <a href="https://github.com/MariannaRosso/flakypieshop" target="_blank">hier</a>.
   </p>
 </footer>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // collapse the menu
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>
