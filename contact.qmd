@@ -18,25 +18,27 @@ format:
 <div class="menu-list">
 
   <h3>Flaky Pies</h3>
-  <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 34</span></p>
-  <p><span class="item">Blueberry Maple Chess Pie</span><span class="dots"></span><span class="price">CHF 36</span></p>
-  <p><span class="item">Chocolat-y Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
+  <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
+  <p><span class="item">Blueberry Maple Chess Pie</span><span class="dots"></span><span class="price">CHF 45</span></p>
+  <p><span class="item">Chocolat-y Pecan Pie</span><span class="dots"></span><span class="price">CHF 48</span></p>
 
 
   <h3>Seasonal Pies</h3>
-  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 35</span></p>
+  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
 
   <h3>Treats & More</h3>
-  <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 18</span></p>
-  <p><span class="item">Bell Pepper and Feta Cornbread</span><span class="dots"></span><span class="price">CHF 18</span></p>
+  <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 22</span></p>
+  <p><span class="item">Bell Pepper and Feta Cornbread</span><span class="dots"></span><span class="price">CHF 22</span></p>
+  <p><span class="item">Custom Order</span><span class="dots"></span><span class="price">on request</span></p>
 
 </div>
 
+## How it works
+Every pie is handmade with love, crafted with care, and baked using only high-quality Swiss ingredients.
+Each pie is about 24 cm in diameter and serves 6–10 people — depending, of course, on how generous the slices are.
 
-
-
-My pies are handmade with love, crafted with high attention to detail and using only high-quality Swiss ingredients.
-Each pie measures around 24 cm in diameter and serves 6–10 people — depending, of course, on how big their sweet tooth is.
+Orders can be picked up in Wallisellen, or delivery within the Zürich area may be arranged.
+Because every pie and dessert is made from scratch — from resting the dough to letting the filling set — please allow at least 4 days’ notice for your order.
 
 <section id="order">
   <h1>Get in Touch or Place an Order</h1>

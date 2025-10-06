@@ -17,20 +17,11 @@ format:
 ![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}
 
 <div class="content-overlay">
-**Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to nostalgic flavors.
+**Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, baking **American-style pies and treats** — from buttery crusts to nostalgic flavors. Each creation is handmade with care, using high-quality Swiss ingredients and a touch of heart.
+Place your order online for pickup in Wallisellen or delivery across Zürich.
 
 
-# About {#about}
-
-Hi, I’m Marianna 🍓\
-I’m a researcher by profession — and a pastry chef by heart.
-
-Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career.\
-Growing up, I spent much of my childhood travelling through the USA, where I fell in love with flaky American pies, cookies, and all things sweet.
-
-Now, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.
-
-# Sweets {#sweets}
+# What I Do {#sweets}
 
 
 <div class="gallery">
@@ -101,11 +92,23 @@ Chewy, toasty-sweet bars with a nutty sesame twist.
 
 **Bell Pepper and Feta Cornbread**\
 Savory-sweet cornbread topped with creamy peppers and tangy feta.
+
+**Costum Order**\
+Whether it’s a personalized pie flavor, a batch of mini treats, or a dessert to match a special occasion, I’m always happy to create something just for you.
 </div>
 
 <div class="nav-button">
   <a href="contact.qmd" class="btn-link">Prices and Order</a>
 </div>
+
+# About {#about}
+
+Hi, I’m Marianna 🍓\
+I’m a researcher by profession — and a pastry chef by heart.
+
+Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career.Growing up, I spent much of my childhood travelling through the USA, where I fell in love with flaky American pies, cookies, and all things sweet.
+
+Now, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.
 
 <script type="application/ld+json">
 {
