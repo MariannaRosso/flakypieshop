@@ -19,6 +19,7 @@ format:
 <div class="content-overlay">
 **Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, lovingly baking **American-style pies and treats** — from buttery crusts to nostalgic flavors.
 
+
 # About {#about}
 
 Hi, I’m Marianna 🍓\
@@ -150,3 +151,21 @@ Savory-sweet cornbread topped with creamy peppers and tangy feta.
     <a href="https://github.com/MariannaRosso/flakypieshop" target="_blank">here</a>.
   </p>
 </footer>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // collapse the menu
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>
