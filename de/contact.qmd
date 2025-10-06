@@ -8,68 +8,68 @@ format:
 <div class="background-video-container">
   <video autoplay loop muted playsinline>
     <source src="Backgroundrotating.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    Dein Browser unterstützt das Video-Tag nicht.
   </video>
 </div>
 <div class="spacer-small"></div>
 
-# Menu
+# Menü
 
 <div class="menu-list">
 
   <h3>Flaky Pies</h3>
-  <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 34</span></p>
-  <p><span class="item">Blueberry Maple Chess Pie</span><span class="dots"></span><span class="price">CHF 36</span></p>
-  <p><span class="item">Chocolat-y Pecan Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
+  <p><span class="item">Zimt-Apfel-Crumble-Pie</span><span class="dots"></span><span class="price">CHF 34</span></p>
+  <p><span class="item">Blaubeer-Ahornsirup-Chess-Pie</span><span class="dots"></span><span class="price">CHF 36</span></p>
+  <p><span class="item">Schokoladige Pekannuss-Pie</span><span class="dots"></span><span class="price">CHF 38</span></p>
 
 
-  <h3>Seasonal Pies</h3>
-  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 35</span></p>
+  <h3>Saisonale Pies</h3>
+  <p><span class="item">Kürbis-Pie</span><span class="dots"></span><span class="price">CHF 35</span></p>
 
-  <h3>Treats & More</h3>
-  <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 18</span></p>
-  <p><span class="item">Bell Pepper and Feta Cornbread</span><span class="dots"></span><span class="price">CHF 18</span></p>
+  <h3>Treats & Mehr</h3>
+  <p><span class="item">Sesam-Rice-Krispies-Treats</span><span class="dots"></span><span class="price">CHF 18</span></p>
+  <p><span class="item">Maisbrot mit Peperoni und Feta</span><span class="dots"></span><span class="price">CHF 18</span></p>
 
 </div>
 
 
 
-### A Note on Pricing
+### Ein Wort zu den Preisen
 
-Because each pie is lovingly baked in my home kitchen, the costs are a bit higher than mass-produced alternatives. Every pie is about 24 cm in diameter and serves around 6 – 8 people… depending on how big their sweet tooth is.
+Da jede Pie liebevoll in meiner eigenen Küche gebacken wird, sind die Preise etwas höher als bei industriell hergestellten Desserts. Jede Pie hat einen Durchmesser von etwa 24 cm und reicht für rund 6–8 Stücke… je nachdem, wie gross der süsse Hunger ist. 😋
 
 
 <section id="order">
-  <h1>Place an Order</h1>
+  <h1>Bestellung aufgeben</h1>
   <form action="https://formsubmit.co/marianna.rosso3@gmail.com" method="POST">
     
     <!-- Basic info -->
     <label for="name">Name</label>
     <input type="text" id="name" name="name" required>
 
-    <label for="email">Email</label>
+    <label for="email">E-Mail</label>
     <input type="email" id="email" name="email" required>
 
     <!-- Order details -->
-    <label for="product">What would you like?</label>
+    <label for="product">Was möchtest du bestellen?</label>
     <select id="product" name="product" required>
-      <option value="Cinnamon Apple Pie">Cinnamon Apple Pie</option>
-      <option value="Blueberry Maple Chess Pie">Sweet Potato Casserole Pie</option>
-      <option value="Chocolat-y Pecan Pie">Chocolat-y Pecan Pie</option>
-      <option value="Seasonal Pie">Seasonal Pie</option>
-      <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option>
-      <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option>
-      <option value="Custom Order">Custom Order</option>
+      <option value="Cinnamon Apple Pie">Zimt-Apfel-Pie</option>
+      <option value="Blueberry Maple Chess Pie">Blaubeer-Ahornsirup-Pie</option>
+      <option value="Chocolat-y Pecan Pie">Schokoladige Pekannuss-Pie</option>
+      <option value="Seasonal Pie">Saisonale Pie</option>
+      <option value="Sesame Rice Krispies Treats">Sesam-Rice-Krispies-Treats</option>
+      <option value="Cornbread with Bell Pepper Cream and Feta">Maisbrot mit Peperoni und Feta</option>
+      <option value="Custom Order">Spezialbestellung</option>
     </select>
 
 
-    <label for="message">Questions / Special Requests / Custom Order</label>
+    <label for="message">Fragen / Wünsche / Spezialbestellung</label>
     <textarea id="message" name="message" rows="4"></textarea>
 
     <!-- FormSubmit settings -->
-    <input type="hidden" name="_subject" value="New Pie Order!">
+    <input type="hidden" name="_subject" value="Neue Pie-Bestellung!">
     <input type="hidden" name="_captcha" value="false">
 
-    <button type="submit">Send Order</button>
+    <button type="submit">Bestellung abschicken</button>
   </form>
 </section>
