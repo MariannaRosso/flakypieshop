@@ -7,7 +7,7 @@ format:
 
 <div class="background-video-container">
   <video autoplay loop muted playsinline>
-    <source src="Backgroundrotating.mp4" type="video/mp4">
+    <source src="../Backgroundrotating.mp4" type="video/mp4">
     Dein Browser unterstützt das Video-Tag nicht.
   </video>
 </div>
