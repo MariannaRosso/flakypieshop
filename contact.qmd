@@ -85,3 +85,7 @@ Because every pie and dessert is made from scratch — from resting the dough to
   </form>
 </section>
 
+<div class="language-switch">
+  <a href="contact.html">English</a> |
+  <a href="de/contact.html">Deutsch</a>
+</div>
