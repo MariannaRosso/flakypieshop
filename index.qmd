@@ -15,7 +15,7 @@ format:
 </div>
 
 
-
+<div class="content-strip">
 ![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}
 
 Flaky is a cozy home-based microbakery in the Zürich area making **American-style pies and treats**—from buttery, flaky crusts to chewy and sweet rice krispie treats. Everything is handmade with high-quality Swiss ingredients. **Order online** for **pickup in Wallisellen** or **delivery across Zürich**. Seasonal favorites include pumpkin, pecan, apple & key lime.
@@ -26,11 +26,11 @@ Flaky is a cozy home-based microbakery in the Zürich area making **American-sty
 
 # Products {#products}
 
-American sweets are pure happiness — simple and full of flavor. The tang of buttermilk and cream cheese, the sweetness of maple syrup, and all that buttery goodness… they take me right back to my childhood. They’re not about perfection — they’re about warmth, joy, and the feeling of home.
+**American sweets are pure happiness** — simple and full of flavor. The tang of buttermilk and cream cheese, the sweetness of maple syrup, and all that buttery goodness… they take me right back to my childhood. They’re not about perfection — they’re about **warmth, joy, and the feeling of home.**
 
-And pies? The flakyness of a pie crust combined with a sweet and creamy filling or a fragrant fruit, is just joy.
+And pies? The **flakiness of a pie crust** combined with a sweet and creamy filling or a fragrant fruit is just joy.
 
-Every pie and treat is baked fresh to order — I only bake after a reservation, so each creation gets the care and time it deserves. Whether you’re craving something familiar or want to try a new twist on a classic, I’ll bake it with love — just for you.
+Every pie and treat is **baked fresh to order** — I only bake after a reservation, so each creation gets the care and time it deserves. Whether you’re craving something familiar or want to try a new twist on a classic, **I’ll bake it with love — just for you.**
 
 ## Flaky Pies
 
@@ -190,7 +190,7 @@ Now, as a new mom, I’ve opened a small microbakery from my home — a space wh
     <a href="https://github.com/MariannaRosso/flakypieshop" target="_blank">here</a>.
   </p>
 </footer>
-
+</div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {

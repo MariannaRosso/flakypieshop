@@ -1,72 +1,72 @@
-/* -----------------------------------------
-   🌸 GLOBAL BASE STYLES
------------------------------------------ */
+/* =====================================================
+   🌸 FLAKY PIE SHOP – MAIN STYLESHEET
+   Organized & optimized version
+===================================================== */
+
+
+/* =====================================================
+   🌸 BASE STYLES
+===================================================== */
 
 .quarto-title-block { display: none; }
 
-/* Page-wide defaults */
+html { scroll-behavior: smooth; }
 
-a {
-  color: #ce4f81; 
-  text-decoration: underline;
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'Dosis', sans-serif;
+  color: #632543;
 }
 
+a {
+  color: #ce4f81;
+  text-decoration: underline;
+}
 a:hover {
   color: #ce4f81;
   text-decoration: underline;
 }
 
-body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  width: 100%;
-  font-family: 'Dosis', sans-serif; /* Main text font */
-  color: #632543;                   /* Main text color */
-}
-
-/* Smooth scrolling for anchor links */
-html {
-  scroll-behavior: smooth;
-}
-
-/* Global heading, navbar, button, and menu title font */
+/* Heading font family (Lobster Two) */
 h1, h2, h3, h4, h5, h6,
-.navbar,
-.navbar-nav .nav-link,
-.btn-link,
-form button[type="submit"],
+.navbar, .navbar-nav .nav-link,
+.btn-link, form button[type="submit"],
 .menu-list h3 {
-  font-family: 'Lobster Two', cursive; /* Accent font */
+  font-family: 'Lobster Two', cursive;
 }
 
-/* Anchor scroll offset (so titles aren’t hidden under navbar) */
-:target {
-  scroll-margin-top: 50px;
+h1, h2 {
+  color: #984167;
 }
 
+/* Scroll offset so titles aren’t hidden under navbar */
+:target { scroll-margin-top: 50px; }
 
-/* -----------------------------------------
+.spacer-small { height: 0.3rem; }
+
+
+/* =====================================================
    🌸 BACKGROUND MEDIA
------------------------------------------ */
+===================================================== */
 
 /* Desktop background video */
 .background-video-container {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;  
-  z-index: -1; /* Behind all content */
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  overflow: hidden;
+  z-index: -1;
 }
 .background-video-container video {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: s;
 }
 
-/* Mobile background image (hidden by default) */
+/* Mobile background image */
 .mobile-background-image {
   display: none;
 }
@@ -77,24 +77,20 @@ form button[type="submit"],
 }
 
 
-/* -----------------------------------------
+/* =====================================================
    🌸 NAVBAR
------------------------------------------ */
+===================================================== */
 
 .navbar {
   position: fixed;
-  top: 0;
-  left: 0;
+  top: 0; left: 0;
   width: 100%;
   z-index: 1000;
-  background-color: #fdd3e3; 
+  background-color: #fdd3e3;
   padding: 1.3rem 0;
 }
-.navbar-brand {
-  display: none;
-}
+.navbar-brand { display: none; }
 
-/* Center nav links */
 .navbar-nav {
   position: absolute;
   left: 50%;
@@ -108,23 +104,18 @@ form button[type="submit"],
   text-decoration: none;
   transition: color 0.3s ease;
 }
-.navbar-nav .nav-link:hover {
-  color: #ce4f81;
-}
+.navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
   color: #ce4f81 !important;
-  font-weight: 600;
 }
 
 
-/* -----------------------------------------
+/* =====================================================
    🌸 BUTTONS
------------------------------------------ */
+===================================================== */
 
-.nav-button {
-  text-align: center;
-  margin: 3rem 0;
-}
+.nav-button { text-align: center; margin: 3rem 0; }
+
 .btn-link {
   display: inline-block;
   padding: 14px 28px;
@@ -137,19 +128,18 @@ form button[type="submit"],
 }
 .btn-link:hover {
   background-color: #a8486d;
-  color: #ffffff !important; /* no blue hover */
+  color: #fff !important;
 }
 
 
-/* -----------------------------------------
+/* =====================================================
    🌸 MENU LIST
------------------------------------------ */
+===================================================== */
 
 .menu-list h3 {
   font-weight: 600;
   font-size: 1.2rem;
-  margin-top: 2rem;
-  margin-bottom: 0.6rem;
+  margin: 2rem 0 0.6rem;
   color: #b25c7d;
 }
 .menu-list p {
@@ -158,40 +148,31 @@ form button[type="submit"],
   font-size: 1.1rem;
   margin-right: 1rem;
 }
-.menu-list .item {
-  white-space: nowrap;
-}
+.menu-list .item { white-space: nowrap; }
 .menu-list .dots {
   flex: 1;
   border-bottom: 1px dotted #e5a6c5;
   margin: 0 8px;
 }
-.menu-list .price {
-  white-space: nowrap;
-}
+.menu-list .price { white-space: nowrap; }
 
 
-/* -----------------------------------------
+/* =====================================================
    🌸 FORMS
------------------------------------------ */
+===================================================== */
 
 form {
   max-width: 500px;
   margin: 0 auto;
 }
-form h1, form h2, form h3 {
-  margin-bottom: 1rem;
-}
+form h1, form h2, form h3 { margin-bottom: 1rem; }
 form label {
   display: block;
   margin-bottom: 0.3rem;
   font-weight: 500;
   color: #772a50;
 }
-form input,
-form select,
-form textarea {
-  display: block;
+form input, form select, form textarea {
   width: 100%;
   padding: 0.6rem 0.8rem;
   margin-bottom: 1.2rem;
@@ -209,99 +190,229 @@ form button[type="submit"] {
   font-size: 1.1rem;
   border-radius: 8px;
   cursor: pointer;
-  display: block;
   width: 100%;
 }
-form button[type="submit"]:hover {
-  background-color: #a8486d;
+form button[type="submit"]:hover { background-color: #a8486d; }
+
+
+/* =====================================================
+   🌸 GALLERY & POLAROID CARDS
+===================================================== */
+
+/* Gallery container */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  gap: 1.5rem;
+  margin: 2rem 0;
 }
 
-label[for][for]:has(+ input[required])::after,
-label[for][for]:has(+ select[required])::after,
-label[for][for]:has(+ textarea[required])::after {
-  content: " (required)";
-  color: #a66a85;
-  font-size: 0.9em;
+/* Polaroid card */
+.polaroid {
+  background: #fff8f9;
+  padding: 0.5rem 0.75rem 0.8rem;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(119, 42, 80, 0.2);
+  max-width: 220px;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+.polaroid:hover { transform: translateY(-5px); }
+
+.polaroid img,
+.polaroid video {
+  width: 100%;
+  border-radius: 4px;
+  display: block;
+  margin: 0 0 0.35rem !important;
 }
 
+.polaroid-title h3 { margin-bottom: 0.9rem; }
+
+.polaroid .caption,
+.polaroid .polaroid-desc {
+  background-color: transparent !important;
+  font-size: 0.95rem;
+  color: #632543;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+/* Responsive grid (2-column layout on mobile) */
+/* MOBILE: one card per row; inside the card = 2 columns */
 /* -----------------------------------------
-   🌸 UTILITIES
+   🌸 MOBILE: Title on top, two columns below (image + text)
 ----------------------------------------- */
-
-.spacer-small {
-  height: 0.3rem;
-}
-
-
-/* -----------------------------------------
-   🌸 MEDIA QUERIES
------------------------------------------ */
-
-/* Phones */
 @media (max-width: 768px) {
-  /* hide video, show background image */
-  .background-video-container { display: none; }
-  .mobile-background-image {
-    display: block;
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    z-index: -1;
-    overflow: hidden;
+  .gallery {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    align-items: center;
   }
 
-  body {
-    background-color: #ffd9e5; /* fallback */
-    padding-top: 80px !important; /* offset for navbar */
-  }
-  .navbar { width: 100%; }
-
-  /* readable text blocks */
-  .content-overlay,
-  .menu-list,
-  form,
-  section,
-  p {
-    background: #ffd9e5;
-    margin-left: 0.4rem;
-    margin-right: 0.4rem;
+  .polaroid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 95%;
+    padding: 0.8rem;
+    text-align: center;
   }
 
-  /* menu tweaks */
-  .menu-list { padding: 0 1rem; }
-
-  .menu-list p {
-    display: block;       /* stack vertically */
-    margin: 0.8rem 0;     /* spacing between items */
-    font-size: 1.1rem;
+  /* Title centered across the top */
+  .polaroid-title {
+    margin-bottom: 0.8rem;
   }
 
-  .menu-list .item {
-    display: block;       /* first line = item name */
-    margin-bottom: 0.2rem;
+  .polaroid-title h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    text-align: center;
   }
 
-  .menu-list .dots {
-    display: inline-block;
-    width: 75%;           /* dotted line width — adjust to taste */
-    border-bottom: 1px dotted #e5a6c5;
-    margin-right: 0.5rem;
+  /* Two-column area: image left, text right */
+  .polaroid-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
   }
 
-  .menu-list .price {
-    display: inline-block;
-    float: right;         /* keep price at end of line */
+  .polaroid img,
+  .polaroid video {
+    width: 100%;
+    border-radius: 6px;
+    height: auto;
   }
 
-  .menu-list h3 {
-    margin-top: 1.2rem;
-    margin-bottom: 0.4rem;
-    font-size: 1.1rem;
-    font-size: 1.4rem;
+  .polaroid-desc {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    text-align: left;
+    margin: 0;
+  }
+
+  /* Tiny screens stack image and text again */
+  @media (max-width: 420px) {
+    .polaroid-content {
+      grid-template-columns: 1fr;
+    }
+    .polaroid-desc {
+      text-align: center;
+      margin-top: 0.6rem;
+    }
   }
 }
 
-/* Tablet and smaller */
+
+
+/* =====================================================
+   🌸 PIE DETAIL PAGE
+===================================================== */
+
+.pie-layout {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 1rem 0 2rem;
+}
+
+.pie-photo {
+  flex: 1 1 300px;
+  max-width: 400px;
+  border-radius: 8px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.pie-text {
+  flex: 1 1 300px;
+  min-width: 250px;
+}
+
+
+/* =====================================================
+   🌸 FOOTER
+===================================================== */
+
+.site-footer {
+  text-align: center;
+  background: none;
+  font-family: 'Lobster Two', cursive;
+  font-size: 1rem;
+  color: #9f657e;
+}
+.site-footer a:hover {
+  color: #ce4f81;
+  text-decoration: underline;
+}
+
+.language-switch {
+  text-align: center;
+  margin-top: 3rem;
+  font-family: 'Lobster Two', cursive;
+  font-size: 1.3rem;
+  color: #772a50;
+}
+.language-switch a {
+  color: #b25c7d;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+.language-switch a:hover {
+  color: #ce4f81;
+  text-decoration: underline;
+}
+
+.footer-heart {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+.footer-heart i {
+  color: #ce4f81;
+  font-size: 1rem;
+  animation: pulse 2s infinite ease-in-out;
+}
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 0.8; }
+}
+
+
+/* =====================================================
+   🌸 MISC. OVERRIDES
+===================================================== */
+
+.anchorjs-link { display: none !important; }
+
+.pie-card .card-img-top {
+  width: 30%;
+  aspect-ratio: 1/3;
+  object-fit: cover;
+}
+
+/* Reusable button style */
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  background: #7a3a58;
+  color: #fff;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+.btn:hover { background: #9a4a72; }
+
+
+/* =====================================================
+   🌸 RESPONSIVE – TABLETS & MOBILE
+===================================================== */
+
 @media (max-width: 992px) {
   .navbar-nav {
     position: static;
@@ -328,180 +439,59 @@ label[for][for]:has(+ textarea[required])::after {
   }
 }
 
-/* Centered social icon */
-.social-center {
-  text-align: center;
-  margin: 2rem 0;
-}
-
-.social-heading {
-  margin-bottom: 0.6rem;   /* space between text & logo */
-  font-size: 1.4rem;
-  color: #632543;
-}
-
-.social-link i {
-  font-size: 2rem;   /* smaller logo size */
-  color: #ce4f81;    /* match your theme */
-  transition: color 0.3s ease;
-}
-
-.social-link i:hover {
-  color: #a8486d;    /* darker on hover */
-}
-
-/* Remove anchor link icons from headings */
-.anchorjs-link {
-  display: none !important;
-}
-
-/* Gallery container */
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: left;
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-
-
-/* Polaroid card (straight, no rotation) */
-.polaroid {
-  background: #fff8f9;
-  padding: 0.5rem 0.75rem 0.8rem; 
-  border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(119, 42, 80, 0.2);
-  max-width: 220px;
-  text-align: center;
-  transition: transform 0.2s ease;
-}
-
-
-
-.polaroid:hover {
-  transform: translateY(-5px); /* little hover lift */
-}
-
-/* Images & videos inside */
-.polaroid img,
-.polaroid video {
-  width: 100%;
-  border-radius: 4px;
-  display: block;
-  margin: 0 0 0.35rem !important;
-}
-
-.polaroid-title h3 {
-  margin-bottom: 0.9rem;   /* try 1rem if you want more */
-}
-
-/* Captions */
-.polaroid .caption {
-  margin-top: 0.5rem;
-  font-size: 0.95rem;
-  color: #632543;
-  font-weight: 500;
-}
-
-.site-footer {
-  text-align: center;
-  background: none; /* keep transparent, or pick a soft pink if you prefer */
-  font-family: 'Lobster Two', cursive;
-  font-size: 1rem;
-  color: #9f657e; /* matches your main accent color */
-}
-
-.site-footer a:hover {
-  color: #ce4f81;          /* soft pink highlight on hover */
-  text-decoration: underline;
-}
-
-
-.language-switch {
-  text-align: center;
-  margin-top: 3rem;
-  font-family: 'Lobster Two', cursive;
-  font-size: 1.3rem;
-  color: #772a50;
-}
-
-.language-switch a {
-  color: #b25c7d;
-  text-decoration: none;
-  margin: 0 0.5rem;
-}
-
-.language-switch a:hover {
-  color: #ce4f81;
-  text-decoration: underline;
-}
-
-.footer-heart {
-  text-align: center;
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
-}
-
-.footer-heart i {
-  color: #ce4f81;           /* your brand pink */
-  font-size: 1rem;          /* adjust size as you like */
-  animation: pulse 2s infinite ease-in-out;
-}
-
-@keyframes pulse {
-  0%, 100% {
-    transform: scale(1);
-    opacity: 1;
+/* Small screens */
+@media (max-width: 768px) {
+  .background-video-container { display: none; }
+  .mobile-background-image {
+    display: block;
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    z-index: -1;
+    overflow: hidden;
   }
-  50% {
-    transform: scale(1.2);
-    opacity: 0.8;
+
+  body {
+    background-color: #ffd9e5;
+    padding-top: 80px !important;
+  }
+
+  /* readable text blocks */
+  .content-overlay,
+  .menu-list,
+  form,
+  section,
+  p {
+    background: #ffd9e5;
+    margin: 0 0.4rem;
+  }
+
+  .menu-list { padding: 0 1rem; }
+  .menu-list p { display: block; margin: 0.8rem 0; font-size: 1.1rem; }
+  .menu-list h3 { margin: 1.2rem 0 0.4rem; font-size: 1.4rem; }
+}
+
+/* -----------------------------------------
+   🌸 CONTENT STRIP BACKGROUND
+----------------------------------------- */
+
+.content-strip {
+  background-color: #ffd9e5; /* soft pink with 90% opacity */
+  width: 100%;
+  max-width: 1200px; /* keeps it centered and readable */
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px #ffd9e5;
+  position: relative;
+  z-index: 2; /* above the background video */
+}
+
+/* optional: tighter version for smaller screens */
+@media (max-width: 768px) {
+  .content-strip {
+    padding: 1.2rem;
+    border-radius: 8px;
   }
 }
-
-
-.pie-card .card-img-top { width: 30%; aspect-ratio: 1/3; object-fit: cover; }
-
-h1,
-h2 {
-  color: #984167;   /* pick any color you like */
-}
-
-
-/* layout for each pie page */
-/* side-by-side layout */
-.pie-layout {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 1.5rem;
-  margin: 1rem 0 2rem;
-}
-
-/* image */
-.pie-photo {
-  flex: 1 1 300px;
-  max-width: 400px;
-  border-radius: 8px;
-  object-fit: cover;
-  width: 100%;
-}
-
-/* text area */
-.pie-text {
-  flex: 1 1 300px;
-  min-width: 250px;
-}
-
-/* button styling (reuse for all) */
-.btn {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  border-radius: 6px;
-  background: #7a3a58;
-  color: #fff;
-  text-decoration: none;
-  transition: background 0.2s ease;
-}
-.btn:hover { background: #9a4a72; }
 
