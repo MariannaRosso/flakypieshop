@@ -383,6 +383,43 @@ form button[type="submit"]:hover { background-color: #a8486d; }
   50% { transform: scale(1.2); opacity: 0.8; }
 }
 
+/* -----------------------------------------
+   🌸 SOCIAL SECTION ALIGNMENT FIX
+----------------------------------------- */
+
+.social-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;      /* centers horizontally */
+  justify-content: center;  /* centers vertically if needed */
+  text-align: center;
+  margin: 2rem 0;
+  width: 100%;
+}
+
+.social-center .social-heading {
+  font-family: 'Lobster Two', cursive;
+  font-size: 1.6rem;
+  color: #632543;
+  margin-bottom: 0.8rem;
+}
+
+.social-center .social-link {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-center .social-link i {
+  font-size: 2rem;
+  color: #ce4f81;
+  transition: color 0.3s ease;
+}
+
+.social-center .social-link i:hover {
+  color: #a8486d;
+}
+
 
 /* =====================================================
    🌸 MISC. OVERRIDES

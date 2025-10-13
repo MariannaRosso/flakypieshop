@@ -31,7 +31,7 @@ format:
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
-<p><strong>Ingredients:</strong></p>
+<p><strong>Ingredients:</strong> Wheat flour, butter, pumpkin purée, heavy cream, maple syrup, eggs, sugar, vanilla extract, salt, spices.</p>
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
 </div>

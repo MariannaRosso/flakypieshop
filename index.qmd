@@ -10,7 +10,7 @@ format:
 <!-- Desktop background video -->
 <div class="background-video-container">
   <video autoplay muted loop playsinline>
-    <source src="Backgroundrotating.mp4" type="video/mp4">
+    <source src="Backgroundrotating2.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -139,10 +139,10 @@ Every pie and treat is **baked fresh to order** — I only bake after a reservat
 
 # About {#about}
 
-Hi, I’m Marianna 🍓\
+Hi, I’m Marianna 👋\
 I’m a researcher by profession — and a pastry chef by heart.
 
-Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career.Growing up, I spent much of my childhood travelling through the USA, where I fell in love with flaky American pies, cookies, and all things sweet.
+Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career. Growing up, I spent much of my childhood travelling through the USA, where I fell in love with flaky American pies, cookies, and all things sweet.
 
 Now, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.
 
