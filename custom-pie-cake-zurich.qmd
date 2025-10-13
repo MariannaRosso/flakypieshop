@@ -1,5 +1,6 @@
 ---
-title: "cinnamon-apple-crumble-pie-zurich"
+title: "Custom Pies & Cakes – Flaky Pies Zürich"
+description: "From mini treats to full-size pies, custom flavors, and cakes — made to order for any occasion."
 toc: false
 format:
   html:
@@ -17,18 +18,16 @@ format:
 
 <div class="pie-layout">
 
-<img src="images/apple-pie-thanksgiving-zurich.jpeg"
+<img src="images/Custom-order-cake-pie-zurich.jpeg"
        alt="Apple Pie in Zürich – homemade and freshly baked"
        class="pie-photo" loading="lazy">
 
 <div class="pie-text">
 <p>
-      Our creamy, spiced <strong>pumpkin pie</strong> is baked fresh
-      with a buttery crust and smooth pumpkin custard. A cozy classic,
-      perfect for Thanksgiving or any autumn evening.
+      Looking for something special? From personalized pies to mini treats or custom cakes, I’ll help bring your dessert idea to life — baked fresh, just for you.
 </p>
 <ul>
-<li><strong>Sizes:</strong> 20 cm (42 CHF), 24 cm (52 CHF)</li>
+<li><strong>Sizes:</strong> 18 cm to 26 cm, price varies</li>
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>

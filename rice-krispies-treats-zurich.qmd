@@ -1,5 +1,6 @@
 ---
-title: "cinnamon-apple-crumble-pie-zurich"
+title: "Sesame Rice Krispies Treats – Flaky Pies Zürich"
+description: "Chewy, crispy bars with marshmallow and toasted sesame. A fun twist on a nostalgic classic."
 toc: false
 format:
   html:
@@ -17,21 +18,20 @@ format:
 
 <div class="pie-layout">
 
-<img src="images/apple-pie-thanksgiving-zurich.jpeg"
-       alt="Apple Pie in Zürich – homemade and freshly baked"
+<img src="images/Sesame-Rice-Krispies-Treats.jpg"
+       alt="Rice Krispies Treats in Zürich – homemade and freshly baked"
        class="pie-photo" loading="lazy">
 
 <div class="pie-text">
 <p>
-      Our creamy, spiced <strong>pumpkin pie</strong> is baked fresh
-      with a buttery crust and smooth pumpkin custard. A cozy classic,
-      perfect for Thanksgiving or any autumn evening.
+      Crispy, chewy, and a little nutty — these bars mix the classic marshmallow sweetness with toasted sesame for a grown-up twist on a childhood favorite.
 </p>
 <ul>
-<li><strong>Sizes:</strong> 20 cm (42 CHF), 24 cm (52 CHF)</li>
+<li><strong>Sizes:</strong> 24 cm (22 CHF)</li>
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
+<p><strong>Ingredients:</strong></p>
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
 </div>

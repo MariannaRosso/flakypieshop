@@ -1,5 +1,6 @@
 ---
-title: "cinnamon-apple-crumble-pie-zurich"
+title: "Pumpkin Pie – Flaky Pies Zürich"
+description: "Spiced pumpkin custard in a flaky shell. A cozy fall favorite and a must-have for Thanksgiving in Zürich."
 toc: false
 format:
   html:
@@ -13,25 +14,24 @@ format:
   </video>
 </div>
 
-# Cinnamon Apple Crumble Pie
+# Pumpkin Pie
 
 <div class="pie-layout">
 
-<img src="images/apple-pie-thanksgiving-zurich.jpeg"
-       alt="Apple Pie in Zürich – homemade and freshly baked"
+<img src="images/pumpkin-pie-thanksgiving-zurich2.jpeg"
+       alt="Pumpkin Pie in Zürich – homemade and freshly baked"
        class="pie-photo" loading="lazy">
 
 <div class="pie-text">
 <p>
-      Our creamy, spiced <strong>pumpkin pie</strong> is baked fresh
-      with a buttery crust and smooth pumpkin custard. A cozy classic,
-      perfect for Thanksgiving or any autumn evening.
+     Smooth pumpkin custard spiced with cinnamon and nutmeg in a crisp, flaky shell. A cozy classic that tastes like fall — and a must for any Thanksgiving table.
 </p>
 <ul>
-<li><strong>Sizes:</strong> 20 cm (42 CHF), 24 cm (52 CHF)</li>
+<li><strong>Sizes:</strong> 24 cm (42 CHF)</li>
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
+<p><strong>Ingredients:</strong></p>
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
 </div>

@@ -1,5 +1,6 @@
 ---
-title: "cinnamon-apple-crumble-pie-zurich"
+title: "Chocolat-y Pecan Pie – Flaky Pies Zürich"
+description: "Dark chocolate and toasted pecans baked in a flaky crust. Rich flavor, not too sweet — a house favorite."
 toc: false
 format:
   html:
@@ -13,25 +14,24 @@ format:
   </video>
 </div>
 
-# Cinnamon Apple Crumble Pie
+# Chocolat-y Pecan Pie
 
 <div class="pie-layout">
 
-<img src="images/apple-pie-thanksgiving-zurich.jpeg"
-       alt="Apple Pie in Zürich – homemade and freshly baked"
+<img src="images/Pecan-Pie-thanksgiving-Zurich.jpeg"
+       alt="Chocolate Pecan Pie in Zürich – homemade and freshly baked"
        class="pie-photo" loading="lazy">
 
 <div class="pie-text">
 <p>
-      Our creamy, spiced <strong>pumpkin pie</strong> is baked fresh
-      with a buttery crust and smooth pumpkin custard. A cozy classic,
-      perfect for Thanksgiving or any autumn evening.
+      Dark chocolate meets toasted pecans with a pinch of salt to balance it out. A deep, nutty pie for anyone who loves bold flavor and a flaky crust.
 </p>
 <ul>
-<li><strong>Sizes:</strong> 20 cm (42 CHF), 24 cm (52 CHF)</li>
+<li><strong>Sizes:</strong> 24 cm (48 CHF)</li>
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
+<p><strong>Ingredients:</strong></p>
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
 </div>

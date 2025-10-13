@@ -1,5 +1,6 @@
 ---
-title: "cinnamon-apple-crumble-pie-zurich"
+title: "Blueberry Maple Chess Pie – Flaky Pies Zürich"
+description: "Maple custard with juicy blueberries, baked until golden. Sweet, rich, and perfectly balanced."
 toc: false
 format:
   html:
@@ -13,25 +14,24 @@ format:
   </video>
 </div>
 
-# Cinnamon Apple Crumble Pie
+# Blueberry Maple Chess Pie
 
 <div class="pie-layout">
 
-<img src="images/apple-pie-thanksgiving-zurich.jpeg"
-       alt="Apple Pie in Zürich – homemade and freshly baked"
+<img src="images/Maple-chess-pie-thanksgiving-zurich.jpg"
+       alt="Blueberry Maple Chess Pie in Zürich – homemade and freshly baked"
        class="pie-photo" loading="lazy">
 
 <div class="pie-text">
 <p>
-      Our creamy, spiced <strong>pumpkin pie</strong> is baked fresh
-      with a buttery crust and smooth pumpkin custard. A cozy classic,
-      perfect for Thanksgiving or any autumn evening.
+      A smooth maple-custard base with juicy blueberries baked on top. Slightly caramelized, rich, and not too sweet — a slice that feels like breakfast and dessert all at once.
 </p>
 <ul>
-<li><strong>Sizes:</strong> 20 cm (42 CHF), 24 cm (52 CHF)</li>
+<li><strong>Sizes:</strong> 24 cm (45 CHF)</li>
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
+<p><strong>Ingredients:</strong></p>
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
 </div>
