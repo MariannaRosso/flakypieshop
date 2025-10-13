@@ -10,14 +10,14 @@ website:
   search: false
   navbar:
     left:
-      - href: de/index.qmd#home
-        text: Startseite
-      - href: de/index.qmd#about
-        text: Über mich
-      - href: de/index.qmd#products
-        text: Produkte
-      - href: de/contact.qmd
-        text: Bestellung
+      - text: Startseite
+        href: ./index.html#home
+      - text: Über mich
+        href: ./index.html#about
+      - text: Produkte
+        href: ./index.html#products
+      - text: Bestellung
+        href: ./contact.html
 
 format:
   html:

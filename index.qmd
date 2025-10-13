@@ -1,4 +1,6 @@
 ---
+title: "Homemade American-style Pies and Treats in Zürich – Pickup & Delivery"
+description: "Order apple, pecan, pumpkin pies & more in Zürich. Fresh, homemade. Pickup in Wallisellen, delivery in the city."
 toc: false
 format:
   html:
@@ -16,88 +18,126 @@ format:
 
 ![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}
 
+# American-Style Pies and Treats in Zürich
+## Homemade, Pickup & Delivery
+
+Flaky is a cozy home-based microbakery in the Zürich area making **American-style pies and treats**—from buttery, flaky crusts to chewy and sweet rice krispie treats. Everything is handmade with high-quality Swiss ingredients. **Order online** for **pickup in Wallisellen** or **delivery across Zürich**. Seasonal favorites include pumpkin, pecan, apple & key lime.
+
+
 <div class="content-overlay">
-**Flaky** is a cozy home microbakery based in Wallisellen, just outside Zürich, baking **American-style pies and treats** — from buttery crusts to nostalgic flavors. Each creation is handmade with care, using high-quality Swiss ingredients and a touch of heart.
-Place your order online for pickup in Wallisellen or delivery across Zürich.
 
-
-# What I Do {#sweets}
-
-
-<div class="gallery">
-<div class="polaroid">
-<a href="https://www.instagram.com/flakypieshop" target="_blank">
-<img src="images/PecanPie.jpeg" alt="Pecan Pie">
-</a>
-<p class="caption">Chocolat-y Pecan Pie</p>
-</div>
-
-<div class="polaroid">
-<a href="https://www.instagram.com/flakypieshop" target="_blank">
-<img src="images/RiceKrispiesTreats.jpg" alt="Rice Krispies Treats">
-</a>
-<p class="caption">Sesame Rice Krispies Treats</p>
-</div>
-
-<div class="polaroid">
-<a href="https://www.instagram.com/flakypieshop" target="_blank">
-<img src="images/Cheesecake.jpeg" alt="Cheesecake">  </a>
-<p class="caption">Lemon Ricotta Cheesecake</p>
-</div>
-
-<div class="polaroid">
-<a href="https://www.instagram.com/flakypieshop" target="_blank">
-<img src="images/Emilie2.jpeg" alt="Chocolate Cake">  </a>
-<p class="caption">Triple Chocolate Cake</p>
-</div>
-
-<div class="polaroid">
-<a href="https://www.instagram.com/flakypieshop" target="_blank">
-<img src="images/Cornbread2.jpeg" alt="Cornbread">  </a>
-<p class="caption">Bell Pepper and Feta Cornbread</p>
-</div>
-
-</div>
-
-
-Why pies? Flaky, buttery layers hold sweet fruits, creamy fillings, and rich spices — baked slowly until golden and bubbling with comfort.
-
-American sweets are pure happiness — simple and full of flavor. The tang of buttermilk and cream cheese, the sweetness of maple syrup, and all that buttery goodness… they take me right back to my childhood. They’re not about perfection — they’re about warmth, joy, and the feeling of home.
-
-Every pie and treat is baked fresh to order — I only bake after a reservation, so each creation gets the care and time it deserves. Whether you’re craving something familiar or want to try a new twist on a classic, I’ll bake it with love — just for you.
 
 # Products {#products}
 
+American sweets are pure happiness — simple and full of flavor. The tang of buttermilk and cream cheese, the sweetness of maple syrup, and all that buttery goodness… they take me right back to my childhood. They’re not about perfection — they’re about warmth, joy, and the feeling of home.
+
+And pies? The flakyness of a pie crust combined with a sweet and creamy filling or a fragrant fruit, is just joy.
+
+Every pie and treat is baked fresh to order — I only bake after a reservation, so each creation gets the care and time it deserves. Whether you’re craving something familiar or want to try a new twist on a classic, I’ll bake it with love — just for you.
+
 ## Flaky Pies
 
-**Cinnamon Apple Crumble Pie**\
-Cozy spiced apples tucked under a buttery crumble.
+<div class="gallery">
 
-**Blueberry Maple Chess Pie**\
-The taste of a maple syrup soaked pancake in a slice.
+  <!-- Cinnamon Apple Crumble Pie -->
+<div class="polaroid">
+<a class="polaroid-title" href="/cinnamon-apple-crumble-pie-zurich/">
+<h3>Cinnamon Apple Crumble Pie</h3>
+</a>
+<a class="polaroid-media" href="/cinnamon-apple-crumble-pie-zurich/">
+<img src="images/apple-pie-thanksgiving-zurich.jpeg"
+           alt="Cinnamon Apple Crumble Pie in Zürich" loading="lazy">
+</a>
+<p class="polaroid-desc"><br>Cozy spiced apples tucked under a buttery crumble.</p>
+</div>
 
-**Chocolat-y Pecan Pie**\
-The richness of dark chocolate with toasty pecans and a hint of salt.
+  <!-- Blueberry Maple Chess Pie -->
+<div class="polaroid">
+<a class="polaroid-title" href="/blueberry-maple-chess-pie-zurich/">
+<h3>Blueberry Maple Chess Pie</h3>
+</a>
+<a class="polaroid-media" href="/blueberry-maple-chess-pie-zurich/">
+<img src="images/Maple-chess-pie-thanksgiving-zurich.jpg"
+           alt="Blueberry Maple Chess Pie in Zürich" loading="lazy">
+</a>
+<p class="polaroid-desc"><br>The taste of a maple syrup soaked pancake in a slice.</p>
+</div>
+
+  <!-- Chocolat-y Pecan Pie -->
+<div class="polaroid">
+<a class="polaroid-title" href="/pecan-pie-zurich/">
+<h3>Chocolat-y Pecan<br>Pie</h3>
+</a>
+<a class="polaroid-media" href="/pecan-pie-zurich/">
+<img src="images/Pecan-Pie-thanksgiving-Zurich.jpeg"
+           alt="Chocolate Pecan Pie in Zürich" loading="lazy">
+</a>
+<p class="polaroid-desc"><br>The richness of dark chocolate with toasty pecans and a hint of salt.</p>
+</div>
+
+</div>
 
 ## Seasonal Pies
 
-**Pumpkin Pie**\
-Creamy spiced pumpkin custard in a crisp, flaky shell — fall in a slice.
+<div class="gallery">
+
+  <!-- Pumpkin Pie -->
+<div class="polaroid">
+<a class="polaroid-title" href="/pumpkin-pie-thanksgiving-pie-zurich/">
+<h3>Pumpkin Pie</h3>
+</a>
+<a class="polaroid-media" href="/pumpkin-pie-thanksgiving-pie-zurich/">
+<img src="images/pumpkin-pie-thanksgiving-zurich2.jpeg"
+           alt="Pumpkin Pie in Zürich" loading="lazy">
+</a>
+<p class="polaroid-desc"><br>Creamy spiced pumpkin custard in a crisp, flaky shell — fall in a slice.</p>
+</div>
+</div>
 
 ## Treats & More
 
-**Sesame Rice Krispies Treats**\
-Chewy, toasty-sweet bars with a nutty sesame twist.
+<div class="gallery">
 
-**Bell Pepper and Feta Cornbread**\
-Savory-sweet cornbread topped with creamy peppers and tangy feta.
+  <!-- Sesame Rice Krispies Treats -->
+<div class="polaroid">
+<a class="polaroid-title" href="/Sesame-Rice-Krispies-Treats/">
+<h3>Sesame Rice Krispies Treats</h3>
+</a>
+<a class="polaroid-media" href="/Sesame-Rice-Krispies-Treats/">
+<img src="images/Sesame-Rice-Krispies-Treats.jpg"
+           alt="Sesame-Rice-Krispies-Treats in Zürich" loading="lazy">
+</a>
+<p class="polaroid-desc"><br>Chewy, toasty-sweet bars with a nutty sesame twist.</p>
+</div>
 
-**Costum Order**\
-Whether it’s a personalized pie flavor, a batch of mini treats, or a dessert to match a special occasion, I’m always happy to create something just for you.
+  <!-- Bell Pepper and Feta Cornbread -->
+<div class="polaroid">
+<a class="polaroid-title" href="/cornbread-zuric/">
+<h3>Bell Pepper and Feta Cornbread</h3>
+</a>
+<a class="polaroid-media" href="/cornbread-zurich/">
+<img src="images/Cornbread-zurich.jpeg"
+           alt="Bell Pepper and Feta Cornbread" loading="lazy">
+</a>
+<p class="polaroid-desc"><br>Savory-sweet cornbread topped with creamy peppers and tangy feta.</p>
+</div>
+
+  <!-- Custom order -->
+<div class="polaroid">
+<a class="polaroid-title" href="/custom-order-zurich/">
+<h3>Custom<br>Order</h3>
+</a>
+<a class="polaroid-media" href="/custom-order-zurich/">
+<img src="images/Custom-order-cake-pie-zurich.jpeg"
+           alt="Custom order cake pie zurich" loading="lazy">
+</a>
+<p class="polaroid-desc"><br>Whether it’s a personalized pie flavor, a batch of mini treats, or a dessert for a special occasion, I got you!</p>
+</div>
+
 </div>
 
 <div class="nav-button">
-  <a href="contact.qmd" class="btn-link">Prices and Order</a>
+  <a href="order-pies-zurich.qmd" class="btn-link">Prices and Order</a>
 </div>
 
 # About {#about}
