@@ -5,6 +5,7 @@ project:
     - CNAME
 
 website:
+  favicon: logo_square.png
   title: "Flaky"
   site-url: "https://www.flakypieshop.com"
   search: false
