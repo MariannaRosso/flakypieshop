@@ -1,6 +1,7 @@
 ---
 title: "Sesame Rice Krispies Treats – Flaky Pies Zürich"
 description: "Chewy, crispy bars with marshmallow and toasted sesame. A fun twist on a nostalgic classic."
+keywords: ["rice krispies treats Zurich", "sesame dessert Switzerland", "chewy marshmallow bar Zurich", "handmade sweets Zurich", "Wallisellen bakery treats"]
 toc: false
 format:
   html:
@@ -14,7 +15,7 @@ format:
   </video>
 </div>
 
-# Cinnamon Apple Crumble Pie
+# Sesame Rice Krispies Treats
 
 <div class="pie-layout">
 
@@ -31,7 +32,6 @@ format:
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
-<p><strong>Ingredients:</strong></p>
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
 </div>

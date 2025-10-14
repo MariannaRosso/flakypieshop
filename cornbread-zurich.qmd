@@ -1,6 +1,7 @@
 ---
 title: "Bell Pepper and Feta Cornbread – Flaky Pies Zürich"
 description: "Savory cornbread with roasted peppers and feta. Sweet corn meets a touch of salty tang."
+keywords: ["cornbread Zurich", "savory cornbread Switzerland", "feta cornbread Zurich", "American bakery Zurich", "homemade bread Wallisellen"]
 toc: false
 format:
   html:
@@ -32,7 +33,6 @@ format:
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
-<p><strong>Ingredients:</strong></p>
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
 </div>

@@ -1,6 +1,7 @@
 ---
 title: "Cinnamon Apple Crumble Pie – Flaky Pies Zürich"
 description: "Cozy spiced apples baked under a buttery crumble. A comforting, homemade pie made fresh in Zürich."
+keywords: ["apple pie Zürich", "cinnamon apple crumble pie", "American pie Zurich", "homemade apple pie Switzerland", "Wallisellen bakery", "fall dessert Zurich", "buttery crumble pie"]
 image: "images/apple-pie-thanksgiving-zurich.jpeg"
 toc: false
 format:

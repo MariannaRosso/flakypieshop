@@ -1,6 +1,7 @@
 ---
 title: "Blueberry Maple Chess Pie – Flaky Pies Zürich"
 description: "Maple custard with juicy blueberries, baked until golden. Sweet, rich, and perfectly balanced."
+keywords: ["blueberry pie Zürich", "maple chess pie", "American-style pie Zurich", "maple blueberry dessert Switzerland", "homemade pie Wallisellen", "creamy pie Zurich"]
 toc: false
 format:
   html:
@@ -31,7 +32,6 @@ format:
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
-<p><strong>Ingredients:</strong></p>
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
 </div>

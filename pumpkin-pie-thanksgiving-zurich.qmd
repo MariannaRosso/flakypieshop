@@ -1,6 +1,7 @@
 ---
 title: "Pumpkin Pie – Flaky Pies Zürich"
 description: "Spiced pumpkin custard in a flaky shell. A cozy fall favorite and a must-have for Thanksgiving in Zürich."
+keywords: ["pumpkin pie Zürich","pumpkin pie", "Flaky Pie Shop", "American pie Zürich", "Wallisellen bakery"]
 toc: false
 format:
   html:
