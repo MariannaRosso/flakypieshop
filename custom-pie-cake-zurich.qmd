@@ -29,7 +29,7 @@ format:
 </p>
 <ul>
 <li><strong>Sizes:</strong> 18 cm to 26 cm, price varies</li>
-<li><strong>Lead time:</strong> 48 hours pre-order</li>
+<li><strong>Lead time:</strong> 72 hours pre-order</li>
 <li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
 <div class="nav-button">
