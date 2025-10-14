@@ -5,8 +5,7 @@ project:
     - CNAME
 
 website:
-  favicon: logo_square.png
-  title: "Flaky"
+  title: "Flaky - Pie Shop in Zurich"
   site-url: "https://www.flakypieshop.com"
   search: false
   navbar:
@@ -34,6 +33,7 @@ metadata:
 
 format:
   html:
+  favicon: logo_square.png
     theme:
       - cosmo
       - brand
