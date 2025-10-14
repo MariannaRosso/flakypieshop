@@ -72,8 +72,8 @@ format:
 
 
 <div class="language-switch">
-  <a href="index.html">English</a> |
-  <a href="de/index.html">Deutsch</a>
+  <a href="rice-krispies-treats-zurich.html">English</a> |
+  <a href="de/rice-krispies-treats-zurich.html">Deutsch</a>
 </div>
 
 

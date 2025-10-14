@@ -73,8 +73,8 @@ format:
 
 
 <div class="language-switch">
-  <a href="index.html">English</a> |
-  <a href="de/index.html">Deutsch</a>
+  <a href="pumpkin-pie-thanksgiving-zurich.html">English</a> |
+  <a href="de/pumpkin-pie-thanksgiving-zurich.html">Deutsch</a>
 </div>
 
 

@@ -86,6 +86,6 @@ Because every pie and dessert is made from scratch — from resting the dough to
 </section>
 
 <div class="language-switch">
-  <a href="contact.html">English</a> |
-  <a href="de/contact.html">Deutsch</a>
+  <a href="order-pies-zurich.html">English</a> |
+  <a href="de/order-pies-zurich.html">Deutsch</a>
 </div>

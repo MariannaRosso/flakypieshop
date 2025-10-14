@@ -72,8 +72,8 @@ format:
 
 
 <div class="language-switch">
-  <a href="index.html">English</a> |
-  <a href="de/index.html">Deutsch</a>
+  <a href="blueberry-maple-chess-pie-zurich.html">English</a> |
+  <a href="de/blueberry-maple-chess-pie-zurich.html">Deutsch</a>
 </div>
 
 

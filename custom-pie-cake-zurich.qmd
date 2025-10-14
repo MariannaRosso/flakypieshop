@@ -72,8 +72,8 @@ format:
 
 
 <div class="language-switch">
-  <a href="index.html">English</a> |
-  <a href="de/index.html">Deutsch</a>
+  <a href="custom-pie-cake-zurich.html">English</a> |
+  <a href="de/custom-pie-cake-zurich.html">Deutsch</a>
 </div>
 
 

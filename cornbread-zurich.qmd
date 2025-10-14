@@ -73,8 +73,8 @@ format:
 
 
 <div class="language-switch">
-  <a href="index.html">English</a> |
-  <a href="de/index.html">Deutsch</a>
+  <a href="cornbread.html">English</a> |
+  <a href="de/cornbread.html">Deutsch</a>
 </div>
 
 
