@@ -1,0 +1,91 @@
+---
+toc: false
+format: 
+  html:
+    css: styles.css
+---
+
+<div class="background-video-container">
+  <video autoplay loop muted playsinline>
+    <source src="Backgroundrotating.mp4" type="video/mp4">
+    Dein Browser unterstützt das Video-Tag nicht.
+  </video>
+</div>
+<div class="spacer-small"></div>
+
+# Menü
+
+<div class="menu-list">
+
+  <h3>Flaky Pies</h3>
+  <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
+  <p><span class="item">Blueberry Maple Chess Pie</span><span class="dots"></span><span class="price">CHF 45</span></p>
+  <p><span class="item">Schokoladiger Pecan Pie</span><span class="dots"></span><span class="price">CHF 48</span></p>
+
+  <h3>Saisonale Pies</h3>
+  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
+
+  <h3>Treats & Mehr</h3>
+  <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 22</span></p>
+  <p><span class="item">Paprika-Feta-Cornbread</span><span class="dots"></span><span class="price">CHF 22</span></p>
+  <p><span class="item">Individuelle Bestellung</span><span class="dots"></span><span class="price">auf Anfrage</span></p>
+
+</div>
+
+## So funktioniert’s
+
+Jeder Pie wird mit Liebe von Hand gemacht – mit Sorgfalt, Zeit und hochwertigen Schweizer Zutaten.  
+Ein Pie hat einen Durchmesser von etwa 24 cm und reicht für 6–10 Stücke – je nachdem, wie großzügig du schneidest.  
+
+Du kannst deine Bestellung in Wallisellen abholen oder eine Lieferung im Raum Zürich vereinbaren.  
+Da jeder Pie und jedes Dessert komplett von Grund auf zubereitet wird – vom Teig bis zur Füllung – bitte ich dich, mindestens **3 Tage im Voraus** zu bestellen.
+
+<section id="order">
+  <h1>Kontakt oder Bestellung</h1>
+  <form action="https://formsubmit.co/marianna.rosso3@gmail.com" method="POST">
+    
+    <!-- Basic info -->
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="email">E-Mail</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="phone">Telefonnummer</label>
+    <input 
+      type="tel" 
+      id="phone" 
+      name="phone" 
+      pattern="[0-9+\s()-]{6,}" 
+      placeholder="+41 79 123 45 67" 
+      required
+    >
+
+    <!-- Order details -->
+    <label for="product">Was möchtest du bestellen?</label>
+    <select id="product" name="product" required>
+      <option value="Cinnamon Apple Pie">Cinnamon Apple Pie</option>
+      <option value="Blueberry Maple Chess Pie">Blueberry Maple Chess Pie</option>
+      <option value="Schokoladiger Pecan Pie">Schokoladiger Pecan Pie</option>
+      <option value="Saisonaler Pie">Saisonaler Pie</option>
+      <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option>
+      <option value="Paprika-Feta-Cornbread">Paprika-Feta-Cornbread</option>
+      <option value="Individuelle Bestellung">Individuelle Bestellung</option>
+      <option value="Anfrage">Allgemeine Anfrage</option>
+    </select>
+
+    <label for="message">Fragen / Spezialwünsche / Individuelle Bestellung</label>
+    <textarea id="message" name="message" rows="4"></textarea>
+
+    <!-- FormSubmit settings -->
+    <input type="hidden" name="_subject" value="Neue Pie-Bestellung!">
+    <input type="hidden" name="_captcha" value="false">
+
+    <button type="submit">Bestellung senden</button>
+  </form>
+</section>
+
+<div class="language-switch">
+  <a href="../order-pies-zurich.html">English</a> |
+  <a href="order-pies-zurich.html">Deutsch</a>
+</div>

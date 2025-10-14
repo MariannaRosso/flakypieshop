@@ -1,0 +1,101 @@
+---
+title: "Paprika-Feta-Cornbread – Flaky Pies Zürich"
+description: "Herzhaftes Cornbread mit gerösteten Peperoni und Feta. Süßer Mais trifft auf eine salzige Note."
+keywords: ["cornbread zürich", "herzhaftes cornbread schweiz", "feta cornbread zürich", "american bakery zürich", "hausgemachtes brot wallisellen"]
+toc: false
+format:
+  html:
+    css: styles.css
+    raw-html: true 
+---
+<!-- Desktop background video -->
+<div class="background-video-container">
+  <video autoplay muted loop playsinline>
+    <source src="../Backgroundrotating.mp4" type="video/mp4">
+  </video>
+</div>
+
+# Paprika-Feta-Cornbread
+
+<div class="pie-layout">
+
+<img src="images/Cornbread-zurich.jpeg"
+       alt="Cornbread in Zürich – hausgemacht und frisch gebacken"
+       class="pie-photo" loading="lazy">
+
+<div class="pie-text">
+<p>
+      Ein herzhaftes Cornbread – innen weich, außen goldbraun gebacken. Getoppt mit gerösteten Peperoni und cremigem Feta – eine perfekte Mischung aus süßem Mais und einer feinen salzigen Note.
+</p>
+<ul>
+<li><strong>Größe:</strong> 24 cm (22 CHF)</li>
+<li><strong>Vorbestellung:</strong> 48 Stunden im Voraus</li>
+<li><strong>Abholung:</strong> Wallisellen • <strong>Lieferung:</strong> Zürich (+8 CHF)</li>
+</ul>
+<div class="nav-button">
+  <a href="order-pies-zurich.qmd" class="btn-link">Bestellen</a>
+</div>
+</div>
+
+</div>
+
+
+
+<div class="content-overlay">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Bakery",
+  "name": "Flaky",
+  "image": "https://yourdomain.com/logo_website.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Zürich",
+    "addressCountry": "CH"
+  },
+  "servesCuisine": "Amerikanische Desserts",
+  "url": "https://yourdomain.com",
+  "description": "Flaky ist eine kleine, hausbasierte Bäckerei in Zürich, die handgemachte amerikanische Pies wie Pumpkin Pie, Cinnamon Apple Crumble und Pecan Pie backt."
+}
+</script>
+
+<div class="social-center">
+  <h3 class="social-heading">Folge mir auf Instagram!</h3>
+  <a href="https://www.instagram.com/flakypieshop" target="_blank" class="social-link">
+    <i class="fab fa-instagram"></i>
+  </a>
+</div>
+
+
+
+<div class="language-switch">
+  <a href="../cornbread.html">English</a> |
+  <a href="cornbread.html">Deutsch</a>
+</div>
+
+
+
+<div class="footer-heart">
+  <i class="fas fa-heart"></i>
+</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // Menü einklappen
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>

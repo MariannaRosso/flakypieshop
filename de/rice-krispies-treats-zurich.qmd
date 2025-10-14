@@ -1,0 +1,101 @@
+---
+title: "Sesame Rice Krispies Treats – Flaky Pies Zürich"
+description: "Klebrig-knusprige Riegel mit Marshmallow und geröstetem Sesam. Ein verspielter Twist auf den beliebten Klassiker aus der Kindheit."
+keywords: ["rice krispies treats zürich", "sesam dessert schweiz", "marshmallow riegel zürich", "handgemachte sweets zürich", "bäckerei wallisellen treats"]
+toc: false
+format:
+  html:
+    css: styles.css
+    raw-html: true 
+---
+<!-- Desktop background video -->
+<div class="background-video-container">
+  <video autoplay muted loop playsinline>
+    <source src="../Backgroundrotating.mp4" type="video/mp4">
+  </video>
+</div>
+
+# Sesame Rice Krispies Treats
+
+<div class="pie-layout">
+
+<img src="images/Sesame-Rice-Krispies-Treats.jpg"
+       alt="Rice Krispies Treats in Zürich – hausgemacht und frisch zubereitet"
+       class="pie-photo" loading="lazy">
+
+<div class="pie-text">
+<p>
+      Knusprig, zäh und leicht nussig – diese Riegel kombinieren die klassische Marshmallow-Süße mit geröstetem Sesam für eine erwachsene Version eines Kindheitsklassikers.
+</p>
+<ul>
+<li><strong>Größe:</strong> 24 cm (22 CHF)</li>
+<li><strong>Vorbestellung:</strong> 48 Stunden im Voraus</li>
+<li><strong>Abholung:</strong> Wallisellen • <strong>Lieferung:</strong> Zürich (+8 CHF)</li>
+</ul>
+<div class="nav-button">
+  <a href="order-pies-zurich.qmd" class="btn-link">Bestellen</a>
+</div>
+</div>
+
+</div>
+
+
+
+<div class="content-overlay">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Bakery",
+  "name": "Flaky",
+  "image": "https://yourdomain.com/logo_website.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Zürich",
+    "addressCountry": "CH"
+  },
+  "servesCuisine": "Amerikanische Desserts",
+  "url": "https://yourdomain.com",
+  "description": "Flaky ist eine kleine, hausbasierte Bäckerei in Zürich, die handgemachte amerikanische Pies wie Pumpkin Pie, Cinnamon Apple Crumble und Pecan Pie backt."
+}
+</script>
+
+<div class="social-center">
+  <h3 class="social-heading">Folge mir auf Instagram!</h3>
+  <a href="https://www.instagram.com/flakypieshop" target="_blank" class="social-link">
+    <i class="fab fa-instagram"></i>
+  </a>
+</div>
+
+
+
+<div class="language-switch">
+  <a href="../rice-krispies-treats-zurich.html">English</a> |
+  <a href="rice-krispies-treats-zurich.html">Deutsch</a>
+</div>
+
+
+
+<div class="footer-heart">
+  <i class="fas fa-heart"></i>
+</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // Menü einklappen
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>
