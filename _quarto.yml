@@ -34,7 +34,7 @@ metadata:
 
 format:
   html:
-  favicon: logo_square.png
+    favicon: logo_square.png
     theme:
       - cosmo
       - brand
