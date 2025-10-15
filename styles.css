@@ -353,7 +353,7 @@ form button[type="submit"]:hover { background-color: #a8486d; }
 
 .language-switch {
   text-align: center;
-  margin-top: 3rem;
+  margin-top: 1.5rem;
   font-family: 'Lobster Two', cursive;
   font-size: 1.3rem;
   color: #772a50;
@@ -540,7 +540,7 @@ form button[type="submit"]:hover { background-color: #a8486d; }
   width: 100%;
   background-color: #fdcad9;
   color: #984166;
-  padding: 1.5rem 0 0.8rem; /* shorter height */
+  padding: 1rem 0 0.8rem; /* shorter height */
   font-family: 'Dosis', sans-serif;
 }
 
@@ -550,7 +550,7 @@ form button[type="submit"]:hover { background-color: #a8486d; }
   align-items: center;
   max-width: 1000px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 0 1rem;
   flex-wrap: wrap;
   gap: 1rem;
 }

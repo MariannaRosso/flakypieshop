@@ -163,14 +163,10 @@ Now, as a new mom, I’ve opened a small microbakery from my home — a space wh
 }
 </script>
 
-
-
-
 <div class="language-switch">
   <a href="index.html">English</a> |
   <a href="de/index.html">Deutsch</a>
 </div>
-
 
 
 <div class="footer-heart">
