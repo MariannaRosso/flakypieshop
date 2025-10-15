@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - CNAME
+    - logo_square.png
 
 website:
   title: "Flaky - Pie Shop in Zurich"
