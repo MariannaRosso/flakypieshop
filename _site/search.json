@@ -166,5 +166,12 @@
     "title": "Chocolat-y Pecan Pie – Flaky Pies Zürich",
     "section": "",
     "text": "Chocolat-y Pecan Pie\n\n\n\n\nDark chocolate meets toasted pecans with a pinch of salt to balance it out. A deep, nutty pie for anyone who loves bold flavor and a flaky crust.\n\n\n\nSizes: 24 cm (48 CHF)\n\n\nLead time: 72 hours pre-order\n\n\nPickup: Wallisellen • Delivery: Zürich (+8 CHF)\n\n\n\nOrder\n\n\n\n\n\n\n\nFollow me on Instagram!\n\n  \n\n\nEnglish | Deutsch"
+  },
+  {
+    "objectID": "test_footer.html",
+    "href": "test_footer.html",
+    "title": "test_footer",
+    "section": "",
+    "text": "&lt;div class=\"footer-left\"&gt;\n  &lt;h3&gt;Flaky Pie Shop&lt;/h3&gt;\n  &lt;p&gt;Wallisellen, Switzerland&lt;/p&gt;\n  &lt;p&gt;&lt;a href=\"mailto:hello@flakypieshop.com\"&gt;hello@flakypieshop.com&lt;/a&gt;&lt;/p&gt;\n  &lt;p&gt;&lt;a href=\"https://www.instagram.com/flakypieshop\" target=\"_blank\"&gt;Instagram&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;\n\n&lt;div class=\"footer-right\"&gt;\n  &lt;h3&gt;Follow Me&lt;/h3&gt;\n  &lt;div class=\"footer-icons\"&gt;\n    &lt;a href=\"https://www.instagram.com/flakypieshop\" target=\"_blank\"&gt;&lt;i class=\"fab fa-instagram\"&gt;&lt;/i&gt;&lt;/a&gt;\n    &lt;a href=\"#\"&gt;&lt;i class=\"fab fa-facebook\"&gt;&lt;/i&gt;&lt;/a&gt;\n    &lt;a href=\"#\"&gt;&lt;i class=\"fab fa-tiktok\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;p&gt;© 2025 Flaky Pie Shop — Marianna Rosso&lt;/p&gt;"
   }
 ]

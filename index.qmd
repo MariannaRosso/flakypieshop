@@ -163,12 +163,6 @@ Now, as a new mom, I’ve opened a small microbakery from my home — a space wh
 }
 </script>
 
-<div class="social-center">
-  <h3 class="social-heading">Follow me on Instagram!</h3>
-  <a href="https://www.instagram.com/flakypieshop" target="_blank" class="social-link">
-    <i class="fab fa-instagram"></i>
-  </a>
-</div>
 
 
 
@@ -183,13 +177,6 @@ Now, as a new mom, I’ve opened a small microbakery from my home — a space wh
   <i class="fas fa-heart"></i>
 </div>
 
-
-<footer class="site-footer">
-  <p>
-    Psst... I programmed this website myself in Quarto, the code is available
-    <a href="https://github.com/MariannaRosso/flakypieshop" target="_blank">here</a>.
-  </p>
-</footer>
 </div>
 
 <script>

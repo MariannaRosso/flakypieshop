@@ -84,8 +84,3 @@ Because every pie and dessert is made from scratch — from resting the dough to
     <button type="submit">Send Order</button>
   </form>
 </section>
-
-<div class="language-switch">
-  <a href="order-pies-zurich.html">English</a> |
-  <a href="de/order-pies-zurich.html">Deutsch</a>
-</div>
