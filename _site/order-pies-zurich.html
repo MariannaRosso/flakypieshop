@@ -159,23 +159,21 @@ Treats &amp; More
 <h2 class="anchored" data-anchor-id="how-it-works">How it works</h2>
 <p>Every pie is handmade with love, crafted with care, and baked using only high-quality Swiss ingredients. Each pie is about 24 cm in diameter and serves 6–10 people — depending, of course, on how generous the slices are.</p>
 <p>Orders can be picked up in Wallisellen, or delivery within the Zürich area may be arranged. Because every pie and dessert is made from scratch — from resting the dough to letting the filling set — please allow at least 3 days’ notice for your order.</p>
+<p><strong>Please note:</strong> the order will be initialised only when payment has been done. If you’d like a custom order or have troubles with the payment with Twint, please contact me directly at <a href="mailto:hello@flakypieshop.com">hello@flakypieshop.com</a></p>
 <section id="order">
-<h1>
-Get in Touch or Place an Order
-</h1>
-<form action="https://formsubmit.co/marianna.rosso3@gmail.com" method="POST">
+<form action="https://formsubmit.co/marianna.rosso3@gmail.com" method="POST" target="_blank">
 <!-- Basic info -->
 <p><label for="name">Name</label> <input type="text" id="name" name="name" required=""></p>
 <p><label for="email">Email</label> <input type="email" id="email" name="email" required=""></p>
 <p><label for="phone">Phone Number</label> <input type="tel" id="phone" name="phone" pattern="[0-9+\s()-]{6,}" placeholder="+41 79 123 45 67" required=""></p>
 <!-- Order details -->
-<p><label for="product">What would you like?</label> <select id="product" name="product" required=""> <option value="Cinnamon Apple Pie">Cinnamon Apple Pie</option> <option value="Sweet Potato Casserole Pie">Sweet Potato Casserole Pie</option> <option value="Chocolat-y Pecan Pie">Chocolat-y Pecan Pie</option> <option value="Seasonal Pie">Seasonal Pie</option> <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option> <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option> <option value="Custom Order">Custom Order</option> <option value="Custom Order">Inquiry</option> </select></p>
-<label for="message">Questions / Special Requests / Custom Order</label>
+<p><label for="product">What would you like?</label> <select id="product" name="product" required=""> <option value="Cinnamon Apple Pie">Cinnamon Apple Pie</option> <option value="Sweet Potato Casserole Pie">Sweet Potato Casserole Pie</option> <option value="Chocolat-y Pecan Pie">Chocolat-y Pecan Pie</option> <option value="Seasonal Pie">Seasonal Pie</option> <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option> <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option> </select></p>
+<label for="message">Comments / Special Requests </label>
 <textarea id="message" name="message" rows="4"></textarea>
 <!-- FormSubmit settings -->
-<p><input type="hidden" name="_subject" value="New Pie Order!"> <input type="hidden" name="_captcha" value="false"></p>
+<p><input type="hidden" name="_subject" value="New Pie Order!"> <input type="hidden" name="_captcha" value="false"> <input type="hidden" name="_next" value="https://go.twint.ch/1/e/tw?tw=acq.3_c1SNfiSS-B5d-2BwbZ6T9wdfDUjM0zELAG3fX2GOkZ15HE9xwiJojnzzCM0_oD.&amp;trxInfo=PieOrder"></p>
 <button type="submit">
-Send Order
+Pay with Twint
 </button>
 </form>
 </section>
