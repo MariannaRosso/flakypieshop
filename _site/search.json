@@ -4,7 +4,7 @@
     "href": "order-pies-zurich.html",
     "title": "Menu",
     "section": "",
-    "text": "Your browser does not support the video tag."
+    "text": "Flaky is on holiday from 25.10 to 2.11. Orders can still be placed and will be ready for pickup after this period."
   },
   {
     "objectID": "order-pies-zurich.html#how-it-works",
@@ -173,5 +173,12 @@
     "title": "test_footer",
     "section": "",
     "text": "&lt;div class=\"footer-left\"&gt;\n  &lt;h3&gt;Flaky Pie Shop&lt;/h3&gt;\n  &lt;p&gt;Wallisellen, Switzerland&lt;/p&gt;\n  &lt;p&gt;&lt;a href=\"mailto:hello@flakypieshop.com\"&gt;hello@flakypieshop.com&lt;/a&gt;&lt;/p&gt;\n  &lt;p&gt;&lt;a href=\"https://www.instagram.com/flakypieshop\" target=\"_blank\"&gt;Instagram&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;\n\n&lt;div class=\"footer-right\"&gt;\n  &lt;h3&gt;Follow Me&lt;/h3&gt;\n  &lt;div class=\"footer-icons\"&gt;\n    &lt;a href=\"https://www.instagram.com/flakypieshop\" target=\"_blank\"&gt;&lt;i class=\"fab fa-instagram\"&gt;&lt;/i&gt;&lt;/a&gt;\n    &lt;a href=\"#\"&gt;&lt;i class=\"fab fa-facebook\"&gt;&lt;/i&gt;&lt;/a&gt;\n    &lt;a href=\"#\"&gt;&lt;i class=\"fab fa-tiktok\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;p&gt;© 2025 Flaky Pie Shop — Marianna Rosso&lt;/p&gt;"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Homemade American-style Pies and Treats in Zürich – Pickup & Delivery",
+    "section": "",
+    "text": "Flaky is on holiday from 25.10 to 2.11. Orders can still be placed and will be ready for pickup after this period."
   }
 ]

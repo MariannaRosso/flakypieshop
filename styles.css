@@ -631,3 +631,27 @@ form button[type="submit"]:hover { background-color: #a8486d; }
     width: 60px;
   }
 }
+
+
+/* 🌸 Announcement Banner (fixed below navbar) */
+.announcement-banner {
+  position: fixed;
+  top: 40px; /* Adjust based on your navbar height */
+  left: 0;
+  width: 100%;
+  background-color: #f9acc2;
+  color: #772a50;
+  text-align: center;
+  padding: 0.6rem 1rem;
+  font-size: 0.95rem;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  border-bottom: 1px solid #f4bed5;
+  z-index: 999;
+  box-shadow: 0 2px 4px rgba(119, 42, 80, 0.1);
+}
+
+/* Add padding to body so content isn’t hidden behind the banner */
+body {
+  padding-top: 100px; /* Adjust if needed */
+}
