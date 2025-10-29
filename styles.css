@@ -655,3 +655,15 @@ form button[type="submit"]:hover { background-color: #a8486d; }
 body {
   padding-top: 100px; /* Adjust if needed */
 }
+
+@media (max-width: 768px) {
+  .announcement-banner {
+    top: 70px; /* lower on mobile */
+    font-size: 0.9rem;
+    padding: 0.5rem 0.8rem;
+  }
+
+  body {
+    padding-top: 130px; /* increase spacing for smaller screens */
+  }
+}
