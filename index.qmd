@@ -14,6 +14,38 @@ format:
   </video>
 </div>
 
+<div id="promoModal" class="modal">
+<div class="modal-content">
+<span class="close">&times;</span>
+<h2>New Product Alert</h2>
+<p>Our delicious <strong>Biscuits</strong> are now available!</p>
+<a href="order.qmd" class="order-btn">Order Now</a>
+</div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const modal = document.getElementById("promoModal");
+  const span = document.querySelector(".close");
+
+  // Show popup once per visitor
+  if (localStorage.getItem("promoClosed") !== "true") {
+    modal.style.display = "flex";
+  }
+
+  span.onclick = () => {
+    modal.style.display = "none";
+    localStorage.setItem("promoClosed", "true");
+  };
+
+  window.onclick = (event) => {
+    if (event.target === modal) {
+      modal.style.display = "none";
+      localStorage.setItem("promoClosed", "true");
+    }
+  };
+});
+</script>
 
 <div class="content-strip">
 ![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}

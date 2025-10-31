@@ -1,0 +1,105 @@
+---
+title: "Buttrig-blättrige American Biscuits – Flaky Pies Zürich"
+description: "Blättrige, buttrige American-Style Biscuits – außen goldbraun, innen weich und zart. Perfekt mit Konfitüre, Honig oder Gravy – frisch gebacken in Zürich."
+keywords: [
+  "American Biscuits Zürich",
+  "buttrige Biscuits Schweiz",
+  "hausgemachte Biscuits Wallisellen",
+  "südamerikanische Biscuits Zürich",
+  "Frühstück Biscuits Zürich",
+  "frisch gebackenes Gebäck Schweiz"
+]
+toc: false
+format:
+  html:
+    css: styles.css
+    raw-html: true 
+---
+<!-- Desktop background video -->
+<div class="background-video-container">
+  <video autoplay muted loop playsinline>
+    <source src="../Backgroundrotating.mp4" type="video/mp4">
+  </video>
+</div>
+
+# American Biscuits
+
+<div class="pie-layout">
+
+<img src="images/american_biscuits_zurich.jpeg"
+       alt="American Biscuits in Zürich – homemade and freshly baked"
+       class="pie-photo" loading="lazy">
+
+<div class="pie-text">
+<p>
+      Blättrig, buttrig und goldbraun – unsere American-Style Biscuits sind außen knusprig, innen weich und zart. Erhältlich in <strong>Klassisch</strong>, <strong>Cheddar & Schnittlauch</strong> oder <strong>Blaubeere</strong>. Frisch gebacken in Zürich.
+</p>
+<ul>
+<li><strong>Sizes:</strong> 12 biscuits</li>
+<ul>
+<li>Classic: 30 CHF</li>
+<li>Cheddar & Schnittlauch: 34 CHF</li>
+<li>Blaubeere: 34 CHF</li>
+</ul>
+<li><strong>Lead time:</strong> 24 hours pre-order</li>
+<li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
+</ul>
+<div class="nav-button">
+  <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
+</div>
+</div>
+
+</div>
+
+
+
+<div class="content-overlay">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Bakery",
+  "name": "Flaky",
+  "image": "https://yourdomain.com/logo_website.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Zürich",
+    "addressCountry": "CH"
+  },
+  "servesCuisine": "American desserts",
+  "url": "https://yourdomain.com",
+  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, and pecan pie."
+}
+</script>
+
+
+<div class="language-switch">
+  <a href="../american_biscuits_zurich.html">English</a> |
+  <a href="american_biscuits_zurich.html">Deutsch</a>
+</div>
+
+
+
+<div class="footer-heart">
+  <i class="fas fa-heart"></i>
+</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // collapse the menu
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>

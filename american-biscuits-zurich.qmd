@@ -1,0 +1,100 @@
+---
+title: "Buttery Flaky American Biscuits – Flaky Pies Zürich"
+description: "Flaky, buttery American-style biscuits — golden on the outside, soft and tender within. Perfect with jam, honey, or gravy, freshly baked in Zürich."
+keywords: [
+  "American biscuits Zürich",
+  "buttery biscuits Switzerland",
+  "homemade biscuits Wallisellen",
+  "Southern-style biscuits Zurich",
+  "breakfast biscuits Zurich",
+  "fresh baked goods Switzerland"
+]
+---
+<!-- Desktop background video -->
+<div class="background-video-container">
+  <video autoplay muted loop playsinline>
+    <source src="../Backgroundrotating.mp4" type="video/mp4">
+  </video>
+</div>
+
+# American Biscuits
+
+<div class="pie-layout">
+
+<img src="images/american_biscuits_zurich.jpeg"
+       alt="American Biscuits in Zürich – homemade and freshly baked"
+       class="pie-photo" loading="lazy">
+
+<div class="pie-text">
+<p>
+      Flaky, buttery American biscuits — golden and tender, in classic, cheddar & chive, or blueberry. Baked fresh in Zürich.
+</p>
+<ul>
+<li><strong>Sizes:</strong> 12 biscuits</li>
+<ul>
+<li>Classic: 30 CHF</li>
+<li>Cheddar and chives: 34 CHF</li>
+<li>Blueberries: 34 CHF</li>
+</ul>
+<li><strong>Lead time:</strong> 24 hours pre-order</li>
+<li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
+</ul>
+<div class="nav-button">
+  <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
+</div>
+</div>
+
+</div>
+
+
+
+<div class="content-overlay">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Bakery",
+  "name": "Flaky",
+  "image": "https://yourdomain.com/logo_website.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Zürich",
+    "addressCountry": "CH"
+  },
+  "servesCuisine": "American desserts",
+  "url": "https://yourdomain.com",
+  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, and pecan pie."
+}
+</script>
+
+
+<div class="language-switch">
+  <a href="american_biscuits_zurich.html">English</a> |
+  <a href="de/american_biscuits_zurich.html">Deutsch</a>
+</div>
+
+
+
+<div class="footer-heart">
+  <i class="fas fa-heart"></i>
+</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // collapse the menu
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>
