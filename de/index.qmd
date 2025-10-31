@@ -1,12 +1,13 @@
 ---
-title: "Hausgemachte American-style Pies & Sweets in Zürich – Abholung & Lieferung"
-description: "Bestelle Apfel-, Pekan-, Kürbispies und mehr in Zürich. Frisch, hausgemacht. Abholung in Wallisellen, Lieferung in der Stadt."
+title: "Hausgemachte amerikanische Pies & Süssigkeiten in Zürich – Abholung & Lieferung"
+description: "Bestellen Sie Apfel-, Pekan-, Kürbispies und mehr in Zürich. Frisch und hausgemacht. Abholung in Wallisellen, Lieferung in der Stadt."
 toc: false
 format:
   html:
     css: styles.css
     raw-html: true 
 ---
+
 <!-- Desktop background video -->
 <div class="background-video-container">
   <video autoplay muted loop playsinline>
@@ -14,120 +15,177 @@ format:
   </video>
 </div>
 
+<div id="promoModal" class="modal">
+<div class="modal-content">
+<span class="close">&times;</span>
+<h2>Neu im Sortiment!</h2>
+<p>Unsere köstlichen <strong>Biscuits</strong> sind jetzt erhältlich!</p>
+<a href="order.qmd" class="order-btn">Jetzt bestellen</a>
+</div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const modal = document.getElementById("promoModal");
+  const span = document.querySelector(".close");
+
+  if (localStorage.getItem("promoClosed") !== "true") {
+    modal.style.display = "flex";
+  }
+
+  span.onclick = () => {
+    modal.style.display = "none";
+    localStorage.setItem("promoClosed", "true");
+  };
+
+  window.onclick = (event) => {
+    if (event.target === modal) {
+      modal.style.display = "none";
+      localStorage.setItem("promoClosed", "true");
+    }
+  };
+});
+</script>
 
 <div class="content-strip">
-![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style Pie Bäckerei in Zürich, Schweiz"}
+![](logo_website.png){fig-align="center" width="642" alt="Flaky — Amerikanische Pie-Bäckerei in Zürich, Schweiz"}
 
-Flaky ist eine kleine, gemütliche Hausbäckerei in der Region Zürich und backt **American-style Pies und Sweets** – von buttrigen, knusprigen Böden bis zu zähen, süßen Rice Krispie Treats. Alles wird von Hand mit hochwertigen Schweizer Zutaten gemacht. **Bestelle online** zur **Abholung in Wallisellen** oder für die **Lieferung in Zürich**. Saisonale Favoriten sind Pumpkin, Pecan, Apple & Key Lime.
+Flaky ist eine kleine, gemütliche **Hausbäckerei im Raum Zürich**, spezialisiert auf **amerikanische Pies und Süssigkeiten** – von buttrig-blättrigen Teigen bis zu zähen, süssen Rice Krispies Treats.  
+Alles wird **von Hand und mit hochwertigen Schweizer Zutaten** hergestellt.  
+**Online bestellen** für **Abholung in Wallisellen** oder **Lieferung innerhalb Zürichs**.  
+Zu den saisonalen Favoriten gehören Kürbis-, Pekan-, Apfel- und Key-Lime-Pies.
 
 <div class="content-overlay">
 
-
 # Produkte {#products}
 
-**Amerikanische Sweets sind pure Freude** – einfach, ehrlich und voller Geschmack. Der feine Geschmack von Buttermilch und Frischkäse, die Süße von Ahornsirup und all diese buttrige Herrlichkeit … sie erinnern mich sofort an meine Kindheit. Es geht nicht um Perfektion – es geht um **Wärme, Freude und das Gefühl von Zuhause.**
+**Amerikanische Desserts bedeuten pures Glück** – einfach, ehrlich und voller Geschmack.  
+Der herbe Geschmack von Buttermilch und Frischkäse, die Süsse von Ahornsirup, all diese buttrige Köstlichkeit ... sie bringen mich direkt zurück in meine Kindheit.  
+Es geht nicht um Perfektion – sondern um **Wärme, Freude und das Gefühl von Zuhause.**
 
-Und Pies? Die **Knusprigkeit eines Pie-Bodens**, kombiniert mit einer cremigen Füllung oder duftenden Früchten, ist einfach Glück pur.
+Und Pies? Der **blättrige Teig** kombiniert mit einer cremigen oder fruchtigen Füllung ist einfach purer Genuss.
 
-Jeder Pie und jedes Dessert wird **frisch auf Bestellung gebacken** – ich backe nur nach Reservierung, damit jedes Stück die Zeit und Aufmerksamkeit bekommt, die es verdient. Ob du etwas Klassisches suchst oder eine neue Variante ausprobieren willst – **ich backe es mit Liebe, nur für dich.**
+Jeder Pie und jedes Gebäck wird **frisch auf Bestellung gebacken** – ich backe nur nach Vorbestellung, damit jedes Stück die Zeit und Aufmerksamkeit bekommt, die es verdient.  
+Egal, ob Sie etwas Vertrautes suchen oder Lust auf eine neue Variante eines Klassikers haben – **ich backe mit Liebe, nur für Sie.**
 
 ## Flaky Pies
 
-<div class="gallery">
+<div class="pie-list">
 
-  <!-- Cinnamon Apple Crumble Pie -->
-<div class="polaroid">
-<a class="polaroid-title" href="cinnamon-apple-crumble-pie-zurich.html">
-<h3>Cinnamon Apple Crumble Pie</h3>
+<div class="pie-item">
+<a href="cinnamon-apple-crumble-pie-zurich.html" class="pie-image">
+<img src="images/apple-pie-thanksgiving-zurich.jpeg" 
+           alt="Apfel-Streusel-Pie in Zürich" loading="lazy">
 </a>
-<a class="polaroid-media" href="cinnamon-apple-crumble-pie-zurich.html">
-<img src="images/apple-pie-thanksgiving-zurich.jpeg"
-           alt="Cinnamon Apple Crumble Pie in Zürich" loading="lazy">
+<div class="pie-info">
+<a href="cinnamon-apple-crumble-pie-zurich.html">
+<h4>Apfel-Streusel-Pie mit Zimt</h4>
 </a>
-<p class="polaroid-desc"><br>Würzige Äpfel mit Zimt unter einer goldbraunen, buttrigen Streuselschicht.</p>
+<p>Wärmende, gewürzte Äpfel unter einer buttrigen Streuseldecke.</p>
+</div>
 </div>
 
-  <!-- Blueberry Maple Chess Pie -->
-<div class="polaroid">
-<a class="polaroid-title" href="blueberry-maple-chess-pie-zurich.html">
-<h3>Blueberry Maple Chess Pie</h3>
-</a>
-<a class="polaroid-media" href="blueberry-maple-chess-pie-zurich.html">
+<div class="pie-item">
+<a href="blueberry-maple-chess-pie-zurich.html" class="pie-image">
 <img src="images/Maple-chess-pie-thanksgiving-zurich.jpg"
-           alt="Blueberry Maple Chess Pie in Zürich" loading="lazy">
+           alt="Blaubeer-Ahorn-Chess-Pie in Zürich" loading="lazy">
 </a>
-<p class="polaroid-desc"><br>Wie ein Stück Pancake mit Ahornsirup – süß, cremig und perfekt.</p>
+<div class="pie-info">
+<a href="blueberry-maple-chess-pie-zurich.html">
+<h4>Blaubeer-Ahorn-Chess-Pie</h4>
+</a>
+<p>Der Geschmack eines Pfannkuchens mit Ahornsirup – in einem Stück Pie.</p>
+</div>
 </div>
 
-  <!-- Chocolat-y Pecan Pie -->
-<div class="polaroid">
-<a class="polaroid-title" href="pecan-pie-zurich.html">
-<h3>Schokoladiger Pecan<br>Pie</h3>
-</a>
-<a class="polaroid-media" href="pecan-pie-zurich.html">
+<div class="pie-item">
+<a href="pecan-pie-zurich.html" class="pie-image">
 <img src="images/Pecan-Pie-thanksgiving-Zurich.jpeg"
-           alt="Schokoladiger Pecan Pie in Zürich" loading="lazy">
+           alt="Schokoladen-Pekan-Pie in Zürich" loading="lazy">
 </a>
-<p class="polaroid-desc"><br>Dunkle Schokolade trifft auf geröstete Pekannüsse – mit einem Hauch Salz.</p>
+<div class="pie-info">
+<a href="pecan-pie-zurich.html">
+<h4>Schokoladen-Pekan-Pie</h4>
+</a>
+<p>Die Fülle dunkler Schokolade mit gerösteten Pekannüssen und einer Prise Salz.</p>
+</div>
 </div>
 
 </div>
 
 ## Saisonale Pies
 
-<div class="gallery">
+<div class="pie-list">
 
-  <!-- Pumpkin Pie -->
-<div class="polaroid">
-<a class="polaroid-title" href="pumpkin-pie-thanksgiving-zurich.html">
-<h3>Pumpkin Pie</h3>
-</a>
-<a class="polaroid-media" href="pumpkin-pie-thanksgiving-zurich.html">
+<div class="pie-item">
+<a href="pumpkin-pie-thanksgiving-zurich.html" class="pie-image">
 <img src="images/pumpkin-pie-thanksgiving-zurich2.jpeg"
-           alt="Pumpkin Pie in Zürich" loading="lazy">
+           alt="Kürbis-Pie in Zürich" loading="lazy">
 </a>
-<p class="polaroid-desc"><br>Cremige, gewürzte Kürbisfüllung in einem knusprigen Boden – Herbst auf einem Teller.</p>
+<div class="pie-info">
+<a href="pumpkin-pie-thanksgiving-zurich.html">
+<h4>Kürbis-Pie</h4>
+</a>
+<p>Cremige, gewürzte Kürbisfüllung in einem knusprigen, blättrigen Teig – der Geschmack des Herbstes.</p>
 </div>
 </div>
 
-## Treats & Mehr
+</div>
 
-<div class="gallery">
+## Süsses & Herzhaftes
 
-  <!-- Sesame Rice Krispies Treats -->
-<div class="polaroid">
-<a class="polaroid-title" href="rice-krispies-treats-zurich.html">
-<h3>Sesame Rice Krispies Treats</h3>
-</a>
-<a class="polaroid-media" href="rice-krispies-treats-zurich.html">
+<div class="pie-list">
+
+<div class="pie-item">
+<a href="rice-krispies-treats-zurich.html" class="pie-image">
 <img src="images/Sesame-Rice-Krispies-Treats.jpg"
-           alt="Sesame Rice Krispies Treats in Zürich" loading="lazy">
+           alt="Sesam-Rice-Krispies-Treats in Zürich" loading="lazy">
 </a>
-<p class="polaroid-desc"><br>Klebrig-süße Riegel mit einem nussigen Sesam-Twist.</p>
+<div class="pie-info">
+<a href="rice-krispies-treats-zurich.html">
+<h4>Sesam Rice Krispies Treats</h4>
+</a>
+<p>Klebrig-süsse, knusprige Riegel mit einer feinen Sesamnote.</p>
+</div>
 </div>
 
-  <!-- Bell Pepper and Feta Cornbread -->
-<div class="polaroid">
-<a class="polaroid-title" href="cornbread-zurich.html">
-<h3>Paprika-Feta-Cornbread</h3>
-</a>
-<a class="polaroid-media" href="cornbread-zurich.html">
+<div class="pie-item">
+<a href="cornbread-zurich.html" class="pie-image">
 <img src="images/Cornbread-zurich.jpeg"
-           alt="Paprika-Feta-Cornbread" loading="lazy">
+           alt="Maisbrot mit Paprika und Feta" loading="lazy">
 </a>
-<p class="polaroid-desc"><br>Herzhaft-süßes Cornbread mit cremigem Feta und gerösteten Peperoni.</p>
+<div class="pie-info">
+<a href="cornbread-zurich.html">
+<h4>Maisbrot mit Paprika und Feta</h4>
+</a>
+<p>Herzhaft-süsses Maisbrot mit cremiger Paprika und würzigem Feta.</p>
+</div>
 </div>
 
-  <!-- Custom order -->
-<div class="polaroid">
-<a class="polaroid-title" href="custom-pie-cake-zurich.html">
-<h3>Individuelle<br>Bestellung</h3>
+<div class="pie-item">
+<a href="american-biscuits-zurich.html" class="pie-image">
+<img src="images/american_biscuits_zurich.jpeg"
+           alt="Amerikanische Biscuits in Zürich" loading="lazy">
 </a>
-<a class="polaroid-media" href="custom-pie-cake-zurich.html">
+<div class="pie-info">
+<a href="american-biscuits-zurich.html">
+<h4>Amerikanische Biscuits</h4>
+</a>
+<p>Klassisch, mit Cheddar & Schnittlauch oder mit Heidelbeeren – so luftig, so perfekt!</p>
+</div>
+</div>
+
+<div class="pie-item">
+<a href="custom-pie-cake-zurich.html" class="pie-image">
 <img src="images/Custom-order-cake-pie-zurich.jpeg"
-           alt="Individuelle Bestellung Pie oder Cake Zürich" loading="lazy">
+           alt="Individuelle Bestellung – Kuchen oder Pie in Zürich" loading="lazy">
 </a>
-<p class="polaroid-desc"><br>Egal ob eigener Pie-Geschmack, Mini-Treats oder Dessert für einen Anlass – ich backe’s für dich!</p>
+<div class="pie-info">
+<a href="custom-pie-cake-zurich.html">
+<h4>Individuelle Bestellung</h4>
+</a>
+<p>Egal ob ein persönlicher Pie-Geschmack, eine kleine Süssigkeit für Gäste oder ein Dessert für einen besonderen Anlass – ich mache es möglich!</p>
+</div>
 </div>
 
 </div>
@@ -138,12 +196,13 @@ Jeder Pie und jedes Dessert wird **frisch auf Bestellung gebacken** – ich back
 
 # Über mich {#about}
 
-Hi, ich bin Marianna 👋\
+Hallo, ich bin Marianna 👋  
 Forscherin von Beruf – und Konditorin aus Leidenschaft.
 
-Ich komme ursprünglich aus Italien, habe eine professionelle Pâtisserie-Ausbildung gemacht und bin 2016 in die Schweiz gezogen, um meine Forschungslaufbahn fortzusetzen. Schon als Kind habe ich viel Zeit in den USA verbracht – dort habe ich mich in amerikanische Pies, Cookies und alles Süße verliebt.
+Ursprünglich aus Italien, habe ich eine professionelle Pâtisserie-Ausbildung abgeschlossen, bevor ich 2016 in die Schweiz zog, um meine Forschungskarriere fortzusetzen.  
+Schon als Kind habe ich viel Zeit in den USA verbracht – dort habe ich meine Liebe zu amerikanischen Pies, Cookies und all den süssen Dingen entdeckt.  
 
-Jetzt, als frischgebackene Mama, habe ich meine kleine Hausbäckerei eröffnet – ein Ort, an dem ich meine Liebe zum Backen teilen kann, während ich Zeit mit meinem Baby verbringe.
+Jetzt, als frischgebackene Mutter, habe ich meine kleine Hausbäckerei eröffnet – einen Ort, an dem ich meine Leidenschaft fürs Backen teilen kann und gleichzeitig wertvolle Zeit mit meinem Baby verbringe.
 
 <script type="application/ld+json">
 {
@@ -158,52 +217,16 @@ Jetzt, als frischgebackene Mama, habe ich meine kleine Hausbäckerei eröffnet �
   },
   "servesCuisine": "Amerikanische Desserts",
   "url": "https://yourdomain.com",
-  "description": "Flaky ist eine kleine, hausbasierte Bäckerei in Zürich, die handgemachte amerikanische Pies wie Pumpkin Pie, Cinnamon Apple Crumble und Pecan Pie backt."
+  "description": "Flaky ist eine kleine Hausbäckerei in Zürich, spezialisiert auf hausgemachte amerikanische Pies wie Kürbis-, Apfel- und Pekan-Pie."
 }
 </script>
-
-<div class="social-center">
-  <h3 class="social-heading">Folge mir auf Instagram!</h3>
-  <a href="https://www.instagram.com/flakypieshop" target="_blank" class="social-link">
-    <i class="fab fa-instagram"></i>
-  </a>
-</div>
-
-
 
 <div class="language-switch">
   <a href="../index.html">English</a> |
   <a href="index.html">Deutsch</a>
 </div>
 
-
-
 <div class="footer-heart">
   <i class="fas fa-heart"></i>
 </div>
-
-
-<footer class="site-footer">
-  <p>
-    Psst... diese Website habe ich selbst mit Quarto programmiert – den Code findest du
-    <a href="https://github.com/MariannaRosso/flakypieshop" target="_blank">hier</a>.
-  </p>
-</footer>
 </div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
-  const navbarCollapse = document.querySelector('.navbar-collapse');
-
-  navLinks.forEach(function(link) {
-    link.addEventListener('click', function() {
-      if (navbarCollapse.classList.contains('show')) {
-        // Menü einklappen
-        const collapse = new bootstrap.Collapse(navbarCollapse);
-        collapse.hide();
-      }
-    });
-  });
-});
-</script>

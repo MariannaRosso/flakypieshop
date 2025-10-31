@@ -219,48 +219,73 @@ form button[type="submit"]:hover { background-color: #a8486d; }
 
 
 /* =====================================================
-   🌸 GALLERY & POLAROID CARDS
+   🌸 HORIZONTAL CARD STYLE
 ===================================================== */
 
-/* Gallery container */
-.gallery {
+/* Clean horizontal pie layout */
+.pie-list {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: left;
-  gap: 1.5rem;
+  flex-direction: column;
+  gap: 1.8rem;
   margin: 2rem 0;
 }
 
-/* Polaroid card */
-.polaroid {
+.pie-item {
+  display: flex;
+  align-items: flex-start;
   background: #fff8f9;
-  padding: 0.5rem 0.75rem 0.8rem;
-  border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(119, 42, 80, 0.2);
-  max-width: 220px;
-  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(119, 42, 80, 0.15);
+  overflow: hidden;
   transition: transform 0.2s ease;
-}
-.polaroid:hover { transform: translateY(-5px); }
-
-.polaroid img,
-.polaroid video {
+  max-width: 900px;
   width: 100%;
-  border-radius: 4px;
+  margin: 0 auto;
+}
+
+
+.pie-image img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
   display: block;
-  margin: 0 0 0.35rem !important;
 }
 
-.polaroid-title h3 { margin-bottom: 0.9rem; }
+.pie-info {
+  padding: 1rem;
+  text-align: left;
+  flex: 1;
+}
 
-.polaroid .caption,
-.polaroid .polaroid-desc {
-  background-color: transparent !important;
-  font-size: 0.95rem;
+.pie-info h3 {
+  font-family: 'Lobster Two', cursive;
+  font-size: 1.6rem;
+  color: #a03c74;
+  margin-bottom: 0.5rem;
+}
+
+.pie-info p {
   color: #632543;
-  font-weight: 500;
-  margin-top: 0.5rem;
+  font-size: 1rem;
+  margin: 0;
 }
+
+/* Make it responsive */
+@media (max-width: 768px) {
+  .pie-item {
+    flex-direction: column;
+  }
+
+  .pie-image img {
+    width: 100%;
+  }
+
+  .pie-info {
+    text-align: center;
+    padding: 1rem;
+  }
+}
+
 
 /* Responsive grid (2-column layout on mobile) */
 /* MOBILE: one card per row; inside the card = 2 columns */
@@ -712,7 +737,7 @@ body {
   width: 80%;
   max-width: 400px;
   text-align: center;
-  font-family: "Poppins", sans-serif;
+  font-family: "Dosis", sans-serif;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
   animation: popIn 0.4s ease;
   position: relative;
