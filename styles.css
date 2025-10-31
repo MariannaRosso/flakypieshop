@@ -156,6 +156,29 @@ h1, h2 {
 }
 .menu-list .price { white-space: nowrap; }
 
+.menu-list .sub-item {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;          /* slightly smaller than main items */
+  margin: 0.2rem 1rem 0.2rem 2rem;  /* adds left indentation */
+  color: #5a1a3c;           /* optional: slightly darker tone */
+}
+
+/* Keep dotted line consistent but narrower if you want */
+.menu-list .sub-item .dots {
+  flex: 1;
+  border-bottom: 1px dotted #e5a6c5;
+  margin: 0 8px;
+}
+
+/* Optional subtle accent for sub-item prices */
+.menu-list .sub-item .price {
+  color: #7a3050;
+}
+
+.menu-list .sub-item:last-of-type {
+  margin-bottom: 4rem;  /* adjust as needed (1rem ≈ 16px) */
+}
 
 /* =====================================================
    🌸 FORMS
