@@ -26,10 +26,19 @@ format:
   <h3>Seasonal Pies</h3>
   <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
 
-  <h3>Treats & More</h3>
-  <p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 22</span></p>
-  <p><span class="item">Bell Pepper and Feta Cornbread</span><span class="dots"></span><span class="price">CHF 22</span></p>
-  <p><span class="item">Custom Order</span><span class="dots"></span><span class="price">on request</span></p>
+<h3>Treats & More</h3>
+
+<p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 22</span></p>
+<p><span class="item">Bell Pepper and Feta Cornbread</span><span class="dots"></span><span class="price">CHF 22</span></p>
+
+<!-- Group title for Biscuits -->
+<p class="item-group">Biscuits:</p>
+<p class="sub-item"><span class="item">   Classic</span><span class="dots"></span><span class="price">CHF 30</span></p>
+<p class="sub-item"><span class="item">   Cheddar & Chive</span><span class="dots"></span><span class="price">CHF 34</span></p>
+<p class="sub-item"><span class="item">   Blueberry</span><span class="dots"></span><span class="price">CHF 34</span></p>
+
+<p><span class="item">Custom Order</span><span class="dots"></span><span class="price">on request</span></p>
+
 
 </div>
 
@@ -75,6 +84,7 @@ Because every pie and dessert is made from scratch — from resting the dough to
       <option value="Seasonal Pie">Seasonal Pie</option>
       <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option>
       <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option>
+      <option value="Biscuits">Biscuits</option>
     </select>
 
     <label for="message">Comments / Special Requests </label>
