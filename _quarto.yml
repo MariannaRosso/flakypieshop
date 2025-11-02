@@ -35,7 +35,6 @@ metadata:
 format:
   html:
     include-after-body: footer.html
-    include-before-body: _includes/banner.html
     favicon: logo_square.png
     theme:
       - cosmo
