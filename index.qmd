@@ -1,12 +1,13 @@
 ---
 title: "Homemade American-style Pies and Treats in Zürich – Pickup & Delivery"
-description: "Order apple, pecan, pumpkin pies & more in Zürich. Fresh, homemade. Pickup in Wallisellen, delivery in the city."
+description: "Order apple, pecan, pumpkin pies & more in Zürich. Fresh, handmade. Pickup in Wallisellen, delivery in Zürich."
 toc: false
 format:
   html:
     css: styles.css
-    raw-html: true 
+    raw-html: true
 ---
+
 <!-- Desktop background video -->
 <div class="background-video-container">
   <video autoplay muted loop playsinline>
@@ -14,14 +15,17 @@ format:
   </video>
 </div>
 
+<!-- INTRO PANEL (PINK BACKGROUND) -->
 <div class="content-strip">
-![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich, Switzerland"}
+
+![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich"}
 
 Flaky is a cozy home-based microbakery in the Zürich area making **American-style pies and treats**—from buttery, flaky crusts to chewy and sweet rice krispie treats. Everything is handmade with high-quality Swiss ingredients. **Order online** for **pickup in Wallisellen** or **delivery across Zürich**. Seasonal favorites include pumpkin, pecan, apple & key lime.
 
+</div> <!-- end content-strip -->
 
+<!-- MAIN CONTENT AREA -->
 <div class="content-overlay">
-
 
 # Products {#products}
 
@@ -29,140 +33,128 @@ Flaky is a cozy home-based microbakery in the Zürich area making **American-sty
 
 And pies? The **flakiness of a pie crust** combined with a sweet and creamy filling or a fragrant fruit is just joy.
 
-Every pie and treat is **baked fresh to order** — I only bake after a reservation, so each creation gets the care and time it deserves. Whether you’re craving something familiar or want to try a new twist on a classic, **I’ll bake it with love — just for you.**
+Every pie and treat is **baked fresh to order** — I only bake after a reservation, so each creation gets the care and time it deserves. Whether you’re craving something familiar or want to try a new twist on a classic, I’ll bake it with love — just for you.
 
-## Flaky Pies
+# Flaky Pies {#flaky-pies}
+
+<!-- WHITE BACKGROUND SECTION -->
+<section id="pie-section">
 
 <div class="gallery">
-
 <div class="pie-list">
 
+<!-- Apple Crumble Pie -->
 <div class="pie-item">
 <a href="cinnamon-apple-crumble-pie-zurich.html" class="pie-image">
 <img src="images/apple-pie-thanksgiving-zurich.jpeg" 
-           alt="Cinnamon Apple Crumble Pie in Zürich" loading="lazy">
+         alt="Cinnamon Apple Crumble Pie in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="cinnamon-apple-crumble-pie-zurich.html">
-<h4>Cinnamon Apple Crumble Pie</h3>
-</a>
+<a href="cinnamon-apple-crumble-pie-zurich.html"><h4>Cinnamon Apple Crumble Pie</h4></a>
 <p>Cozy spiced apples tucked under a buttery crumble.</p>
 </div>
 </div>
 
-  <!-- Blueberry Maple Chess Pie -->
+<!-- Blueberry Maple Chess Pie -->
 <div class="pie-item">
 <a href="blueberry-maple-chess-pie-zurich.html" class="pie-image">
 <img src="images/Maple-chess-pie-thanksgiving-zurich.jpg"
-           alt="Blueberry Maple Chess Pie in Zürich" loading="lazy">
+         alt="Blueberry Maple Chess Pie in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="blueberry-maple-chess-pie-zurich.html">
-<h4>Blueberry Maple Chess Pie</h3>
-</a>
+<a href="blueberry-maple-chess-pie-zurich.html"><h4>Blueberry Maple Chess Pie</h4></a>
 <p>The taste of a maple syrup soaked pancake in a slice.</p>
 </div>
 </div>
 
-  <!-- Chocolat-y Pecan Pie -->
+<!-- Chocolate Pecan Pie -->
 <div class="pie-item">
 <a href="pecan-pie-zurich.html" class="pie-image">
 <img src="images/Pecan-Pie-thanksgiving-Zurich.jpeg"
-           alt="Chocolate Pecan Pie in Zürich" loading="lazy">
+         alt="Chocolate Pecan Pie in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="pecan-pie-zurich.html">
-<h4>Chocolat-y Pecan Pie</h3>
-</a>
+<a href="pecan-pie-zurich.html"><h4>Chocolat-y Pecan Pie</h4></a>
 <p>The richness of dark chocolate with toasty pecans and a hint of salt.</p>
 </div>
 </div>
 
-</div>
+</div> <!-- end pie-list -->
+</div> <!-- end gallery -->
 
-## Seasonal Pies
+# Seasonal Pies {#seasonal-pies}
 
 <div class="pie-list">
 
-  <!-- Pumpkin Pie -->
+<!-- Pumpkin Pie -->
 <div class="pie-item">
 <a href="pumpkin-pie-thanksgiving-zurich.html" class="pie-image">
 <img src="images/pumpkin-pie-thanksgiving-zurich2.jpeg"
-           alt="Pumpkin Pie in Zürich" loading="lazy">
+         alt="Pumpkin Pie in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="pumpkin-pie-thanksgiving-zurich.html">
-<h4>Pumpkin Pie</h3>
-</a>
+<a href="pumpkin-pie-thanksgiving-zurich.html"><h4>Pumpkin Pie</h4></a>
 <p>Creamy spiced pumpkin custard in a crisp, flaky shell — fall in a slice.</p>
 </div>
 </div>
 
-</div>
+</div> <!-- end pie-list -->
 
-## Treats & More
+# Treats & More {#treats}
 
 <div class="pie-list">
 
-  <!-- Sesame Rice Krispies Treats -->
+<!-- Rice Krispies -->
 <div class="pie-item">
 <a href="rice-krispies-treats-zurich.html" class="pie-image">
 <img src="images/Sesame-Rice-Krispies-Treats.jpg"
-           alt="Sesame Rice Krispies Treats in Zürich" loading="lazy">
+         alt="Sesame Rice Krispies Treats in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="rice-krispies-treats-zurich.html">
-<h4>Sesame Rice Krispies Treats</h3>
-</a>
+<a href="rice-krispies-treats-zurich.html"><h4>Sesame Rice Krispies Treats</h4></a>
 <p>Chewy, toasty-sweet bars with a nutty sesame twist.</p>
 </div>
 </div>
 
-  <!-- Bell Pepper and Feta Cornbread -->
+<!-- Cornbread -->
 <div class="pie-item">
 <a href="cornbread-zurich.html" class="pie-image">
 <img src="images/Cornbread-zurich.jpeg"
-           alt="Bell Pepper and Feta Cornbread" loading="lazy">
+         alt="Bell Pepper and Feta Cornbread" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="cornbread-zurich.html">
-<h4>Bell Pepper and Feta Cornbread</h3>
-</a>
+<a href="cornbread-zurich.html"><h4>Bell Pepper and Feta Cornbread</h4></a>
 <p>Savory-sweet cornbread topped with creamy peppers and tangy feta.</p>
 </div>
 </div>
 
-  <!-- Biscuits -->
+<!-- Biscuits -->
 <div class="pie-item">
 <a href="american-biscuits-zurich.html" class="pie-image">
 <img src="images/american_biscuits_zurich.jpeg"
-           alt="American biscuits zurich" loading="lazy">
+         alt="American biscuits in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="american-biscuits-zurich.html">
-<h4>American Biscuits</h3>
-</a>
-<p>Classic, Cheddar & Chive, or Blueberry — so flaky and tender, so perfect!</p>
+<a href="american-biscuits-zurich.html"><h4>American Biscuits</h4></a>
+<p>Classic, Cheddar & Chive, or Blueberry — so flaky and tender!</p>
 </div>
 </div>
 
-  <!-- Custom order -->
+<!-- Custom Order -->
 <div class="pie-item">
 <a href="custom-pie-cake-zurich.html" class="pie-image">
 <img src="images/Custom-order-cake-pie-zurich.jpeg"
-           alt="Custom order cake pie zurich" loading="lazy">
+         alt="Custom order desserts Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="custom-pie-cake-zurich.html">
-<h4>Custom Order</h3>
-</a>
-<p>Whether it’s a personalized pie flavor, a batch of mini treats, or a dessert for a special occasion, I got you!</p>
+<a href="custom-pie-cake-zurich.html"><h4>Custom Order</h4></a>
+<p>Special flavors, mini treats, occasion pies — I’ll bake your idea with love!</p>
 </div>
 </div>
 
-</div>
+</div> <!-- end pie-list -->
 
-
+</section> <!-- END PIE SECTION (white background) -->
 
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Prices and Order</a>
@@ -170,10 +162,10 @@ Every pie and treat is **baked fresh to order** — I only bake after a reservat
 
 # About {#about}
 
-Hi, I’m Marianna 👋\
+Hi, I’m Marianna 👋  
 I’m a researcher by profession — and a pastry chef by heart.
 
-Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016 to pursue my research career. Growing up, I spent much of my childhood travelling through the USA, where I fell in love with flaky American pies, cookies, and all things sweet.
+Originally from Italy, I trained and became certified in professional pastry before moving to Switzerland in 2016. Growing up, I spent much of my childhood travelling through the USA, where I fell in love with flaky American pies and treats.
 
 Now, as a new mom, I’ve opened a small microbakery from my home — a space where I can share my love for pastry while spending precious time with my baby.
 
@@ -190,7 +182,7 @@ Now, as a new mom, I’ve opened a small microbakery from my home — a space wh
   },
   "servesCuisine": "American desserts",
   "url": "https://yourdomain.com",
-  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, and pecan pie."
+  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies."
 }
 </script>
 
@@ -199,13 +191,14 @@ Now, as a new mom, I’ve opened a small microbakery from my home — a space wh
   <a href="de/index.html">Deutsch</a>
 </div>
 
-
 <div class="footer-heart">
   <i class="fas fa-heart"></i>
 </div>
 
-</div>
+</div> <!-- end content-overlay -->
 
+
+<!-- NAV COLLAPSE FIX -->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
@@ -214,7 +207,6 @@ document.addEventListener("DOMContentLoaded", function() {
   navLinks.forEach(function(link) {
     link.addEventListener('click', function() {
       if (navbarCollapse.classList.contains('show')) {
-        // collapse the menu
         const collapse = new bootstrap.Collapse(navbarCollapse);
         collapse.hide();
       }
