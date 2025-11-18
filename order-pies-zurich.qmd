@@ -93,9 +93,8 @@ Because every pie and dessert is made from scratch — from resting the dough to
     <!-- FormSubmit settings -->
     <input type="hidden" name="_subject" value="New Pie Order!">
     <input type="hidden" name="_captcha" value="false"> 
-    <input type="hidden" name="_next" value="https://go.twint.ch/1/e/tw?tw=acq.3_c1SNfiSS-B5d-2BwbZ6T9wdfDUjM0zELAG3fX2GOkZ15HE9xwiJojnzzCM0_oD.&trxInfo=PieOrder">
 
 
-    <button type="submit">Pay with Twint</button>
+    <button type="submit">Submit Order</button>
   </form>
 </section>
