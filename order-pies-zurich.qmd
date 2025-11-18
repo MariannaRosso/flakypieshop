@@ -60,10 +60,10 @@ Because every pie and dessert is made from scratch — from resting the dough to
     
     <!-- Basic info -->
     <label for="name">Name</label>
-    <input type="text" id="name" name="name" required>
+    <input type="text" id="name" name="name" placeholder="required" required>
 
     <label for="email">Email</label>
-    <input type="email" id="email" name="email" required>
+    <input type="email" id="email" name="email" placeholder="required" required>
 
     <label for="phone">Phone Number</label>
     <input 
