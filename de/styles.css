@@ -712,7 +712,7 @@ form button[type="submit"]:hover { background-color: #a8486d; }
 /* 🌸 Announcement Banner (fixed below navbar) */
 .announcement-banner {
   position: fixed;
-  top: 40px; /* Adjust based on your navbar height */
+  top: 120px; /* Adjust based on your navbar height */
   left: 0;
   width: 100%;
   background-color: #f9acc2;
@@ -742,6 +742,18 @@ body {
   body {
     padding-top: 130px; /* increase spacing for smaller screens */
   }
+}
+
+/* Typewriter cursor */
+.typewriter-cursor {
+  border-right: 2px solid #772a50;
+  padding-right: 4px;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  0%, 100% { border-color: transparent; }
+  50% { border-color: #772a50; }
 }
 
 
@@ -802,4 +814,28 @@ body {
 @keyframes popIn {
   from { transform: scale(0.8); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
+}
+
+
+.banner {
+  width: 100%;
+  padding: 40px 20px;
+  text-align: center;
+  background: #111;
+  color: white;
+  font-family: "Fira Sans", sans-serif;
+}
+
+#typewriter {
+  font-size: 2.2rem;
+  font-weight: 600;
+  border-right: 3px solid white;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: blink 0.7s step-end infinite;
+}
+
+@keyframes blink {
+  0%, 100% { border-color: transparent; }
+  50% { border-color: white; }
 }
