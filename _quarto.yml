@@ -33,8 +33,11 @@ metadata:
   description: "Home-based microbakery in Zürich selling homemade American pies & treats. Pickup & delivery."
 
 format:
-  html:
-    include-after-body: footer.html
+  html: 
+    include-before-body: _includes/banner.html
+    include-after-body: 
+    - footer.html
+    
     favicon: logo_square.png
     theme:
       - cosmo

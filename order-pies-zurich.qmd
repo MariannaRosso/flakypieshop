@@ -88,7 +88,7 @@ Because every pie and dessert is made from scratch — from resting the dough to
     </select>
 
     <label for="message">Comments / Special Requests </label>
-    <textarea id="message" name="message" rows="4"></textarea>
+    <textarea id="message" name="message" rows="4" placeholder="Please note: Reservations are closed for November"></textarea>
 
     <!-- FormSubmit settings -->
     <input type="hidden" name="_subject" value="New Pie Order!">
@@ -98,3 +98,28 @@ Because every pie and dessert is made from scratch — from resting the dough to
     <button type="submit">Submit Order</button>
   </form>
 </section>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const text = "Reservations are closed for November - Happy Thanksgiving!";
+  const target = document.getElementById("announcement-text");
+
+  if (!target) {
+    console.error("announcement-text element not found!");
+    return;
+  }
+
+  let i = 0;
+  function typeWriter() {
+    if (i < text.length) {
+      target.textContent += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 50);
+    }
+  }
+
+  typeWriter();
+});
+</script>

@@ -112,6 +112,9 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<div id="announcement-banner" class="announcement-banner">
+  <span id="announcement-text"></span>
+</div>
 
 
 
@@ -183,7 +186,7 @@ Biscuits:
 <!-- Order details -->
 <p><label for="product">What would you like?</label> <select id="product" name="product" required=""> <option value="Cinnamon Apple Pie">Cinnamon Apple Pie</option> <option value="Sweet Potato Casserole Pie">Sweet Potato Casserole Pie</option> <option value="Chocolat-y Pecan Pie">Chocolat-y Pecan Pie</option> <option value="Seasonal Pie">Seasonal Pie</option> <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option> <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option> <option value="Biscuits">Biscuits</option> </select></p>
 <label for="message">Comments / Special Requests </label>
-<textarea id="message" name="message" rows="4"></textarea>
+<textarea id="message" name="message" rows="4" placeholder="Please note: Reservations are closed for November"></textarea>
 <!-- FormSubmit settings -->
 <p><input type="hidden" name="_subject" value="New Pie Order!"> <input type="hidden" name="_captcha" value="false"></p>
 <button type="submit">
@@ -191,6 +194,29 @@ Submit Order
 </button>
 </form>
 </section>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const text = "Reservations are closed for November - Happy Thanksgiving!";
+  const target = document.getElementById("announcement-text");
+
+  if (!target) {
+    console.error("announcement-text element not found!");
+    return;
+  }
+
+  let i = 0;
+  function typeWriter() {
+    if (i < text.length) {
+      target.textContent += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 50);
+    }
+  }
+
+  typeWriter();
+});
+</script>
 
 
 </section>
