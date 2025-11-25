@@ -103,7 +103,7 @@ Because every pie and dessert is made from scratch — from resting the dough to
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 
-  const text = "Reservations are closed for November - Happy Thanksgiving!";
+  const text = "Reservations are closed for November - Come visit us at Brupbimarkt, Nov 29th 9am to 1pm!";
   const target = document.getElementById("announcement-text");
 
   if (!target) {
