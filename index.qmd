@@ -215,27 +215,3 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-  const text = "Reservations are closed for November - Come visit us at Brupbimarkt, Nov 29th 9am to 1pm!";
-  const target = document.getElementById("announcement-text");
-
-  if (!target) {
-    console.error("announcement-text element not found!");
-    return;
-  }
-
-  let i = 0;
-  function typeWriter() {
-    if (i < text.length) {
-      target.textContent += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 50);
-    }
-  }
-
-  typeWriter();
-});
-</script>

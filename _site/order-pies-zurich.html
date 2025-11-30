@@ -112,9 +112,6 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
-<div id="announcement-banner" class="announcement-banner">
-  <span id="announcement-text"></span>
-</div>
 
 
 
@@ -176,53 +173,13 @@ Biscuits:
 <h2 class="anchored" data-anchor-id="how-it-works">How it works</h2>
 <p>Every pie is handmade with love, crafted with care, and baked using only high-quality Swiss ingredients. Each pie is about 24 cm in diameter and serves 6–10 people — depending, of course, on how generous the slices are.</p>
 <p>Orders can be picked up in Wallisellen. Because every pie and dessert is made from scratch — from resting the dough to letting the filling set — please allow at least 3 days’ notice for your order.</p>
-<p><strong>Please note:</strong> the order will be initialised only when payment has been done. If you’d like a custom order or have troubles with the payment with Twint, please contact me directly at <a href="mailto:hello@flakypieshop.com">hello@flakypieshop.com</a></p>
-<section id="order">
-<form action="https://formsubmit.co/marianna.rosso3@gmail.com" method="POST" target="_blank">
-<!-- Basic info -->
-<p><label for="name">Name</label> <input type="text" id="name" name="name" placeholder="required" required=""></p>
-<p><label for="email">Email</label> <input type="email" id="email" name="email" placeholder="required" required=""></p>
-<p><label for="phone">Phone Number</label> <input type="tel" id="phone" name="phone" pattern="[0-9+\s()-]{6,}" placeholder="+41 79 123 45 67" required=""></p>
-<!-- Order details -->
-<p><label for="product">What would you like?</label> <select id="product" name="product" required=""> <option value="Cinnamon Apple Pie">Cinnamon Apple Pie</option> <option value="Sweet Potato Casserole Pie">Sweet Potato Casserole Pie</option> <option value="Chocolat-y Pecan Pie">Chocolat-y Pecan Pie</option> <option value="Seasonal Pie">Seasonal Pie</option> <option value="Sesame Rice Krispies Treats">Sesame Rice Krispies Treats</option> <option value="Cornbread with Bell Pepper Cream and Feta">Cornbread with Bell Pepper Cream and Feta</option> <option value="Biscuits">Biscuits</option> </select></p>
-<label for="message">Comments / Special Requests </label>
-<textarea id="message" name="message" rows="4" placeholder="Please note: Reservations are closed for November"></textarea>
-<!-- FormSubmit settings -->
-<p><input type="hidden" name="_subject" value="New Pie Order!"> <input type="hidden" name="_captcha" value="false"></p>
-<button type="submit">
-Submit Order
-</button>
-</form>
-</section>
+<p><strong>Please note:</strong> the order will be initialised only when payment has been done. For any inquiries, contact me directly at <a href="mailto:hello@flakypieshop.com">hello@flakypieshop.com</a></p>
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/marianna-rosso3/pie-order?text_color=843657&amp;primary_color=f9acc2" style="min-width:320px;height:700px;">
+<div class="calendly-inline-widget" data-url="https://calendly.com/marianna-rosso3/pie-order?text_color=691e42&amp;primary_color=e11979" style="min-width:320px;height:1100px;">
 
 </div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async=""></script>
 <!-- Calendly inline widget end -->
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-  const text = "Reservations are closed for November - Come visit us at Brupbimarkt, Nov 29th 9am to 1pm!";
-  const target = document.getElementById("announcement-text");
-
-  if (!target) {
-    console.error("announcement-text element not found!");
-    return;
-  }
-
-  let i = 0;
-  function typeWriter() {
-    if (i < text.length) {
-      target.textContent += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 50);
-    }
-  }
-
-  typeWriter();
-});
-</script>
 
 
 </section>
