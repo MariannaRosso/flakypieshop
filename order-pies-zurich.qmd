@@ -46,8 +46,7 @@ format:
 Every pie is handmade with love, crafted with care, and baked using only high-quality Swiss ingredients.
 Each pie is about 24 cm in diameter and serves 6–10 people — depending, of course, on how generous the slices are.
 
-Orders can be picked up in Wallisellen, or delivery within the Zürich area may be arranged.
-Because every pie and dessert is made from scratch — from resting the dough to letting the filling set — please allow at least 3 days’ notice for your order.
+Orders can be picked up in Wallisellen. Because every pie and dessert is made from scratch — from resting the dough to letting the filling set — please allow at least 3 days’ notice for your order.
 
 **Please note:** the order will be initialised only when payment has been done. If you'd like a custom order or have troubles with the payment with Twint, please contact me directly at <a href="mailto:hello@flakypieshop.com">hello@flakypieshop.com</a>
 
@@ -98,6 +97,7 @@ Because every pie and dessert is made from scratch — from resting the dough to
     <button type="submit">Submit Order</button>
   </form>
 </section>
+
 
 
 <script>

@@ -1,6 +1,6 @@
 ---
-title: "Homemade American-style Pies and Treats in Zürich – Pickup & Delivery"
-description: "Order apple, pecan, pumpkin pies & more in Zürich. Fresh, handmade. Pickup in Wallisellen, delivery in Zürich."
+title: "Homemade American-style Pies and Treats in Zürich – Pickup in Wallisellen"
+description: "Order apple, pecan, pumpkin pies & more in Zürich. Fresh, handmade. Pickup in Wallisellen."
 toc: false
 format:
   html:
@@ -20,7 +20,7 @@ format:
 
 ![](logo_website.png){fig-align="center" width="642" alt="Flaky — American-style pie bakery in Zürich"}
 
-Flaky is a cozy home-based microbakery in the Zürich area making **American-style pies and treats**—from buttery, flaky crusts to chewy and sweet rice krispie treats. Everything is handmade with high-quality Swiss ingredients. **Order online** for **pickup in Wallisellen** or **delivery across Zürich**. Seasonal favorites include pumpkin, pecan, apple & key lime.
+Flaky is a cozy home-based microbakery in the Zürich area making **American-style pies and treats**—from buttery, flaky crusts to chewy and sweet rice krispie treats. Everything is handmade with high-quality Swiss ingredients. **Order online** for **pickup in Wallisellen**. Seasonal favorites include pumpkin, pecan, apple & key lime.
 
 </div> <!-- end content-strip -->
 

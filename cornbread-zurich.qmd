@@ -31,7 +31,6 @@ format:
 <ul>
 <li><strong>Sizes:</strong> 24 cm (22 CHF)</li>
 <li><strong>Lead time:</strong> 48 hours pre-order</li>
-<li><strong>Pickup:</strong> Wallisellen • <strong>Delivery:</strong> Zürich (+8 CHF)</li>
 </ul>
 <div class="nav-button">
   <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
