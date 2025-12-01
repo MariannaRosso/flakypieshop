@@ -88,13 +88,13 @@ Every pie and treat is **baked fresh to order** — I only bake after a reservat
 
 <!-- Pumpkin Pie -->
 <div class="pie-item">
-<a href="pumpkin-pie-thanksgiving-zurich.html" class="pie-image">
-<img src="images/pumpkin-pie-thanksgiving-zurich2.jpeg"
-         alt="Pumpkin Pie in Zürich" loading="lazy">
+<a href="Christmas.html" class="pie-image">
+<img src="logo_xmas.png"
+         alt="Christmas Pie in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="pumpkin-pie-thanksgiving-zurich.html"><h4>Pumpkin Pie</h4></a>
-<p>Creamy spiced pumpkin custard in a crisp, flaky shell — fall in a slice.</p>
+<a href="Christmas.html"><h4>Christmas Pie</h4></a>
+<p>Coming soon.</p>
 </div>
 </div>
 

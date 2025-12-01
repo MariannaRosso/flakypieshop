@@ -814,3 +814,15 @@ body {
   0%, 100% { border-color: transparent; }
   50% { border-color: #772a50; }
 }
+
+/* Christmas tab – always red */
+.navbar .navbar-nav .nav-link[href*="Christmas"] {
+  color: #e11919 !important;     /* normal state */
+}
+
+/* Keep it red on hover / focus / when it's the current page */
+.navbar .navbar-nav .nav-link[href*="Christmas"]:hover,
+.navbar .navbar-nav .nav-link[href*="Christmas"]:focus,
+.navbar .navbar-nav .nav-link[href*="Christmas"].active {
+  color: #e11919 !important;
+}

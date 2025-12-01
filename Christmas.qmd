@@ -1,0 +1,35 @@
+---
+title: "Chocolat-y Pecan Pie – Flaky Pies Zürich"
+description: "Dark chocolate and toasted pecans baked in a flaky crust. Rich flavor, not too sweet — a house favorite."
+keywords: ["pecan pie Zürich", "chocolate pecan pie", "Flaky Pie Shop", "American pie Zürich", "Wallisellen bakery"]
+toc: false
+format:
+  html:
+    css: styles.css
+    raw-html: true 
+---
+<!-- Desktop background video -->
+<div class="background-video-container">
+  <video autoplay muted loop playsinline>
+    <source src="../Backgroundrotating.mp4" type="video/mp4">
+  </video>
+</div>
+
+# Christmas Pie coming soon 
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // collapse the menu
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>

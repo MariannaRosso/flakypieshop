@@ -43,13 +43,105 @@ format:
 </div>
 
 ## How it works
-Every pie is handmade with love, crafted with care, and baked using only high-quality Swiss ingredients.
-Each pie is about 24 cm in diameter and serves 6–10 people — depending, of course, on how generous the slices are.
 
-Orders can be picked up in Wallisellen. Because every pie and dessert is made from scratch — from resting the dough to letting the filling set — please allow at least 3 days’ notice for your order.
+🧁 Every pie is handmade with high-quality Swiss ingredients.<br>
+📏 Size: approx. 24 cm in diameter, serving 6–10 people.<br>
+📍 Pickup in Wallisellen.<br>
+⏰ Please order at least 3 days in advance so everything can be made from scratch. <br>
+💳 Your order is confirmed only after payment is received.<br>
+✉️ Questions? Email me at <a href="mailto:hello@flakypieshop.com">hello@flakypieshop.com</a>.
 
-**Please note:** the order will be initialised only when payment has been done. For any inquiries, contact me directly at <a href="mailto:hello@flakypieshop.com">hello@flakypieshop.com</a>
+<button class="date-help-button" type="button"
+        onclick="document.getElementById('date-help-modal').style.display='flex'">
+  Not available on your desired date?
+</button>
 
+<div id="date-help-modal" class="date-help-modal-overlay"
+     onclick="if (event.target === this) this.style.display='none'">
+<div class="date-help-modal-content">
+<button class="date-help-modal-close" type="button"
+            onclick="document.getElementById('date-help-modal').style.display='none'">
+      &times;
+</button>
+<h3>Can't find your perfect date?</h3>
+<p>🧁 I currently bake from <strong>Thursday to Sunday</strong>.</p>
+<p>
+      If the calendar doesn’t show your ideal day, please contact me directly –
+      I can often bake your pie earlier and vacuum seal it for you.
+</p>
+<ul>
+<li>🥶 Keeps up to <strong>3 days</strong> in the fridge</li>
+<li>❄️ Keeps up to <strong>3 months</strong> in the freezer</li>
+<li>😋 It will be just as delicious after reheating</li>
+</ul>
+<p>
+      ✉️ Email me at
+<a href="mailto:hello@flakypieshop.com">hello@flakypieshop.com</a>
+      and we’ll find a solution.
+</p>
+</div>
+</div>
+
+<style>
+  .date-help-button {
+    margin-top: 1rem;
+    padding: 0.6rem 1rem;
+    border-radius: 999px;
+    border: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    background: #ce4f81;
+    color: #fff;
+  }
+
+  .date-help-button:hover {
+    opacity: 0.9;
+  }
+
+  .date-help-modal-overlay {
+    display: none; /* shown via JS */
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 9999;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+
+  .date-help-modal-content {
+    background: #ffffff;
+    max-width: 420px;
+    width: 100%;
+    padding: 1.5rem 1.75rem;
+    border-radius: 1rem;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+    position: relative;
+    font-size: 0.95rem;
+  }
+
+  .date-help-modal-close {
+    position: absolute;
+    top: 0.7rem;
+    right: 0.7rem;
+    border: none;
+    background: transparent;
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  .date-help-modal-content ul {
+    padding-left: 1.2rem;
+    margin: 0.5rem 0 1rem;
+  }
+
+  @media (max-width: 600px) {
+    .date-help-modal-content {
+      padding: 1.25rem 1.25rem;
+    }
+  }
+</style>
 
 <!-- Calendly inline widget begin -->
 <div
