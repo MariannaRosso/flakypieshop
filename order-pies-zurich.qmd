@@ -24,7 +24,7 @@ format:
 
 
   <h3>Seasonal Pies</h3>
-  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
+  <p><span class="item">Christmas Pie</span><span class="dots"></span><span class="price">Coming soon</span></p>
 
 <h3>Treats & More</h3>
 
@@ -72,7 +72,7 @@ format:
 <ul>
 <li>🥶 Keeps up to <strong>3 days</strong> in the fridge</li>
 <li>❄️ Keeps up to <strong>3 months</strong> in the freezer</li>
-<li>😋 It will be just as delicious after reheating</li>
+<li>😋 It will be just as delicious afterwards</li>
 </ul>
 <p>
       ✉️ Email me at
