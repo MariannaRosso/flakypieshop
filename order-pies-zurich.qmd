@@ -19,11 +19,11 @@ format:
 
   <h3>Flaky Pies</h3>
   <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
-  <p><span class="item">Blueberry Maple Chess Pie</span><span class="dots"></span><span class="price">CHF 45</span></p>
   <p><span class="item">Chocolat-y Pecan Pie</span><span class="dots"></span><span class="price">CHF 48</span></p>
 
 
   <h3>Seasonal Pies</h3>
+  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">42 CHF</span></p>
   <p><span class="item">Christmas Pie</span><span class="dots"></span><span class="price">Coming soon</span></p>
 
 <h3>Treats & More</h3>
