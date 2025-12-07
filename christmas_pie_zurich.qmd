@@ -1,0 +1,109 @@
+---
+title: "Biscoff Rum Lime Christmas Pie – Flaky Pies Zürich"
+description: "Buttery Biscoff crumbs, a gentle hint of rum, and bright lime in a flaky crust – a festive Christmas pie baked fresh in Zürich."
+keywords: ["Christmas pie Zürich", "Biscoff pie Zurich", "rum lime pie", "Flaky Pies Zürich", "American pie Zurich", "Wallisellen bakery", "speculoos pie Switzerland"]
+image: "images/biscoff-rum-lime-christmas-pie-zurich.jpeg"
+toc: false
+format:
+  html:
+    css: styles.css
+    raw-html: true 
+---
+<!-- Desktop background video -->
+<div class="background-video-container">
+  <video autoplay muted loop playsinline>
+    <source src="../Backgroundrotating.mp4" type="video/mp4">
+  </video>
+</div>
+
+# Biscoff Rum Lime Christmas Pie
+
+<div class="pie-layout">
+
+<img src="images/Biscoff_Rum_Lime_CheesecakePie_zurich.jpeg"
+       alt="Biscoff Rum Lime Christmas Pie in Zürich – handmade and freshly baked"
+       class="pie-photo" loading="lazy">
+
+<div class="pie-text">
+<p>
+      A Christmas pie with a twist: a creamy Biscoff filling with just enough rum and fresh lime glaze for brightness. Cozy, spiced, and just sweet enough – festive without being heavy, baked in Zürich with good ingredients and a lot of care.
+</p>
+<ul>
+<li><strong>Size:</strong> 24 cm (48 CHF)</li>
+<li><strong>Lead time:</strong> 72 hours pre-order</li>
+</ul>
+<div class="nav-button">
+  <a href="order-pies-zurich.qmd" class="btn-link">Order</a>
+</div>
+</div>
+
+</div>
+
+
+
+<div class="content-overlay">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Bakery",
+  "name": "Flaky",
+  "image": "https://yourdomain.com/logo_website.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Zürich",
+    "addressCountry": "CH"
+  },
+  "servesCuisine": "American desserts",
+  "url": "https://yourdomain.com",
+  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, pecan pie, and a seasonal Biscoff rum lime Christmas pie."
+}
+</script>
+
+<div class="language-switch">
+  <a href="christmas_pie_zurich.html">English</a> |
+  <a href="de/christmas_pie_zurich.html">Deutsch</a>
+</div>
+
+
+
+<div class="footer-heart">
+  <i class="fas fa-heart"></i>
+</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // collapse the menu
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // collapse the menu
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>

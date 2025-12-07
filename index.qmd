@@ -86,14 +86,14 @@ Every pie and treat is **baked fresh to order** — I only bake after a reservat
 </div>
 </div>
 
-<!-- Christmas Pie -->
+<!-- Biscoff -->
 <div class="pie-item">
-<a href="Christmas.html" class="pie-image">
-<img src="logo_xmas.png"
-         alt="Christmas Pie in Zürich" loading="lazy">
+<a href="christmas_pie_zurich.html" class="pie-image">
+<img src="images/Biscoff_Rum_Lime_CheesecakePie_zurich.jpeg"
+         alt="Christmas Biscoff Rum Lime Pie in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="Christmas.html"><h4>Christmas Pie</h4></a>
+<a href="Christmas.html"><h4>Biscoff Rum Lime Pie</h4></a>
 <p>Coming soon.</p>
 </div>
 </div>

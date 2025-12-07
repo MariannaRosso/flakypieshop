@@ -28,7 +28,7 @@ website:
         text: About
       - href: order-pies-zurich.qmd
         text: Order      
-      - href: Christmas.qmd
+      - href: christmas_pie_zurich.qmd
         text: Christmas
 metadata:
   lang: en

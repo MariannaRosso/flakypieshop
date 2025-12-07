@@ -1,0 +1,109 @@
+---
+title: "Biscoff-Rum-Limetten-Christmas-Pie – Flaky Pies Zürich"
+description: "Buttrige Biscoff-Keksbrösel, eine feine Rum-Note und frische Limette in einem blättrigen Boden – eine festliche Christmas Pie, frisch in Zürich gebacken."
+keywords: ["Christmas Pie Zürich", "Biscoff Pie Zürich", "Rum-Limetten-Pie", "Flaky Pies Zürich", "American Pie Zürich", "Bäckerei Wallisellen", "Spekulatius Pie Schweiz"]
+image: "images/biscoff-rum-lime-christmas-pie-zurich.jpeg"
+toc: false
+format:
+  html:
+    css: styles.css
+    raw-html: true 
+---
+<!-- Desktop background video -->
+<div class="background-video-container">
+  <video autoplay muted loop playsinline>
+    <source src="../Backgroundrotating.mp4" type="video/mp4">
+  </video>
+</div>
+
+# Biscoff-Rum-Limetten-Christmas-Pie
+
+<div class="pie-layout">
+
+<img src="images/Biscoff_Rum_Lime_CheesecakePie_zurich.jpeg"
+       alt="Biscoff-Rum-Limetten-Christmas-Pie in Zürich – handgemacht und frisch gebacken"
+       class="pie-photo" loading="lazy">
+
+<div class="pie-text">
+<p>
+      Eine Christmas Pie mit Twist: eine cremige Biscoff-Füllung mit genau der richtigen Menge Rum und einem frischen Limettenguss für die nötige Frische. Gemütlich, würzig und gerade süss genug – festlich, aber nicht schwer, in Zürich mit guten Zutaten und viel Sorgfalt gebacken.
+</p>
+<ul>
+<li><strong>Grösse:</strong> 24 cm (48 CHF)</li>
+<li><strong>Vorbestellzeit:</strong> 72 Stunden im Voraus</li>
+</ul>
+<div class="nav-button">
+  <a href="order-pies-zurich.qmd" class="btn-link">Bestellen</a>
+</div>
+</div>
+
+</div>
+
+
+
+<div class="content-overlay">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Bakery",
+  "name": "Flaky",
+  "image": "https://yourdomain.com/logo_website.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Zürich",
+    "addressCountry": "CH"
+  },
+  "servesCuisine": "American desserts",
+  "url": "https://yourdomain.com",
+  "description": "Flaky ist eine kleine Home-Microbakery in Zürich und backt von Hand amerikanische Pies wie Pumpkin Pie, Cinnamon Apple Crumble, Pecan Pie und eine saisonale Biscoff-Rum-Limetten-Christmas-Pie."
+}
+</script>
+
+<div class="language-switch">
+  <a href="../christmas_pie_zurich.html">English</a> |
+  <a href="christmas_pie_zurich.html">Deutsch</a>
+</div>
+
+
+
+<div class="footer-heart">
+  <i class="fas fa-heart"></i>
+</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // collapse the menu
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+  const navbarCollapse = document.querySelector('.navbar-collapse');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (navbarCollapse.classList.contains('show')) {
+        // collapse the menu
+        const collapse = new bootstrap.Collapse(navbarCollapse);
+        collapse.hide();
+      }
+    });
+  });
+});
+</script>
