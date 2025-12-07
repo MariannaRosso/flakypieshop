@@ -93,8 +93,8 @@ Every pie and treat is **baked fresh to order** — I only bake after a reservat
          alt="Christmas Biscoff Rum Lime Pie in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="Christmas.html"><h4>Biscoff Rum Lime Pie</h4></a>
-<p>Coming soon.</p>
+<a href="christmas_pie_zurich.html"><h4>Biscoff Rum Lime Christmas Pie</h4></a>
+<p>A creamy Biscoff filling with just enough rum and fresh lime glaze for brightness.</p>
 </div>
 </div>
 
