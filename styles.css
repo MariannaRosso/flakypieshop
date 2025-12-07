@@ -816,13 +816,13 @@ body {
 }
 
 /* Christmas tab – always red */
-.navbar .navbar-nav .nav-link[href*="Christmas"] {
+.navbar .navbar-nav .nav-link[href*="christmas_pie_zurich"] {
   color: #e11919 !important;     /* normal state */
 }
 
 /* Keep it red on hover / focus / when it's the current page */
-.navbar .navbar-nav .nav-link[href*="Christmas"]:hover,
-.navbar .navbar-nav .nav-link[href*="Christmas"]:focus,
-.navbar .navbar-nav .nav-link[href*="Christmas"].active {
+.navbar .navbar-nav .nav-link[href*="christmas_pie_zurich"]:hover,
+.navbar .navbar-nav .nav-link[href*="christmas_pie_zurich"]:focus,
+.navbar .navbar-nav .nav-link[href*="christmas_pie_zurich"].active {
   color: #e11919 !important;
 }
