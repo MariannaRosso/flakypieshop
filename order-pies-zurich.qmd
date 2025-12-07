@@ -24,7 +24,7 @@ format:
 
   <h3>Seasonal Pies</h3>
   <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">42 CHF</span></p>
-  <p><span class="item">Christmas Pie</span><span class="dots"></span><span class="price">Coming soon</span></p>
+  <p><span class="item">Biscoff Rum Lime Christmas Pie</span><span class="dots"></span><span class="price">48 CHF</span></p>
 
 <h3>Treats & More</h3>
 
