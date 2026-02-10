@@ -1,8 +1,8 @@
 ---
-title: "Biscoff Rum Lime Christmas Pie – Flaky Pies Zürich"
-description: "Buttery Biscoff crumbs, a gentle hint of rum, and bright lime in a flaky crust – a festive Christmas pie baked fresh in Zürich."
-keywords: ["Christmas pie Zürich", "Biscoff pie Zurich", "rum lime pie", "Flaky Pies Zürich", "American pie Zurich", "Wallisellen bakery", "speculoos pie Switzerland"]
-image: "images/biscoff-rum-lime-christmas-pie-zurich.jpeg"
+title: "Key Lime Pie – Flaky Pies Zürich"
+description: "Bright, tangy key lime filling with a buttery crumb crust – a fresh, classic American-style pie baked in Zürich."
+keywords: ["key lime pie Zürich", "key lime pie Zurich", "lime pie Switzerland", "Flaky Pies Zürich", "American pie Zurich", "Wallisellen bakery", "citrus pie Zürich"]
+image: "images/key-lime-pie-zurich.jpeg"
 toc: false
 format:
   html:
@@ -16,20 +16,20 @@ format:
   </video>
 </div>
 
-# Biscoff Rum Lime Christmas Pie
+# Key Lime Pie
 
 <div class="pie-layout">
 
-<img src="images/Biscoff_Rum_Lime_CheesecakePie_zurich.jpeg"
-       alt="Biscoff Rum Lime Christmas Pie in Zürich – handmade and freshly baked"
+<img src="images/key_lime_pie_order_zurich.png"
+       alt="Key Lime Pie in Zürich – handmade and freshly baked"
        class="pie-photo" loading="lazy">
 
 <div class="pie-text">
 <p>
-      A Christmas pie with a twist: a creamy Biscoff filling with just enough rum and fresh lime glaze for brightness. Cozy, spiced, and just sweet enough – festive without being heavy, baked in Zürich with good ingredients and a lot of care.
+      Bright, creamy, and refreshing: a classic key lime filling with a silky texture and just the right tang. Set in a buttery crumb crust and finished for that clean citrus snap – light, punchy, and perfect year-round, baked in Zürich with good ingredients and a lot of care.
 </p>
 <ul>
-<li><strong>Size:</strong> 24 cm (48 CHF)</li>
+<li><strong>Size:</strong> 24 cm (45 CHF)</li>
 <li><strong>Lead time:</strong> 72 hours pre-order</li>
 </ul>
 <div class="nav-button">
@@ -58,13 +58,13 @@ format:
   },
   "servesCuisine": "American desserts",
   "url": "https://yourdomain.com",
-  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as pumpkin pie, cinnamon apple crumble, pecan pie, and a seasonal Biscoff rum lime Christmas pie."
+  "description": "Flaky is a home-based microbakery in Zürich, baking handmade American-style pies such as key lime pie, pumpkin pie, cinnamon apple crumble, pecan pie, and other seasonal specials."
 }
 </script>
 
 <div class="language-switch">
-  <a href="christmas_pie_zurich.html">English</a> |
-  <a href="de/christmas_pie_zurich.html">Deutsch</a>
+  <a href="key_lime_pie_zurich.html">English</a> |
+  <a href="de/key_lime_pie_zurich.html">Deutsch</a>
 </div>
 
 

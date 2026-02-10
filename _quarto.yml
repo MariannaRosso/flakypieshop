@@ -28,8 +28,7 @@ website:
         text: About
       - href: order-pies-zurich.qmd
         text: Order      
-      - href: christmas_pie_zurich.qmd
-        text: Christmas
+
 metadata:
   lang: en
   description: "Home-based microbakery in Zürich selling homemade American pies & treats. Pickup & delivery."

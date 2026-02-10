@@ -17,25 +17,15 @@ format:
 
 <div class="menu-list">
 
-  <h3>Flaky Pies</h3>
   <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
   <p><span class="item">Chocolat-y Pecan Pie</span><span class="dots"></span><span class="price">CHF 48</span></p>
 
+  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
+  <p><span class="item">Key Lime Pie</span><span class="dots"></span><span class="price">CHF 45</span></p>
 
-  <h3>Seasonal Pies</h3>
-  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">42 CHF</span></p>
-  <p><span class="item">Biscoff Rum Lime Christmas Pie</span><span class="dots"></span><span class="price">48 CHF</span></p>
 
-<h3>Treats & More</h3>
-
-<p><span class="item">Sesame Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 22</span></p>
-<p><span class="item">Bell Pepper and Feta Cornbread</span><span class="dots"></span><span class="price">CHF 22</span></p>
-
-<!-- Group title for Biscuits -->
-<p class="item-group">Biscuits:</p>
-<p class="sub-item"><span class="item">   Classic</span><span class="dots"></span><span class="price">CHF 30</span></p>
-<p class="sub-item"><span class="item">   Cheddar & Chive</span><span class="dots"></span><span class="price">CHF 34</span></p>
-<p class="sub-item"><span class="item">   Blueberry</span><span class="dots"></span><span class="price">CHF 34</span></p>
+<p><span class="item">Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 22</span></p>
+<p><span class="item">Cornbread</span><span class="dots"></span><span class="price">CHF 22</span></p>
 
 <p><span class="item">Custom Order</span><span class="dots"></span><span class="price">on request</span></p>
 

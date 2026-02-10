@@ -35,7 +35,6 @@ And pies? The **flakiness of a pie crust** combined with a sweet and creamy fill
 
 Every pie and treat is **baked fresh to order** — I only bake after a reservation, so each creation gets the care and time it deserves. Whether you’re craving something familiar or want to try a new twist on a classic, I’ll bake it with love — just for you.
 
-# Flaky Pies {#flaky-pies}
 
 <!-- WHITE BACKGROUND SECTION -->
 <section id="pie-section">
@@ -70,7 +69,6 @@ Every pie and treat is **baked fresh to order** — I only bake after a reservat
 </div> <!-- end pie-list -->
 </div> <!-- end gallery -->
 
-# Seasonal Pies {#seasonal-pies}
 
 <div class="pie-list">
 
@@ -86,33 +84,32 @@ Every pie and treat is **baked fresh to order** — I only bake after a reservat
 </div>
 </div>
 
-<!-- Biscoff -->
+<!-- Key Lime -->
 <div class="pie-item">
-<a href="christmas_pie_zurich.html" class="pie-image">
-<img src="images/Biscoff_Rum_Lime_CheesecakePie_zurich.jpeg"
-         alt="Christmas Biscoff Rum Lime Pie in Zürich" loading="lazy">
+<a href="key_lime_pie_zurich.html" class="pie-image">
+<img src="images/key_lime_pie_order_zurich.png"
+         alt="Key Lime Pie in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="christmas_pie_zurich.html"><h4>Biscoff Rum Lime Christmas Pie</h4></a>
-<p>A creamy Biscoff filling with just enough rum and fresh lime glaze for brightness.</p>
+<a href="key_lime_pie_zurich.html"><h4>Key Lime Pie</h4></a>
+<p>A super tangy and velvety filling, with a biscuits crumble crust and sweet whipped cream.</p>
 </div>
 </div>
 
 </div> <!-- end pie-list -->
 
-# Treats & More {#treats}
 
 <div class="pie-list">
 
 <!-- Rice Krispies -->
 <div class="pie-item">
 <a href="rice-krispies-treats-zurich.html" class="pie-image">
-<img src="images/Sesame-Rice-Krispies-Treats.jpg"
-         alt="Sesame Rice Krispies Treats in Zürich" loading="lazy">
+<img src="images/rice_krispies_treats_stra_zurich.jpeg"
+         alt="Rice Krispies Treats in Zürich" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="rice-krispies-treats-zurich.html"><h4>Sesame Rice Krispies Treats</h4></a>
-<p>Chewy, toasty-sweet bars with a nutty sesame twist.</p>
+<a href="rice-krispies-treats-zurich.html"><h4>Rice Krispies Treats</h4></a>
+<p>The chewy treat that's nostalgic to everyone, flavoured of sesame, strawberry of chocolate</p>
 </div>
 </div>
 
@@ -120,23 +117,11 @@ Every pie and treat is **baked fresh to order** — I only bake after a reservat
 <div class="pie-item">
 <a href="cornbread-zurich.html" class="pie-image">
 <img src="images/Cornbread-zurich.jpeg"
-         alt="Bell Pepper and Feta Cornbread" loading="lazy">
+         alt="Cornbread" loading="lazy">
 </a>
 <div class="pie-info">
-<a href="cornbread-zurich.html"><h4>Bell Pepper and Feta Cornbread</h4></a>
-<p>Savory-sweet cornbread topped with creamy peppers and tangy feta.</p>
-</div>
-</div>
-
-<!-- Biscuits -->
-<div class="pie-item">
-<a href="american-biscuits-zurich.html" class="pie-image">
-<img src="images/american_biscuits_zurich.jpeg"
-         alt="American biscuits in Zürich" loading="lazy">
-</a>
-<div class="pie-info">
-<a href="american-biscuits-zurich.html"><h4>American Biscuits</h4></a>
-<p>Classic, Cheddar & Chive, or Blueberry — so flaky and tender!</p>
+<a href="cornbread-zurich.html"><h4>Cornbread</h4></a>
+<p>Sweet and savory, but certainly butter, cornbread. Classic or variations: belle pepper and feta or pumpkin!</p>
 </div>
 </div>
 
