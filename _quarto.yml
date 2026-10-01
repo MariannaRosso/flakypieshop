@@ -15,15 +15,6 @@ website:
         text: Home
       - href: index.qmd#products
         text: Products
-        menu:
-          - text: "Cinnamon Apple Crumble Pie"
-            href: cinnamon-apple-crumble-pie-zurich.qmd
-          - text: "Blueberry Maple Chess Pie"
-            href: blueberry-maple-chess-pie-zurich.qmd
-          - text: "Chocolat-y Pecan Pie"
-            href: pecan-pie-zurich.qmd
-          - text: "Pumpkin Pie"
-            href: pumpkin-pie-zurich.qmd
       - href: index.qmd#about
         text: About
       - href: order-pies-zurich.qmd
