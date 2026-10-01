@@ -62,13 +62,6 @@ format:
 </script>
 
 
-<div class="language-switch">
-  <a href="pecan-pie-zurich.html">English</a> |
-  <a href="de/pecan-pie-zurich.html">Deutsch</a>
-</div>
-
-
-
 <div class="footer-heart">
   <i class="fas fa-heart"></i>
 </div>

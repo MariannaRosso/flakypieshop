@@ -1,8 +1,11 @@
 ---
+title: "Order American-style Pies and Treats in Zürich – Pickup in Wallisellen"
+description: "Order apple, pecan, pumpkin pies & more in Zürich. Fresh, handmade. Pickup in Wallisellen."
 toc: false
-format: 
+format:
   html:
     css: styles.css
+    raw-html: true
 ---
 
 <div class="background-video-container">
@@ -17,16 +20,12 @@ format:
 
 <div class="menu-list">
 
-  <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
+  <p><span class="item">Cinnamon Apple Crumble Pie</span><span class="dots"></span><span class="price">CHF 45</span></p>
   <p><span class="item">Chocolat-y Pecan Pie</span><span class="dots"></span><span class="price">CHF 48</span></p>
 
-  <p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 42</span></p>
-  <p><span class="item">Key Lime Pie</span><span class="dots"></span><span class="price">CHF 45</span></p>
+<p><span class="item">Pumpkin Pie</span><span class="dots"></span><span class="price">CHF 45</span></p>
 
-
-<p><span class="item">Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 22</span></p>
-<p><span class="item">Cornbread</span><span class="dots"></span><span class="price">CHF 22</span></p>
-
+<p><span class="item">Rice Krispies Treats</span><span class="dots"></span><span class="price">CHF 25</span></p>
 <p><span class="item">Custom Order</span><span class="dots"></span><span class="price">on request</span></p>
 
 

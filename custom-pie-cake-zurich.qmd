@@ -61,14 +61,6 @@ format:
 }
 </script>
 
-
-<div class="language-switch">
-  <a href="custom-pie-cake-zurich.html">English</a> |
-  <a href="de/custom-pie-cake-zurich.html">Deutsch</a>
-</div>
-
-
-
 <div class="footer-heart">
   <i class="fas fa-heart"></i>
 </div>

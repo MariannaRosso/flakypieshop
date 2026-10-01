@@ -63,12 +63,6 @@ format:
 }
 </script>
 
-<div class="language-switch">
-  <a href="cinnamon-apple-crumble-pie-zurich.html">English</a> |
-  <a href="de/cinnamon-apple-crumble-pie-zurich.html">Deutsch</a>
-</div>
-
-
 
 <div class="footer-heart">
   <i class="fas fa-heart"></i>
